@@ -53856,6 +53856,9 @@
 	<programme channel="爱幼教" start="20240311043900 +0800" stop="20240311045600 +0800">
 		<title lang="zh">虹猫蓝兔勇者归来_03</title>
 	</programme>
+	<programme channel="爱幼教" start="20240311045600 +0800" stop="20240311050000 +0800">
+		<title lang="zh">实境之旅桂林</title>
+	</programme>
 	<channel id="爱悬疑">
 		<display-name lang="zh">爱悬疑</display-name>
 	</channel>
@@ -55674,6 +55677,45 @@
 	<programme channel="生活时尚" start="20240311235900 +0800" stop="20240311000000 +0800">
 		<title lang="zh">结束</title>
 	</programme>
+	<channel id="电竞天堂">
+		<display-name lang="zh">电竞天堂</display-name>
+	</channel>
+	<programme channel="电竞天堂" start="20240311000000 +0800" stop="20240311020000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311020000 +0800" stop="20240311040000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311040000 +0800" stop="20240311060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311060000 +0800" stop="20240311080000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311080000 +0800" stop="20240311100100 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311100100 +0800" stop="20240311120000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311120000 +0800" stop="20240311140000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311140000 +0800" stop="20240311160000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311160000 +0800" stop="20240311190000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311190000 +0800" stop="20240311200000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311200000 +0800" stop="20240311220000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240311220000 +0800" stop="20240311235900 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
 	<channel id="留学世界">
 		<display-name lang="zh">留学世界</display-name>
 	</channel>
@@ -57344,6 +57386,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240311041600 +0800" stop="20240311045800 +0800">
 		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
+	</programme>
+	<programme channel="纯享4K" start="20240311045800 +0800" stop="20240311050300 +0800">
+		<title lang="zh">美丽中国自然4K 高原神鹿系列 成长吧小鹿</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -67989,6 +68034,9 @@
 	<programme channel="黑莓动画" start="20240311042600 +0800" stop="20240311044800 +0800">
 		<title lang="zh">24_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240311044800 +0800" stop="20240311051300 +0800">
+		<title lang="zh">23_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69264,6 +69312,9 @@
 	<programme channel="newtv家庭剧场" start="20240311040200 +0800" stop="20240311044700 +0800">
 		<title lang="zh">17_猫冬</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240311044700 +0800" stop="20240311053200 +0800">
+		<title lang="zh">18_猫冬</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -69290,6 +69341,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240311041000 +0800" stop="20240311045100 +0800">
 		<title lang="zh">06_只想今生一起走</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240311045100 +0800" stop="20240311053000 +0800">
+		<title lang="zh">07_只想今生一起走</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -69410,6 +69464,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240311044300 +0800" stop="20240311044600 +0800">
 		<title lang="zh">青蛇-孙爱迪（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240311044900 +0800" stop="20240311053700 +0800">
+		<title lang="zh">《幸福账单》聚焦中华传统技艺 让您一次看个够（20231225）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
