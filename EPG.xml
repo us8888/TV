@@ -31332,6 +31332,9 @@
 	<programme channel="咪咕综合体育" start="20240320005800 +0800" stop="20240320022500 +0800">
 		<title lang="zh">国际雪联跳台滑雪世界杯四山锦标赛比绍夫斯霍芬站资格赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240320022500 +0800" stop="20240320025900 +0800">
+		<title lang="zh">2024WTT新加坡大满贯男单1/32决赛回放：Fb7勒布伦3-2松岛辉空（刘高阳）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -31340,6 +31343,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240320001600 +0800" stop="20240320022700 +0800">
 		<title lang="zh">2024赛季中超第2轮全场回放：沧州雄狮1:0成都蓉城（孙雨轩、冯潇霆）（50帧原画）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240320022700 +0800" stop="20240320043400 +0800">
+		<title lang="zh">2024赛季中甲第1轮全场回放：青岛红狮0:1大连英博（官方解说）</title>
 	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
@@ -61227,6 +61233,9 @@
 	<programme channel="纯享4K" start="20240320021000 +0800" stop="20240320024000 +0800">
 		<title lang="zh">村庄故事4K 寻根右龙</title>
 	</programme>
+	<programme channel="纯享4K" start="20240320024000 +0800" stop="20240320030900 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73872,11 +73881,17 @@
 	<programme channel="黑莓动画" start="20240320021300 +0800" stop="20240320023600 +0800">
 		<title lang="zh">06_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240320023600 +0800" stop="20240320030100 +0800">
+		<title lang="zh">05_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240320004700 +0800" stop="20240320024400 +0800">
 		<title lang="zh">盲女凶杀案</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240320024400 +0800" stop="20240320043200 +0800">
+		<title lang="zh">何日君再来</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -75189,6 +75204,9 @@
 	<programme channel="newtv超级体育" start="20240320010000 +0800" stop="20240320023100 +0800">
 		<title lang="zh">实况录像-2024年世界室内田径锦标赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240320023100 +0800" stop="20240320040000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/8决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75221,6 +75239,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240320013100 +0800" stop="20240320021600 +0800">
 		<title lang="zh">13_新万家灯火</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240320021600 +0800" stop="20240320030200 +0800">
+		<title lang="zh">14_新万家灯火</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75261,6 +75282,9 @@
 	<programme channel="newtv军旅剧场" start="20240320014400 +0800" stop="20240320023100 +0800">
 		<title lang="zh">30_红幡</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240320023100 +0800" stop="20240320031800 +0800">
+		<title lang="zh">31_红幡</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -75273,11 +75297,17 @@
 	<programme channel="newtv家庭剧场" start="20240320015600 +0800" stop="20240320024200 +0800">
 		<title lang="zh">18_好歹一家人</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240320024200 +0800" stop="20240320032700 +0800">
+		<title lang="zh">19_好歹一家人</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20240320010500 +0800" stop="20240320023700 +0800">
 		<title lang="zh">捍战2</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240320023700 +0800" stop="20240320040000 +0800">
+		<title lang="zh">07_漫长的季节</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -75356,6 +75386,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240320021300 +0800" stop="20240320022600 +0800">
 		<title lang="zh">过年啦-饶子龙</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240320022600 +0800" stop="20240320024000 +0800">
+		<title lang="zh">万里长城永不倒-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240320024000 +0800" stop="20240320025800 +0800">
+		<title lang="zh">东北的冬东北的情-李萍</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
