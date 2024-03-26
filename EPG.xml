@@ -56619,6 +56619,9 @@
 	<programme channel="纯享4K" start="20240327002900 +0800" stop="20240327005900 +0800">
 		<title lang="zh">记住乡愁4K第六季 第四十集 淮阳古城——羲皇故都 弦歌不辍</title>
 	</programme>
+	<programme channel="纯享4K" start="20240327005900 +0800" stop="20240327012900 +0800">
+		<title lang="zh">记住乡愁4K第七季 第一集 岳阳——湖湘古城 忧乐天下</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67653,6 +67656,12 @@
 	<programme channel="黑莓动画" start="20240327003500 +0800" stop="20240327010100 +0800">
 		<title lang="zh">07_一人之下第二季</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240327003300 +0800" stop="20240327020500 +0800">
+		<title lang="zh">SPEC完结篇：爻之篇</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -68430,6 +68439,9 @@
 	<programme channel="newtv超级体育" start="20240327001500 +0800" stop="20240327011300 +0800">
 		<title lang="zh">顶级赛事-围棋</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240327011300 +0800" stop="20240327023800 +0800">
+		<title lang="zh">实况录像-2024年世界室内田径锦标赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -68546,6 +68558,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20240327002200 +0800" stop="20240327004800 +0800">
 		<title lang="zh">空天勇士的极限考验</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240327004800 +0800" stop="20240327011300 +0800">
+		<title lang="zh">制胜沙场的火力铁拳</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
