@@ -9,6 +9,9 @@
 	<programme channel="4K综艺" start="20240401002800 +0800" stop="20240401015000 +0800">
 		<title lang="zh">花儿与少年第一季20140425</title>
 	</programme>
+	<programme channel="4K综艺" start="20240401015000 +0800" stop="20240401032000 +0800">
+		<title lang="zh">花儿与少年第一季20140502</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -58215,6 +58218,9 @@
 	<programme channel="纯享4K" start="20240401012000 +0800" stop="20240401020000 +0800">
 		<title lang="zh">探索b7发现4K 寻找霸陵（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240401020000 +0800" stop="20240401024900 +0800">
+		<title lang="zh">大数据时代4K 第4集 商业之变</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -68226,11 +68232,17 @@
 	<programme channel="黑莓动画" start="20240401014300 +0800" stop="20240401015200 +0800">
 		<title lang="zh">28_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240401015200 +0800" stop="20240401020300 +0800">
+		<title lang="zh">29_我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240401003300 +0800" stop="20240401020000 +0800">
 		<title lang="zh">危险孵化</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240401020000 +0800" stop="20240401031800 +0800">
+		<title lang="zh">法医秦明之血色婚礼</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -69042,6 +69054,9 @@
 	<programme channel="newtv军事评论" start="20240401012800 +0800" stop="20240401015300 +0800">
 		<title lang="zh">俄电子战系统让北约导弹“丢失目标”？北约鼓噪建立“军事申根区”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240401015300 +0800" stop="20240401021800 +0800">
+		<title lang="zh">朝鲜称卫星拍到五角大楼 美英被指曾阻挠俄乌和谈</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -69050,6 +69065,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240401014400 +0800" stop="20240401014700 +0800">
 		<title lang="zh">轻轻吻</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240401014900 +0800" stop="20240401020200 +0800">
+		<title lang="zh">荷塘月色-孙爱迪</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
