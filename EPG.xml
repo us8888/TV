@@ -72,6 +72,9 @@
 	<programme channel="4K综艺" start="20240404022300 +0800" stop="20240404030000 +0800">
 		<title lang="zh">重返地球20180316</title>
 	</programme>
+	<programme channel="4K综艺" start="20240404030000 +0800" stop="20240404033000 +0800">
+		<title lang="zh">重返地球20180323</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -56346,6 +56349,9 @@
 	<programme channel="纯享4K" start="20240404024100 +0800" stop="20240404031100 +0800">
 		<title lang="zh">信仰的感召4K 青年良师 萧楚女</title>
 	</programme>
+	<programme channel="纯享4K" start="20240404031100 +0800" stop="20240404034100 +0800">
+		<title lang="zh">信仰的感召4K 觉醒兄弟 陈延年 陈乔年</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66930,6 +66936,9 @@
 	<programme channel="黑莓动画" start="20240404023800 +0800" stop="20240404030100 +0800">
 		<title lang="zh">11_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240404030100 +0800" stop="20240404032500 +0800">
+		<title lang="zh">12_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67425,6 +67434,9 @@
 	<programme channel="newtv超级综艺" start="20240404020000 +0800" stop="20240404031700 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240404031700 +0800" stop="20240404052000 +0800">
+		<title lang="zh">首届青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -67433,6 +67445,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240404011900 +0800" stop="20240404025800 +0800">
 		<title lang="zh">实况录像 2023-24赛季法甲联赛第26轮：蒙彼利埃VS巴黎圣日耳曼</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240404025800 +0800" stop="20240404043700 +0800">
+		<title lang="zh">实况录像 2023-24赛季德甲第26轮：多特蒙德VS法兰克福</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -67461,6 +67476,9 @@
 	<programme channel="newtv超级电视剧" start="20240404021400 +0800" stop="20240404025800 +0800">
 		<title lang="zh">23_春光灿烂猪九妹</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240404025800 +0800" stop="20240404034200 +0800">
+		<title lang="zh">24_春光灿烂猪九妹</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -67475,6 +67493,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240404022300 +0800" stop="20240404031000 +0800">
 		<title lang="zh">59_隋唐英雄3</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240404031000 +0800" stop="20240404035700 +0800">
+		<title lang="zh">60_隋唐英雄3</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -67491,6 +67512,9 @@
 	<programme channel="newtv精品纪录" start="20240404021900 +0800" stop="20240404030800 +0800">
 		<title lang="zh">05_休戚与共</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240404030800 +0800" stop="20240404035700 +0800">
+		<title lang="zh">04_陆地的尽头</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -67505,6 +67529,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240404021900 +0800" stop="20240404030300 +0800">
 		<title lang="zh">28_天地民心</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240404030300 +0800" stop="20240404034800 +0800">
+		<title lang="zh">29_天地民心</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -67533,6 +67560,9 @@
 	<programme channel="newtv家庭剧场" start="20240404020600 +0800" stop="20240404025200 +0800">
 		<title lang="zh">35_钢的琴</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240404025200 +0800" stop="20240404033700 +0800">
+		<title lang="zh">36_钢的琴</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -67560,6 +67590,9 @@
 	<programme channel="newtv动作电影" start="20240404015800 +0800" stop="20240404030100 +0800">
 		<title lang="zh">蛇形行动</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240404030100 +0800" stop="20240404042500 +0800">
+		<title lang="zh">纵横千里之一发千钧</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -67584,6 +67617,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240404020500 +0800" stop="20240404025100 +0800">
 		<title lang="zh">17_家有喜妇（DVD版）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240404025100 +0800" stop="20240404033600 +0800">
+		<title lang="zh">18_家有喜妇（DVD版）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -67605,6 +67641,9 @@
 	<programme channel="newtv军事评论" start="20240404023600 +0800" stop="20240404030200 +0800">
 		<title lang="zh">以军或再扩大行动范围 俄成立“河军”守护第聂伯河 德国欲插手两场冲突？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240404030200 +0800" stop="20240404032700 +0800">
+		<title lang="zh">巴以临时停火协议正式生效 朝鲜成功发射侦察卫星</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -67619,6 +67658,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240404014800 +0800" stop="20240404024800 +0800">
 		<title lang="zh">2023多情的土地（20230406）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240404030000 +0800" stop="20240404030400 +0800">
+		<title lang="zh">我要去西藏-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240404031100 +0800" stop="20240404042800 +0800">
+		<title lang="zh">太原青年主动“破圈” 积极争取爱情（20240319）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -67706,6 +67751,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240404013400 +0800" stop="20240404025900 +0800">
 		<title lang="zh">新方世玉前传侠者无畏</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240404025900 +0800" stop="20240404042100 +0800">
+		<title lang="zh">天剑修仙传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
