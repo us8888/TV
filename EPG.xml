@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20240405005400 +0800" stop="20240405022700 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20200101</title>
 	</programme>
+	<programme channel="4K综艺" start="20240405022700 +0800" stop="20240405040200 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200108</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -67908,6 +67911,9 @@
 	<programme channel="黑莓动画" start="20240405015500 +0800" stop="20240405021800 +0800">
 		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240405021800 +0800" stop="20240405024200 +0800">
+		<title lang="zh">02_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68406,6 +68412,9 @@
 	<programme channel="newtv超级综艺" start="20240405012600 +0800" stop="20240405021600 +0800">
 		<title lang="zh">黄金100秒</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240405021600 +0800" stop="20240405033300 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -68414,6 +68423,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240405010500 +0800" stop="20240405023600 +0800">
 		<title lang="zh">实况录像-2024年世界花样滑冰锦标赛 女单自由滑</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240405023600 +0800" stop="20240405040000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -68435,6 +68447,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240405014100 +0800" stop="20240405022600 +0800">
 		<title lang="zh">27_春光灿烂猪九妹</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240405022600 +0800" stop="20240405031100 +0800">
+		<title lang="zh">28_春光灿烂猪九妹</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -68471,6 +68486,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240405014100 +0800" stop="20240405023000 +0800">
 		<title lang="zh">01_爱因斯坦与霍金 解锁宇宙</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240405023000 +0800" stop="20240405030800 +0800">
+		<title lang="zh">06_走进幕后</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -68520,6 +68538,9 @@
 	<programme channel="newtv家庭剧场" start="20240405014100 +0800" stop="20240405022600 +0800">
 		<title lang="zh">03_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240405022600 +0800" stop="20240405031100 +0800">
+		<title lang="zh">04_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -68537,6 +68558,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20240405004400 +0800" stop="20240405022200 +0800">
 		<title lang="zh">谁HOLD住谁</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240405022200 +0800" stop="20240405035700 +0800">
+		<title lang="zh">秋之白华</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -68645,6 +68669,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240405004700 +0800" stop="20240405022400 +0800">
 		<title lang="zh">2023-24赛季欧冠1/8决赛首回合：那不勒斯VS巴塞罗那</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240405022400 +0800" stop="20240405040300 +0800">
+		<title lang="zh">2023-24赛季欧冠1/8决赛首回合：波尔图VS阿森纳</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
