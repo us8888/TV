@@ -53349,6 +53349,9 @@
 	<programme channel="纯享4K" start="20240407005600 +0800" stop="20240407012600 +0800">
 		<title lang="zh">记住乡愁4K第七季 第二十五集 九江——九水汇一城（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240407012600 +0800" stop="20240407020600 +0800">
+		<title lang="zh">探索b7发现4K 草原太平公主之谜（3）盛世芳华</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64497,6 +64500,18 @@
 	<programme channel="黑莓动画" start="20240407010500 +0800" stop="20240407012600 +0800">
 		<title lang="zh">02_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240407012600 +0800" stop="20240407013600 +0800">
+		<title lang="zh">40_我靠充值当武帝</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240407014500 +0800" stop="20240407020800 +0800">
+		<title lang="zh">05_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240407012900 +0800" stop="20240407024100 +0800">
+		<title lang="zh">张震讲故事之洗脸女生的传说</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -64962,6 +64977,9 @@
 	<programme channel="newtv超级综艺" start="20240407004100 +0800" stop="20240407012500 +0800">
 		<title lang="zh">03_遍地书香</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240407012500 +0800" stop="20240407020800 +0800">
+		<title lang="zh">04_遍地书香</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -64986,6 +65004,9 @@
 	<programme channel="newtv超级电视剧" start="20240407011100 +0800" stop="20240407015300 +0800">
 		<title lang="zh">07_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240407015300 +0800" stop="20240407023400 +0800">
+		<title lang="zh">08_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -64994,6 +65015,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240407004700 +0800" stop="20240407013000 +0800">
 		<title lang="zh">08_旗袍美探</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240407013000 +0800" stop="20240407021400 +0800">
+		<title lang="zh">09_旗袍美探</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -65004,6 +65028,12 @@
 	<programme channel="newtv精品纪录" start="20240407005900 +0800" stop="20240407012600 +0800">
 		<title lang="zh">特级英雄 黄继光</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240407012600 +0800" stop="20240407015200 +0800">
+		<title lang="zh">以身许国 郭永怀</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240407015200 +0800" stop="20240407023500 +0800">
+		<title lang="zh">02_陨石之坑</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -65012,6 +65042,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240407011300 +0800" stop="20240407015800 +0800">
 		<title lang="zh">41_天地民心</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240407015800 +0800" stop="20240407024300 +0800">
+		<title lang="zh">42_天地民心</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -65022,6 +65055,9 @@
 	<programme channel="newtv军旅剧场" start="20240407010200 +0800" stop="20240407014800 +0800">
 		<title lang="zh">22_解放大西南</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240407014800 +0800" stop="20240407023300 +0800">
+		<title lang="zh">23_解放大西南</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -65030,6 +65066,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240407005000 +0800" stop="20240407013500 +0800">
 		<title lang="zh">12_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240407013500 +0800" stop="20240407022000 +0800">
+		<title lang="zh">13_儿女情更长</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -65048,6 +65087,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20240407003000 +0800" stop="20240407014500 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240407014500 +0800" stop="20240407031100 +0800">
+		<title lang="zh">永生之战</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -65079,11 +65121,20 @@
 	<programme channel="newtv军事评论" start="20240407011600 +0800" stop="20240407013800 +0800">
 		<title lang="zh">中国航天员（一）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240407020000 +0800" stop="20240407022200 +0800">
+		<title lang="zh">中国航天员（四）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20240407000700 +0800" stop="20240407012400 +0800">
 		<title lang="zh">天水麻辣烫你吃过了吗？小尼亲自鉴定：好吃！（20240401）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240407012900 +0800" stop="20240407014200 +0800">
+		<title lang="zh">荷塘月色-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240407014900 +0800" stop="20240407024900 +0800">
+		<title lang="zh">2023多情的土地（20230406）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -65102,6 +65153,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240407000400 +0800" stop="20240407020100 +0800">
 		<title lang="zh">offer尽调局</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240407020100 +0800" stop="20240407043500 +0800">
+		<title lang="zh">开门大吉（2022）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -65153,6 +65207,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20240407001300 +0800" stop="20240407013000 +0800">
 		<title lang="zh">大神猴1降妖篇</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240407013000 +0800" stop="20240407024100 +0800">
+		<title lang="zh">六扇门之血手奇谭</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
