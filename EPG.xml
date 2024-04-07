@@ -60570,6 +60570,9 @@
 	<programme channel="黑莓动画" start="20240408022600 +0800" stop="20240408025000 +0800">
 		<title lang="zh">08_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240408025000 +0800" stop="20240408031500 +0800">
+		<title lang="zh">07_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60975,6 +60978,9 @@
 	<programme channel="newtv超级综艺" start="20240408014500 +0800" stop="20240408030600 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240408030600 +0800" stop="20240408051100 +0800">
+		<title lang="zh">首届青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61056,6 +61062,9 @@
 	<programme channel="newtv古装剧场" start="20240408020600 +0800" stop="20240408025100 +0800">
 		<title lang="zh">47_天地民心</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240408025100 +0800" stop="20240408033600 +0800">
+		<title lang="zh">48_天地民心</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61092,6 +61101,9 @@
 	<programme channel="newtv热播精选" start="20240408005600 +0800" stop="20240408025000 +0800">
 		<title lang="zh">西风烈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240408025000 +0800" stop="20240408033100 +0800">
+		<title lang="zh">04_黄土高天</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61125,6 +61137,9 @@
 	<programme channel="newtv怡伴健康" start="20240408020400 +0800" stop="20240408025100 +0800">
 		<title lang="zh">14_极品妈妈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240408025100 +0800" stop="20240408033800 +0800">
+		<title lang="zh">15_极品妈妈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61133,6 +61148,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240408020200 +0800" stop="20240408024700 +0800">
 		<title lang="zh">41_家有喜妇（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240408024700 +0800" stop="20240408033200 +0800">
+		<title lang="zh">42_家有喜妇（DVD版）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61154,6 +61172,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240408022000 +0800" stop="20240408024600 +0800">
 		<title lang="zh">汽修老兵的装备乐园</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240408024600 +0800" stop="20240408031300 +0800">
+		<title lang="zh">直击“大洋黑洞” 上集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
