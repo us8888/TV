@@ -75000,6 +75000,9 @@
 	<programme channel="黑莓动画" start="20240408115400 +0800" stop="20240408120600 +0800">
 		<title lang="zh">百变布鲁可第4季第20集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240408120600 +0800" stop="20240408121900 +0800">
+		<title lang="zh">19_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76278,6 +76281,9 @@
 	<programme channel="newtv超级电影" start="20240408102200 +0800" stop="20240408120700 +0800">
 		<title lang="zh">三打三捷</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240408120700 +0800" stop="20240408121500 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -76461,6 +76467,9 @@
 	<programme channel="newtv精品纪录" start="20240408115100 +0800" stop="20240408121500 +0800">
 		<title lang="zh">06_李渔 芥子纳须弥，闲情阔天地</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240408121500 +0800" stop="20240408123900 +0800">
+		<title lang="zh">07_陆游 卷王美食诗人的养成之路</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76508,6 +76517,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240408111700 +0800" stop="20240408120500 +0800">
 		<title lang="zh">39_燕云台</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240408120500 +0800" stop="20240408125200 +0800">
+		<title lang="zh">40_燕云台</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76559,6 +76571,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240408112500 +0800" stop="20240408121100 +0800">
 		<title lang="zh">27_关中义事</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240408121100 +0800" stop="20240408125600 +0800">
+		<title lang="zh">28_关中义事</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -76833,6 +76848,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240408111500 +0800" stop="20240408120200 +0800">
 		<title lang="zh">66_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240408120200 +0800" stop="20240408125000 +0800">
+		<title lang="zh">舌尖上的中国 第二季</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -77070,6 +77088,12 @@
 	<programme channel="newtv金牌综艺" start="20240408085400 +0800" stop="20240408121400 +0800">
 		<title lang="zh">我们的歌第2季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240408121400 +0800" stop="20240408140500 +0800">
+		<title lang="zh">哈哈哈哈哈第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240408085400 +0800" stop="20240408121400 +0800">
+		<title lang="zh">我们的歌第2季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -77174,6 +77198,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240408111100 +0800" stop="20240408120700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240408120700 +0800" stop="20240408131500 +0800">
+		<title lang="zh">毒战生死线</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
