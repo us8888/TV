@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20240409021200 +0800" stop="20240409024400 +0800">
 		<title lang="zh">重返地球20180209</title>
 	</programme>
+	<programme channel="4K综艺" start="20240409024400 +0800" stop="20240409032000 +0800">
+		<title lang="zh">重返地球20180216</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -75909,6 +75912,9 @@
 	<programme channel="黑莓动画" start="20240409020200 +0800" stop="20240409022600 +0800">
 		<title lang="zh">09_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240409022600 +0800" stop="20240409024900 +0800">
+		<title lang="zh">10_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76581,6 +76587,9 @@
 	<programme channel="newtv超级电视剧" start="20240409015700 +0800" stop="20240409023900 +0800">
 		<title lang="zh">19_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240409023900 +0800" stop="20240409032000 +0800">
+		<title lang="zh">20_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -76605,6 +76614,9 @@
 	<programme channel="newtv精品纪录" start="20240409015600 +0800" stop="20240409023700 +0800">
 		<title lang="zh">04_巨兽之地</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240409023700 +0800" stop="20240409032500 +0800">
+		<title lang="zh">05_伊洛瓦底江三角洲 神奇红树林</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76616,6 +76628,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240409020000 +0800" stop="20240409024500 +0800">
 		<title lang="zh">52_天地民心</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240409024500 +0800" stop="20240409033000 +0800">
+		<title lang="zh">53_天地民心</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76641,6 +76656,9 @@
 	<programme channel="newtv家庭剧场" start="20240409013300 +0800" stop="20240409021800 +0800">
 		<title lang="zh">23_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240409021800 +0800" stop="20240409030400 +0800">
+		<title lang="zh">24_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -76653,11 +76671,17 @@
 	<programme channel="newtv爱情喜剧" start="20240409010800 +0800" stop="20240409024400 +0800">
 		<title lang="zh">新妈妈再爱我一次</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240409024400 +0800" stop="20240409040500 +0800">
+		<title lang="zh">翁婿之旅</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
 	<programme channel="newtv动作电影" start="20240409005400 +0800" stop="20240409022400 +0800">
 		<title lang="zh">蜀山之万剑封魔</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240409022400 +0800" stop="20240409034100 +0800">
+		<title lang="zh">幽灵毒枭</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -76670,6 +76694,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240409014000 +0800" stop="20240409022700 +0800">
 		<title lang="zh">17_极品妈妈</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240409022700 +0800" stop="20240409031300 +0800">
+		<title lang="zh">18_极品妈妈</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76704,6 +76731,9 @@
 	<programme channel="newtv炫舞未来" start="20240409014100 +0800" stop="20240409024100 +0800">
 		<title lang="zh">2023多情的土地（20230406）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240409024100 +0800" stop="20240409025000 +0800">
+		<title lang="zh">欢乐的歌儿唱起来-乌兰图雅（舞蹈展示+教学分解）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76733,6 +76763,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20240409003900 +0800" stop="20240409022300 +0800">
 		<title lang="zh">2023-24赛季英超联赛第18轮：托特纳姆VS埃弗顿</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240409022300 +0800" stop="20240409040200 +0800">
+		<title lang="zh">2023-24赛季意甲第26轮：莱切VS国际米兰</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
