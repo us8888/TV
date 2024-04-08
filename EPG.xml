@@ -63333,6 +63333,9 @@
 	<programme channel="纯享4K" start="20240408134300 +0800" stop="20240408141300 +0800">
 		<title lang="zh">村庄故事4K 田舍延祥（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240408141300 +0800" stop="20240408144300 +0800">
+		<title lang="zh">村庄故事4K 田舍延祥（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75045,6 +75048,9 @@
 	<programme channel="黑莓动画" start="20240408140000 +0800" stop="20240408140300 +0800">
 		<title lang="zh">91_一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240408141500 +0800" stop="20240408141700 +0800">
+		<title lang="zh">96_一只笨笨的小恐龙</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76953,6 +76959,9 @@
 	<programme channel="newtv怡伴健康" start="20240408135600 +0800" stop="20240408141300 +0800">
 		<title lang="zh">小品《站台》 表演：佟大为 李文启</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240408141300 +0800" stop="20240408143300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -77166,6 +77175,9 @@
 	<programme channel="newtv炫舞未来" start="20240408131800 +0800" stop="20240408140800 +0800">
 		<title lang="zh">程序员挑战腹语表演 调侃杨帆“怕老婆”（20221025）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240408140800 +0800" stop="20240408144800 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -77282,6 +77294,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240408121400 +0800" stop="20240408140500 +0800">
 		<title lang="zh">哈哈哈哈哈第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240408140500 +0800" stop="20240408145400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
