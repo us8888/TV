@@ -60624,6 +60624,9 @@
 	<programme channel="黑莓动画" start="20240411022000 +0800" stop="20240411024400 +0800">
 		<title lang="zh">02_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240411024400 +0800" stop="20240411030900 +0800">
+		<title lang="zh">01_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61125,6 +61128,9 @@
 	<programme channel="newtv超级体育" start="20240411010500 +0800" stop="20240411025000 +0800">
 		<title lang="zh">实况录像-2024年世乒联大满贯赛 新加坡站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240411025000 +0800" stop="20240411050500 +0800">
+		<title lang="zh">2023/2024欧洲冠军联赛-1/4决赛第一回合(巴黎圣日耳曼-巴塞罗那)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -61160,6 +61166,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240411015200 +0800" stop="20240411023500 +0800">
 		<title lang="zh">33_旗袍美探</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240411023500 +0800" stop="20240411031800 +0800">
+		<title lang="zh">34_旗袍美探</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61283,6 +61292,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240411021900 +0800" stop="20240411024500 +0800">
 		<title lang="zh">美再对台售武 对俄大规模制裁 持续挑动地区局势是何居心？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240411024500 +0800" stop="20240411031000 +0800">
+		<title lang="zh">俄乌冲突进入第三年 停火遥遥无期？英国核导弹试射失败险酿大祸</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
