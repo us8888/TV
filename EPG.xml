@@ -31233,6 +31233,9 @@
 	<programme channel="咪咕综合体育" start="20240411134100 +0800" stop="20240411155500 +0800">
 		<title lang="zh">23/24赛季CBA常规赛第52轮全场回放：新疆vs江苏</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240411155500 +0800" stop="20240411181500 +0800">
+		<title lang="zh">23/24赛季CBA常规赛第51轮全场回放：浙江vs广厦（吕程、殳海）（50帧原画）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46911,7 +46914,10 @@
 	<programme channel="武进新闻" start="20240411132000 +0800" stop="20240411135000 +0800">
 		<title lang="zh">连线帮帮团(重播)</title>
 	</programme>
-	<programme channel="武进新闻" start="202404120240411142500 +0800" stop="20240411152300 +0800">
+	<programme channel="武进新闻" start="20240411135000 +0800" stop="20240411142500 +0800">
+		<title lang="zh">开门七加七(重播)</title>
+	</programme>
+	<programme channel="武进新闻" start="20240411142500 +0800" stop="20240411152300 +0800">
 		<title lang="zh">黄金剧场</title>
 	</programme>
 	<programme channel="武进新闻" start="20240411152300 +0800" stop="20240411162500 +0800">
@@ -48170,9 +48176,6 @@
 	</programme>
 	<programme channel="江苏卫视" start="20240411224700 +0800" stop="20240411230400 +0800">
 		<title lang="zh">晚间新闻</title>
-	</programme>
-	<programme channel="江苏卫视" start="20240411230400 +0800" stop="20240411235900 +0800">
-		<title lang="zh">怦然志�新闻</title>
 	</programme>
 	<programme channel="江苏卫视" start="20240411230400 +0800" stop="20240411235900 +0800">
 		<title lang="zh">怦然心动20岁</title>
@@ -74178,6 +74181,9 @@
 	<programme channel="黑莓动画" start="20240411150100 +0800" stop="20240411150400 +0800">
 		<title lang="zh">11_笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240411152900 +0800" stop="20240411153300 +0800">
+		<title lang="zh">35_坦克世界动画：新怪物卡西尔来了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74210,6 +74216,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240411134000 +0800" stop="20240411151800 +0800">
 		<title lang="zh">西北风云</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240411151800 +0800" stop="20240411164700 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
 	</programme>
 	<channel id="黑龙江公共农业">
 		<display-name lang="zh">黑龙江公共农业</display-name>
@@ -75570,6 +75579,9 @@
 	<programme channel="newtv超级电影" start="20240411135900 +0800" stop="20240411154000 +0800">
 		<title lang="zh">电影《起立，老师好》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240411154000 +0800" stop="20240411171500 +0800">
+		<title lang="zh">电影《燕赤霞猎妖传》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -75783,6 +75795,9 @@
 	<programme channel="newtv精品纪录" start="20240411142700 +0800" stop="20240411150400 +0800">
 		<title lang="zh">镇馆之宝 4 破解铜戈谜题</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240411150400 +0800" stop="20240411155200 +0800">
+		<title lang="zh">01_重返刺桐城</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75975,6 +75990,9 @@
 	<programme channel="newtv家庭剧场" start="20240411143500 +0800" stop="20240411152000 +0800">
 		<title lang="zh">17_好大一个家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240411152000 +0800" stop="20240411160600 +0800">
+		<title lang="zh">18_好大一个家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -76028,6 +76046,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240411142400 +0800" stop="20240411150800 +0800">
 		<title lang="zh">15_旗袍美探</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240411150800 +0800" stop="20240411155300 +0800">
+		<title lang="zh">16_旗袍美探</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -76109,6 +76130,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240411140400 +0800" stop="20240411151800 +0800">
 		<title lang="zh">维和女警：暴力安全区</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240411151800 +0800" stop="20240411164800 +0800">
+		<title lang="zh">落难神偷</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -76242,6 +76266,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240411141900 +0800" stop="20240411150500 +0800">
 		<title lang="zh">43_长歌行</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240411150500 +0800" stop="20240411155200 +0800">
+		<title lang="zh">44_长歌行</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -76322,6 +76349,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240411145900 +0800" stop="20240411152600 +0800">
 		<title lang="zh">春节特别节目 舰艇探奇 走进澳大利亚悉尼国家海事博物馆</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240411152600 +0800" stop="20240411155200 +0800">
+		<title lang="zh">低空火力倾泻者</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -76409,6 +76439,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240411145000 +0800" stop="20240411150700 +0800">
 		<title lang="zh">野花香-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240411152200 +0800" stop="20240411153400 +0800">
+		<title lang="zh">漫步人生路-孙爱迪</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
