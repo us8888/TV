@@ -74085,6 +74085,9 @@
 	<programme channel="黑莓动画" start="20240411103100 +0800" stop="20240411105400 +0800">
 		<title lang="zh">汪汪队立大功第3季07</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240411105400 +0800" stop="20240411111700 +0800">
+		<title lang="zh">汪汪队立大功第3季08</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75525,6 +75528,9 @@
 	<programme channel="newtv精品大剧" start="20240411100400 +0800" stop="20240411104900 +0800">
 		<title lang="zh">24_独爱一生</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240411104900 +0800" stop="20240411114500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -75789,6 +75795,9 @@
 	<programme channel="newtv爱情喜剧" start="20240411091600 +0800" stop="20240411105900 +0800">
 		<title lang="zh">埃尔维斯与安娜贝尔</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240411105900 +0800" stop="20240411124200 +0800">
+		<title lang="zh">美味情歌</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75863,6 +75872,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240411101800 +0800" stop="20240411105900 +0800">
 		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240411105900 +0800" stop="20240411112700 +0800">
+		<title lang="zh">连环相撞</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76160,6 +76172,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240411090000 +0800" stop="20240411105400 +0800">
 		<title lang="zh">23-24赛季CBA常规赛：北控VS广州</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240411105400 +0800" stop="20240411114800 +0800">
+		<title lang="zh">世界巡回赛总决赛混双决赛：中国VS中国</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
