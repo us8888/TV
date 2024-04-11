@@ -37791,6 +37791,9 @@
 	<programme channel="纯享4K" start="20240412015400 +0800" stop="20240412024300 +0800">
 		<title lang="zh">大数据时代4K 第4集 商业之变</title>
 	</programme>
+	<programme channel="纯享4K" start="20240412024300 +0800" stop="20240412033200 +0800">
+		<title lang="zh">大数据时代4K 第5集 未来已来</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -46593,6 +46596,12 @@
 	<programme channel="黑莓动画" start="20240412015700 +0800" stop="20240412022000 +0800">
 		<title lang="zh">03_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240412022000 +0800" stop="20240412024400 +0800">
+		<title lang="zh">04_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240412024400 +0800" stop="20240412031000 +0800">
+		<title lang="zh">03_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -46944,6 +46953,9 @@
 	<programme channel="newtv超级体育" start="20240412011400 +0800" stop="20240412023800 +0800">
 		<title lang="zh">实况录像-2024年世乒联大满贯赛 新加坡站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240412023800 +0800" stop="20240412040000 +0800">
+		<title lang="zh">2023/2024赛季欧洲篮球联赛-第28轮(皇家马德里-费内巴切)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46965,6 +46977,9 @@
 	<programme channel="newtv超级电视剧" start="20240412015700 +0800" stop="20240412023800 +0800">
 		<title lang="zh">36_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240412023800 +0800" stop="20240412032000 +0800">
+		<title lang="zh">37_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -46976,6 +46991,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240412013200 +0800" stop="20240412021700 +0800">
 		<title lang="zh">05_我和我的他们</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240412021700 +0800" stop="20240412030200 +0800">
+		<title lang="zh">06_我和我的他们</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47010,6 +47028,9 @@
 	<programme channel="newtv古装剧场" start="20240412020400 +0800" stop="20240412024500 +0800">
 		<title lang="zh">14_解忧公主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240412024500 +0800" stop="20240412032600 +0800">
+		<title lang="zh">15_解忧公主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47021,6 +47042,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240412013700 +0800" stop="20240412022400 +0800">
 		<title lang="zh">18_神府红军游击队</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240412022400 +0800" stop="20240412031100 +0800">
+		<title lang="zh">19_神府红军游击队</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47034,11 +47058,17 @@
 	<programme channel="newtv家庭剧场" start="20240412015700 +0800" stop="20240412024200 +0800">
 		<title lang="zh">38_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240412024200 +0800" stop="20240412032700 +0800">
+		<title lang="zh">39_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20240412004600 +0800" stop="20240412022400 +0800">
 		<title lang="zh">街头霸王</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240412022400 +0800" stop="20240412030600 +0800">
+		<title lang="zh">24_黄土高天</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47100,6 +47130,12 @@
 	<programme channel="newtv军事评论" start="20240412020200 +0800" stop="20240412022400 +0800">
 		<title lang="zh">俄乌冲突二周年观察 有人战机的空中角力</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240412022400 +0800" stop="20240412024600 +0800">
+		<title lang="zh">俄乌冲突二周年观察 无人机的战场革命</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240412024600 +0800" stop="20240412030800 +0800">
+		<title lang="zh">俄乌冲突二周年观察 炮战的启示</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47114,6 +47150,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240412020900 +0800" stop="20240412021900 +0800">
 		<title lang="zh">广场舞《美丽的牧羊姑娘》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240412022900 +0800" stop="20240412023600 +0800">
+		<title lang="zh">广场舞《心中的草原》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240412023600 +0800" stop="20240412024900 +0800">
+		<title lang="zh">我爱你中国-李萍（完整）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
