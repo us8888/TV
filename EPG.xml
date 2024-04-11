@@ -46911,10 +46911,7 @@
 	<programme channel="武进新闻" start="20240411132000 +0800" stop="20240411135000 +0800">
 		<title lang="zh">连线帮帮团(重播)</title>
 	</programme>
-	<programme channel="武进新闻" start="20240411135000 +0800" stop="20240411142500 +0800">
-		<title lang="zh">开门七加七(重播)</title>
-	</programme>
-	<programme channel="武进新闻" start="20240411142500 +0800" stop="20240411152300 +0800">
+	<programme channel="武进新闻" start="202404120240411142500 +0800" stop="20240411152300 +0800">
 		<title lang="zh">黄金剧场</title>
 	</programme>
 	<programme channel="武进新闻" start="20240411152300 +0800" stop="20240411162500 +0800">
@@ -48173,6 +48170,9 @@
 	</programme>
 	<programme channel="江苏卫视" start="20240411224700 +0800" stop="20240411230400 +0800">
 		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="江苏卫视" start="20240411230400 +0800" stop="20240411235900 +0800">
+		<title lang="zh">怦然志�新闻</title>
 	</programme>
 	<programme channel="江苏卫视" start="20240411230400 +0800" stop="20240411235900 +0800">
 		<title lang="zh">怦然心动20岁</title>
@@ -75638,6 +75638,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240411143200 +0800" stop="20240411150900 +0800">
 		<title lang="zh">23_斗破苍穹之少年归来</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240411151400 +0800" stop="20240411160000 +0800">
+		<title lang="zh">01_烟火人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
