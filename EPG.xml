@@ -74313,6 +74313,9 @@
 	<programme channel="黑莓动画" start="20240411202600 +0800" stop="20240411205100 +0800">
 		<title lang="zh">01_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240411205100 +0800" stop="20240411211500 +0800">
+		<title lang="zh">02_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75651,6 +75654,9 @@
 	<programme channel="newtv超级综艺" start="20240411193000 +0800" stop="20240411205400 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240411205400 +0800" stop="20240411214600 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76038,6 +76044,9 @@
 	<programme channel="newtv精品纪录" start="20240411200400 +0800" stop="20240411205400 +0800">
 		<title lang="zh">02_下一站出口</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240411205400 +0800" stop="20240411214400 +0800">
+		<title lang="zh">02_打虎拍蝇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76127,6 +76136,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240411204000 +0800" stop="20240411210000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240411210000 +0800" stop="20240411214500 +0800">
+		<title lang="zh">01_白发</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76791,6 +76803,9 @@
 	<programme channel="newtv军事评论" start="20240411204100 +0800" stop="20240411210100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240411210100 +0800" stop="20240411212800 +0800">
+		<title lang="zh">明星装备的尴尬时刻</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77081,6 +77096,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240411200700 +0800" stop="20240411205700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240411205700 +0800" stop="20240411230800 +0800">
+		<title lang="zh">灿烂的前行</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
