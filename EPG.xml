@@ -105,6 +105,9 @@
 	<programme channel="4K综艺" start="20240412214500 +0800" stop="20240412222900 +0800">
 		<title lang="zh">我最爱的女人们20190727</title>
 	</programme>
+	<programme channel="4K综艺" start="20240412222900 +0800" stop="20240412231200 +0800">
+		<title lang="zh">我最爱的女人们20190802</title>
+	</programme>
 	<channel id="ALJAZEERA">
 		<display-name lang="zh">ALJAZEERA</display-name>
 	</channel>
@@ -25961,6 +25964,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20240412200400 +0800" stop="20240412223200 +0800">
 		<title lang="zh">23/24赛季CBA常规赛第51轮全场回放：深圳vs上海（王冠证、陈正昊、小太阳）（50帧原画）</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240412223200 +0800" stop="20240412000000 +0800">
+		<title lang="zh">23/24赛季CBA常规赛第52轮全场回放：天津vs广东（陈广锐、苏坤雄）</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -58191,6 +58197,9 @@
 	<programme channel="纯享4K" start="20240412215500 +0800" stop="20240412222500 +0800">
 		<title lang="zh">美丽中国说4K 高山精灵</title>
 	</programme>
+	<programme channel="纯享4K" start="20240412222500 +0800" stop="20240412225500 +0800">
+		<title lang="zh">美丽中国说4K 火山奇遇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69453,6 +69462,9 @@
 	<programme channel="黑莓动画" start="20240412220700 +0800" stop="20240412223100 +0800">
 		<title lang="zh">15_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240412223100 +0800" stop="20240412225500 +0800">
+		<title lang="zh">16_咒术回战</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70842,6 +70854,9 @@
 	<programme channel="newtv超级电视剧" start="20240412214900 +0800" stop="20240412223400 +0800">
 		<title lang="zh">19_埃博拉前线</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240412223400 +0800" stop="20240412232000 +0800">
+		<title lang="zh">12_新居之约</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71754,6 +71769,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240412213700 +0800" stop="20240412222300 +0800">
 		<title lang="zh">01_烟火人家</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240412222300 +0800" stop="20240412234400 +0800">
+		<title lang="zh">出发拍“大电影”沈腾变导演掌机</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -71919,6 +71937,9 @@
 	<programme channel="newtv军事评论" start="20240412215200 +0800" stop="20240412221800 +0800">
 		<title lang="zh">代表委员的强军故事 第3集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240412221800 +0800" stop="20240412224400 +0800">
+		<title lang="zh">直击“大洋黑洞” 上集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72053,6 +72074,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240412213200 +0800" stop="20240412222200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240412222200 +0800" stop="20240412223500 +0800">
+		<title lang="zh">荷塘月色-孙爱迪</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
