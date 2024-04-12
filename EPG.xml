@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20240412141900 +0800" stop="20240412151300 +0800">
 		<title lang="zh">我最爱的女人们20190720</title>
 	</programme>
+	<programme channel="4K综艺" start="20240412151300 +0800" stop="20240412165000 +0800">
+		<title lang="zh">我最爱的女人们20190726</title>
+	</programme>
 	<channel id="ALJAZEERA">
 		<display-name lang="zh">ALJAZEERA</display-name>
 	</channel>
@@ -57978,6 +57981,9 @@
 	<programme channel="纯享4K" start="20240412143500 +0800" stop="20240412150500 +0800">
 		<title lang="zh">美丽中国说4K 火山奇遇</title>
 	</programme>
+	<programme channel="纯享4K" start="20240412150500 +0800" stop="20240412155400 +0800">
+		<title lang="zh">乐享汇4K “声动青春”演唱会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69138,6 +69144,12 @@
 	<programme channel="黑莓动画" start="20240412145900 +0800" stop="20240412150200 +0800">
 		<title lang="zh">20_笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240412151500 +0800" stop="20240412151800 +0800">
+		<title lang="zh">40_坦克世界动画：野兽多利安大战KV-44和拉特</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240412152700 +0800" stop="20240412153200 +0800">
+		<title lang="zh">小志变得浑身无力 小鱼用雷鸣神弓寻找线索 </title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69170,6 +69182,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240412140300 +0800" stop="20240412152600 +0800">
 		<title lang="zh">暖暖的微笑</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240412152600 +0800" stop="20240412171900 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme>
 	<channel id="黑龙江公共农业">
 		<display-name lang="zh">黑龙江公共农业</display-name>
@@ -70437,6 +70452,9 @@
 	<programme channel="newtv超级电视剧" start="20240412145200 +0800" stop="20240412153000 +0800">
 		<title lang="zh">28_斗破苍穹之少年归来</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240412153400 +0800" stop="20240412162000 +0800">
+		<title lang="zh">06_烟火人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -70499,6 +70517,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240412143100 +0800" stop="20240412151700 +0800">
 		<title lang="zh">13_阿娜尔罕</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240412151700 +0800" stop="20240412160200 +0800">
+		<title lang="zh">14_阿娜尔罕</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -70586,6 +70607,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240412144000 +0800" stop="20240412151800 +0800">
 		<title lang="zh">镇馆之宝 6 最美汉阙</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240412151800 +0800" stop="20240412160600 +0800">
+		<title lang="zh">02_重返刺桐城</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -70716,6 +70740,9 @@
 	<programme channel="newtv军旅剧场" start="20240412143400 +0800" stop="20240412151800 +0800">
 		<title lang="zh">20_黑狐之风影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240412151800 +0800" stop="20240412161400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -70842,6 +70869,9 @@
 	<programme channel="newtv热播精选" start="20240412143400 +0800" stop="20240412151900 +0800">
 		<title lang="zh">19_旗袍美探</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240412151900 +0800" stop="20240412160300 +0800">
+		<title lang="zh">20_旗袍美探</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70890,6 +70920,9 @@
 	<programme channel="newtv爱情喜剧" start="20240412142800 +0800" stop="20240412151600 +0800">
 		<title lang="zh">28_乡村爱情8：浪漫曲（下）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240412151600 +0800" stop="20240412164100 +0800">
+		<title lang="zh">抓狂的安娜</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -70922,6 +70955,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240412133100 +0800" stop="20240412151800 +0800">
 		<title lang="zh">金刚王：死亡救赎</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240412151800 +0800" stop="20240412170800 +0800">
+		<title lang="zh">警察故事2013</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -71052,6 +71088,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240412142200 +0800" stop="20240412150700 +0800">
 		<title lang="zh">48_长歌行</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240412150700 +0800" stop="20240412155200 +0800">
+		<title lang="zh">49_长歌行</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -71168,6 +71207,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240412145000 +0800" stop="20240412151700 +0800">
 		<title lang="zh">战斗精神</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240412151700 +0800" stop="20240412154200 +0800">
+		<title lang="zh">新春走军营 坚守与归途</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -71439,6 +71481,9 @@
 	<programme channel="newtv精品体育" start="20240412132600 +0800" stop="20240412151500 +0800">
 		<title lang="zh">【经典赛场】2016年乒乓球团体世锦赛男团决赛 中国VS日本</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20240412151500 +0800" stop="20240412164400 +0800">
+		<title lang="zh">【NBA赛场】23-24赛季常规赛：步行者VS森林狼</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -71537,6 +71582,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240412143300 +0800" stop="20240412151400 +0800">
 		<title lang="zh">24_九义人</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240412151400 +0800" stop="20240412155400 +0800">
+		<title lang="zh">25_九义人</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
