@@ -69183,6 +69183,9 @@
 	<programme channel="黑莓动画" start="20240413102700 +0800" stop="20240413105000 +0800">
 		<title lang="zh">汪汪队立大功第3季11</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240413105000 +0800" stop="20240413111300 +0800">
+		<title lang="zh">汪汪队立大功第3季12</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70368,6 +70371,9 @@
 	<programme channel="newtv超级电影" start="20240413092100 +0800" stop="20240413105700 +0800">
 		<title lang="zh">怪物史莱克2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240413110600 +0800" stop="20240413131000 +0800">
+		<title lang="zh">天行者</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -70571,6 +70577,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240413101400 +0800" stop="20240413105800 +0800">
 		<title lang="zh">15_凤游龙门</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240413105800 +0800" stop="20240413114300 +0800">
+		<title lang="zh">16_凤游龙门</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -70824,6 +70833,9 @@
 	<programme channel="newtv怡伴健康" start="20240413103300 +0800" stop="20240413110100 +0800">
 		<title lang="zh">“反电诈”特别策划 误入骗局（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240413110100 +0800" stop="20240413112900 +0800">
+		<title lang="zh">“反电诈”特别策划 误入骗局（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -70976,6 +70988,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240413094000 +0800" stop="20240413105700 +0800">
 		<title lang="zh">致敬春晚40年 朱迅带你回顾名场面（上）（20220203）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240413105700 +0800" stop="20240413115300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
