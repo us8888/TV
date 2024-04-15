@@ -72372,6 +72372,9 @@
 	<programme channel="黑莓动画" start="20240415224300 +0800" stop="20240415230600 +0800">
 		<title lang="zh">21_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240415230600 +0800" stop="20240415232600 +0800">
+		<title lang="zh">09_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74442,6 +74445,9 @@
 	<programme channel="newtv热播精选" start="20240415221600 +0800" stop="20240415230100 +0800">
 		<title lang="zh">17_而你刚好发光</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240415230100 +0800" stop="20240415234900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -74510,6 +74516,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240415223500 +0800" stop="20240415231500 +0800">
 		<title lang="zh">19_头号前妻</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240415231500 +0800" stop="20240415235500 +0800">
+		<title lang="zh">20_头号前妻</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -74675,6 +74684,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240415223100 +0800" stop="20240415231400 +0800">
 		<title lang="zh">第二场 浙江黄金联盟VS天津登场破万象（第二局）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240415231400 +0800" stop="20240415001400 +0800">
+		<title lang="zh">本溪舞王幽默亮相，自信穿搭却被女嘉宾直呼太尬</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -74928,6 +74940,9 @@
 	<programme channel="newtv军事评论" start="20240415221900 +0800" stop="20240415230900 +0800">
 		<title lang="zh">血与火：第一次世界大战启示录 ③ 东线风雷</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240415230900 +0800" stop="20240415000200 +0800">
+		<title lang="zh">血与火：第一次世界大战启示录 ④ 燃烧的巴尔干</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75041,6 +75056,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240415225900 +0800" stop="20240415231000 +0800">
 		<title lang="zh">小康生活恰恰恰-乌兰图雅</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240415231000 +0800" stop="20240415004400 +0800">
+		<title lang="zh">第1期：央视主持人一起包饺子很有年味</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
