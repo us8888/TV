@@ -90,6 +90,9 @@
 	<programme channel="4K综艺" start="20240415131500 +0800" stop="20240415135700 +0800">
 		<title lang="zh">重返地球20180302</title>
 	</programme>
+	<programme channel="4K综艺" start="20240415135700 +0800" stop="20240415152400 +0800">
+		<title lang="zh">奇兵神犬20171110</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -31058,6 +31061,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240415120600 +0800" stop="20240415141400 +0800">
 		<title lang="zh">2024赛季中甲第5轮全场回放：延边龙鼎1:1重庆铜梁龙（官方解说）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240415141400 +0800" stop="20240415163400 +0800">
+		<title lang="zh">23/24赛季英超第32轮全场回放：水晶宫2:4曼城（娄一晨、刘越、孙蕊）（50帧原画）</title>
 	</programme>
 	<channel id="哈尔滨娱乐">
 		<display-name lang="zh">哈尔滨娱乐</display-name>
@@ -73143,6 +73149,9 @@
 	<programme channel="黑莓动画" start="20240415134000 +0800" stop="20240415135400 +0800">
 		<title lang="zh">16_猪猪侠之超星五灵侠6</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240415135900 +0800" stop="20240415140300 +0800">
+		<title lang="zh">12_一只笨笨的小恐龙</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74430,6 +74439,9 @@
 	<programme channel="newtv超级电影" start="20240415122200 +0800" stop="20240415135400 +0800">
 		<title lang="zh">电影《败金财神》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240415135400 +0800" stop="20240415152300 +0800">
+		<title lang="zh">电影《毕业之前说再见》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -74495,6 +74507,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240415134400 +0800" stop="20240415141900 +0800">
 		<title lang="zh">07_南海归墟</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240415141900 +0800" stop="20240415145200 +0800">
+		<title lang="zh">08_南海归墟</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -74742,6 +74757,9 @@
 	<programme channel="newtv军旅剧场" start="20240415131400 +0800" stop="20240415135800 +0800">
 		<title lang="zh">33_黑狐之风影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240415135800 +0800" stop="20240415144100 +0800">
+		<title lang="zh">34_黑狐之风影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -74798,6 +74816,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240415130300 +0800" stop="20240415134800 +0800">
 		<title lang="zh">36_好大一个家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240415134800 +0800" stop="20240415143600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -75138,6 +75159,9 @@
 	<programme channel="newtv军事评论" start="20240415132500 +0800" stop="20240415134700 +0800">
 		<title lang="zh">万里河山 海岛之约</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240415134700 +0800" stop="20240415140900 +0800">
+		<title lang="zh">万里河山 海角家园</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75317,6 +75341,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240415124200 +0800" stop="20240415135900 +0800">
 		<title lang="zh">朋友请吃饭</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240415135900 +0800" stop="20240415144800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
