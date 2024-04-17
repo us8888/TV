@@ -24957,6 +24957,51 @@
 	<programme channel="四海钓鱼" start="20240418230000 +0800" stop="20240418233000 +0800">
 		<title lang="zh">回顾(331)</title>
 	</programme>
+	<channel id="国会频道1">
+		<display-name lang="zh">国会频道1</display-name>
+	</channel>
+	<programme channel="国会频道1" start="20240418024800 +0800" stop="20240418044800 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240418044800 +0800" stop="20240418061000 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240418061000 +0800" stop="20240418070000 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240418070000 +0800" stop="20240418084700 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240418084700 +0800" stop="20240418090000 +0800">
+		<title lang="zh">週四會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240418090000 +0800" stop="20240418180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道1" start="20240418180000 +0800" stop="20240418235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
+	</programme>
+	<channel id="国会频道2">
+		<display-name lang="zh">国会频道2</display-name>
+	</channel>
+	<programme channel="国会频道2" start="20240418011100 +0800" stop="20240418011500 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道2" start="20240418011500 +0800" stop="20240418051000 +0800">
+		<title lang="zh">教育及文化委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240418051000 +0800" stop="20240418084700 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240418084700 +0800" stop="20240418090000 +0800">
+		<title lang="zh">週四會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240418090000 +0800" stop="20240418180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道2" start="20240418180000 +0800" stop="20240418235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
+	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
 	</channel>
@@ -48762,6 +48807,9 @@
 	<programme channel="纯享4K" start="20240418043000 +0800" stop="20240418051100 +0800">
 		<title lang="zh">远方的家4K 大运河（22）金鸡湖畔新苏州</title>
 	</programme>
+	<programme channel="纯享4K" start="20240418051600 +0800" stop="20240418052200 +0800">
+		<title lang="zh">美丽中国自然4K 汗马系列 有鹿之地</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58602,6 +58650,9 @@
 	<programme channel="黑莓动画" start="20240418043100 +0800" stop="20240418045400 +0800">
 		<title lang="zh">10_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240418045400 +0800" stop="20240418051800 +0800">
+		<title lang="zh">11_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59121,6 +59172,9 @@
 	<programme channel="newtv超级体育" start="20240418025000 +0800" stop="20240418050500 +0800">
 		<title lang="zh">2023/2024欧洲冠军联赛-1/4决赛第二回合(曼彻斯特城-皇家马德里)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240418050500 +0800" stop="20240418060000 +0800">
+		<title lang="zh">实况录像-2024年世界泳联跳水世界杯 柏林站 女子10米台决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59135,6 +59189,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240418032500 +0800" stop="20240418050200 +0800">
 		<title lang="zh">英雄无语</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240418050200 +0800" stop="20240418070600 +0800">
+		<title lang="zh">李小龙我的兄弟</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59166,6 +59223,9 @@
 	<programme channel="newtv超级电视剧" start="20240418043700 +0800" stop="20240418051800 +0800">
 		<title lang="zh">08_刘家媳妇</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240418051800 +0800" stop="20240418060000 +0800">
+		<title lang="zh">09_刘家媳妇</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -59186,6 +59246,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240418042100 +0800" stop="20240418050700 +0800">
 		<title lang="zh">08_天狼星行动</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240418050700 +0800" stop="20240418055300 +0800">
+		<title lang="zh">41_独步天下</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -59216,6 +59279,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240418043100 +0800" stop="20240418050900 +0800">
 		<title lang="zh">春秋战国记 5 城濮的烽烟</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240418050900 +0800" stop="20240418054700 +0800">
+		<title lang="zh">春秋战国记 6 风雨袭郑</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -59262,6 +59328,9 @@
 	<programme channel="newtv军旅剧场" start="20240418042700 +0800" stop="20240418051300 +0800">
 		<title lang="zh">29_党的女儿</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240418051300 +0800" stop="20240418055900 +0800">
+		<title lang="zh">30_党的女儿</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59283,6 +59352,9 @@
 	<programme channel="newtv家庭剧场" start="20240418041200 +0800" stop="20240418045800 +0800">
 		<title lang="zh">02_双喜盈门</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240418045800 +0800" stop="20240418054400 +0800">
+		<title lang="zh">03_双喜盈门</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -59298,6 +59370,9 @@
 	<programme channel="newtv热播精选" start="20240418042100 +0800" stop="20240418050500 +0800">
 		<title lang="zh">18_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240418050500 +0800" stop="20240418054900 +0800">
+		<title lang="zh">19_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -59309,6 +59384,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240418042900 +0800" stop="20240418051400 +0800">
 		<title lang="zh">29_女医明妃传</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240418051400 +0800" stop="20240418055900 +0800">
+		<title lang="zh">30_女医明妃传</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -59348,6 +59426,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240418042900 +0800" stop="20240418045600 +0800">
 		<title lang="zh">野性世界搏击会</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240418045600 +0800" stop="20240418052300 +0800">
+		<title lang="zh">草原猎手b7花豹（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -59403,6 +59484,9 @@
 	<programme channel="newtv炫舞未来" start="20240418034500 +0800" stop="20240418050200 +0800">
 		<title lang="zh">黏人男嘉宾希望能黏住合拍的另一半（20240409）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240418050200 +0800" stop="20240418051800 +0800">
+		<title lang="zh">映山红-李萍</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -59418,6 +59502,9 @@
 	<programme channel="newtv精品综合" start="20240418041000 +0800" stop="20240418045500 +0800">
 		<title lang="zh">01_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240418045500 +0800" stop="20240418054100 +0800">
+		<title lang="zh">02_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -59429,6 +59516,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240418033600 +0800" stop="20240418050000 +0800">
 		<title lang="zh">侠僧探案传奇之将军府</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240418050000 +0800" stop="20240418063200 +0800">
+		<title lang="zh">父子神探之目击者</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
