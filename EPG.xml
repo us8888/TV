@@ -71805,6 +71805,9 @@
 	<programme channel="newtv超级电影" start="20240418084600 +0800" stop="20240418105800 +0800">
 		<title lang="zh">快把我哥带走</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240418105800 +0800" stop="20240418124900 +0800">
+		<title lang="zh">高铁作证</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -71861,6 +71864,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240418102300 +0800" stop="20240418110800 +0800">
 		<title lang="zh">30_陈情令</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240418110800 +0800" stop="20240418115200 +0800">
+		<title lang="zh">31_陈情令</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -72336,6 +72342,9 @@
 	<programme channel="newtv军事评论" start="20240418102200 +0800" stop="20240418104700 +0800">
 		<title lang="zh">瑙鲁宣布与台湾“断交” 胡塞武装制定报复计划和目标清单</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240418104700 +0800" stop="20240418111200 +0800">
+		<title lang="zh">瑞典正式“入约” 马克龙称援乌“不设底线” 美上百架军机秘密向以运弹药</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72474,6 +72483,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240418092600 +0800" stop="20240418105600 +0800">
 		<title lang="zh">袁天罡之不死军团</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240418105600 +0800" stop="20240418122600 +0800">
+		<title lang="zh">他人之子</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -72498,6 +72510,9 @@
 	<programme channel="newtv金牌综艺" start="20240418092700 +0800" stop="20240418110400 +0800">
 		<title lang="zh">邻家诗话 第3季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240418110400 +0800" stop="20240418133800 +0800">
+		<title lang="zh">新游记</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -72518,6 +72533,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240418085900 +0800" stop="20240418105300 +0800">
 		<title lang="zh">23-24赛季CBA常规赛：北控VS广州</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240418105300 +0800" stop="20240418114800 +0800">
+		<title lang="zh">世界巡回赛总决赛混双决赛：中国VS中国</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
