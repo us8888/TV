@@ -59151,6 +59151,9 @@
 	<programme channel="纯享4K" start="20240418212400 +0800" stop="20240418215400 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7保山篇（2）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240418215400 +0800" stop="20240418223400 +0800">
+		<title lang="zh">荣宝斋4K 第5集 脉动新声</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70731,6 +70734,9 @@
 	<programme channel="黑莓动画" start="20240418214200 +0800" stop="20240418214900 +0800">
 		<title lang="zh">07_口臭的麻烦</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240418215600 +0800" stop="20240418221000 +0800">
+		<title lang="zh">11_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72129,6 +72135,9 @@
 	<programme channel="newtv超级体育" start="20240418213000 +0800" stop="20240418220500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240418220500 +0800" stop="20240418230000 +0800">
+		<title lang="zh">冠军欧洲</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73284,6 +73293,9 @@
 	<programme channel="newtv军事评论" start="20240418213300 +0800" stop="20240418215500 +0800">
 		<title lang="zh">全景一战b7突变（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240418215500 +0800" stop="20240418221700 +0800">
+		<title lang="zh">全景一战b7突变（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73533,6 +73545,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240418202600 +0800" stop="20240418215700 +0800">
 		<title lang="zh">国礼</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240418215700 +0800" stop="20240418232500 +0800">
+		<title lang="zh">窦娥奇冤</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -73577,6 +73592,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240418200300 +0800" stop="20240418220700 +0800">
 		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240418220700 +0800" stop="20240418002800 +0800">
+		<title lang="zh">灿烂的前行</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240418200300 +0800" stop="20240418220700 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240418220700 +0800" stop="20240418002800 +0800">
+		<title lang="zh">灿烂的前行</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
