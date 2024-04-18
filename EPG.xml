@@ -51456,6 +51456,9 @@
 	<programme channel="纯享4K" start="20240419024100 +0800" stop="20240419032300 +0800">
 		<title lang="zh">远方的家4K 长江行（2） 相逢在长江源</title>
 	</programme>
+	<programme channel="纯享4K" start="20240419032300 +0800" stop="20240419040400 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江河谷的春天</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61581,6 +61584,9 @@
 	<programme channel="黑莓动画" start="20240419030300 +0800" stop="20240419033100 +0800">
 		<title lang="zh">06_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240419033100 +0800" stop="20240419034900 +0800">
+		<title lang="zh">05_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61589,6 +61595,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240419022300 +0800" stop="20240419034500 +0800">
 		<title lang="zh">九辫灵狐</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240419034500 +0800" stop="20240419051400 +0800">
+		<title lang="zh">那山那人那狗</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -62082,6 +62091,9 @@
 	<programme channel="newtv超级综艺" start="20240419031200 +0800" stop="20240419033700 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240419033700 +0800" stop="20240419043600 +0800">
+		<title lang="zh">乐龄唱响</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -62139,6 +62151,9 @@
 	<programme channel="newtv精品大剧" start="20240419024000 +0800" stop="20240419032600 +0800">
 		<title lang="zh">12_天狼星行动</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240419032600 +0800" stop="20240419041300 +0800">
+		<title lang="zh">13_天狼星行动</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -62159,6 +62174,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240419025500 +0800" stop="20240419034300 +0800">
 		<title lang="zh">肯尼亚 山脉守护者</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240419034300 +0800" stop="20240419043200 +0800">
+		<title lang="zh">01_斗转星移</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -62211,6 +62229,9 @@
 	<programme channel="newtv家庭剧场" start="20240419023800 +0800" stop="20240419032100 +0800">
 		<title lang="zh">31_遍地书香</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240419032100 +0800" stop="20240419040500 +0800">
+		<title lang="zh">32_遍地书香</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -62219,6 +62240,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240419025100 +0800" stop="20240419033400 +0800">
 		<title lang="zh">21_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240419033400 +0800" stop="20240419041900 +0800">
+		<title lang="zh">22_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -62229,6 +62253,9 @@
 	<programme channel="newtv爱情喜剧" start="20240419020600 +0800" stop="20240419034000 +0800">
 		<title lang="zh">宾馆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240419034000 +0800" stop="20240419042300 +0800">
+		<title lang="zh">34_女医明妃传</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -62237,6 +62264,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240419020700 +0800" stop="20240419034100 +0800">
 		<title lang="zh">火线干探之复活</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240419034100 +0800" stop="20240419051500 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -62289,6 +62319,12 @@
 	<programme channel="newtv炫舞未来" start="20240419031500 +0800" stop="20240419031900 +0800">
 		<title lang="zh">中国吉祥-毕刚（舞蹈展示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240419033100 +0800" stop="20240419033500 +0800">
+		<title lang="zh">映山红-孙爱迪（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240419034300 +0800" stop="20240419034800 +0800">
+		<title lang="zh">幸福中国糖-毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62300,6 +62336,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240419025000 +0800" stop="20240419033500 +0800">
 		<title lang="zh">04_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240419033500 +0800" stop="20240419042100 +0800">
+		<title lang="zh">05_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
