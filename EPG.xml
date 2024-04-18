@@ -3418,7 +3418,7 @@
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 曼城—皇家马德里</title>
 	</programme>
 	<programme channel="CCTV5+" start="20240418193000 +0800" stop="20240418215000 +0800">
-		<title lang="zh">2023/2024赛季中国男子篮球职业联赛-1/4决赛第一场1</title>
+		<title lang="zh">2023/2024赛季中国男子篮球职业联赛-1/4决赛 辽宁本钢 vs 深圳马可波罗</title>
 	</programme>
 	<programme channel="CCTV5+" start="20240418215000 +0800" stop="20240418232000 +0800">
 		<title lang="zh">实况录像-2024年ATP1000男子网球大师赛 蒙特卡洛站 1/4决赛</title>
@@ -3712,13 +3712,13 @@
 		<title lang="zh">本集提要- 《承欢记》第19集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240418193000 +0800" stop="20240418202500 +0800">
-		<title lang="zh">承欢记19/37</title>
+		<title lang="zh">承欢记第19集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240418202500 +0800" stop="20240418203000 +0800">
 		<title lang="zh">本集提要- 《承欢记》第20集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240418203000 +0800" stop="20240418212200 +0800">
-		<title lang="zh">承欢记20/37</title>
+		<title lang="zh">承欢记第20集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240418212200 +0800" stop="20240418212600 +0800">
 		<title lang="zh">本集提要- 《我们的队伍向太阳》第28集</title>
@@ -70521,6 +70521,9 @@
 	<programme channel="黑莓动画" start="20240418141600 +0800" stop="20240418141900 +0800">
 		<title lang="zh">50_一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240418143000 +0800" stop="20240418143400 +0800">
+		<title lang="zh">大牙奇趣动物儿歌童谣！快乐捉迷藏</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71826,6 +71829,9 @@
 	<programme channel="newtv超级综艺" start="20240418134100 +0800" stop="20240418143000 +0800">
 		<title lang="zh">幸福账单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240418143000 +0800" stop="20240418154700 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71868,6 +71874,9 @@
 	<programme channel="newtv超级体育" start="20240418125900 +0800" stop="20240418143000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 巴塞罗那-巴黎圣日耳曼</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240418143000 +0800" stop="20240418163500 +0800">
+		<title lang="zh">2024年全国举重锦标赛-女子76公斤级决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71897,6 +71906,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240418125700 +0800" stop="20240418143800 +0800">
 		<title lang="zh">电影《足球少年》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240418143800 +0800" stop="20240418161600 +0800">
+		<title lang="zh">电影《哈佛少女的快乐清单》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71969,6 +71981,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240418140200 +0800" stop="20240418144300 +0800">
 		<title lang="zh">07_破冰行动</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240418144300 +0800" stop="20240418152500 +0800">
+		<title lang="zh">08_破冰行动</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -72228,6 +72243,9 @@
 	<programme channel="newtv军旅剧场" start="20240418133900 +0800" stop="20240418142700 +0800">
 		<title lang="zh">06_烽火孤儿</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240418142700 +0800" stop="20240418151500 +0800">
+		<title lang="zh">07_烽火孤儿</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72336,6 +72354,9 @@
 	<programme channel="newtv热播精选" start="20240418133300 +0800" stop="20240418142000 +0800">
 		<title lang="zh">09_梅花红桃</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240418142000 +0800" stop="20240418150800 +0800">
+		<title lang="zh">10_梅花红桃</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -72377,6 +72398,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240418133700 +0800" stop="20240418142400 +0800">
 		<title lang="zh">24_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240418142400 +0800" stop="20240418151100 +0800">
+		<title lang="zh">25_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -72537,6 +72561,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240418133700 +0800" stop="20240418142300 +0800">
 		<title lang="zh">28_笑傲江湖</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240418142300 +0800" stop="20240418151000 +0800">
+		<title lang="zh">29_笑傲江湖</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -72605,6 +72632,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240418140300 +0800" stop="20240418142200 +0800">
 		<title lang="zh">走向深蓝（4）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240418142200 +0800" stop="20240418144400 +0800">
+		<title lang="zh">走向深蓝（5）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72747,6 +72777,9 @@
 	<programme channel="newtv精品综合" start="20240418124800 +0800" stop="20240418142400 +0800">
 		<title lang="zh">北京时间</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240418142400 +0800" stop="20240418144800 +0800">
+		<title lang="zh">03_百变马丁第一季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -72809,6 +72842,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240418133800 +0800" stop="20240418142800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240418142800 +0800" stop="20240418154100 +0800">
+		<title lang="zh">朋友请吃饭</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
