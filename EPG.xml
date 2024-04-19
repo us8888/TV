@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20240419111900 +0800" stop="20240419121400 +0800">
 		<title lang="zh">我最爱的女人们20190504</title>
 	</programme>
+	<programme channel="4K综艺" start="20240419121400 +0800" stop="20240419135600 +0800">
+		<title lang="zh">我最爱的女人们20190510</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -6327,9 +6330,7 @@
 	<programme channel="DISCOVERY科学" start="20240419131700 +0800" stop="20240419140600 +0800">
 		<title lang="zh">远古未解之谜 第1季第2集 -杀戮战场</title>
 	</programme>
-	<programme channel="DISCOVERY科学" start="20240419140600 +0800" stop="20240419142800 +0800">
-		<title lang="zh">生活科技大解密 第12季第6集 -Road Rollers Canned Bread And Vertu Phones</title>
-	</programme>
+	<programme channel="DISCOVERY科学" start="202programme>
 	<programme channel="DISCOVERY科学" start="20240419142800 +0800" stop="20240419144900 +0800">
 		<title lang="zh">制造的原理 第12季第21集 -烤肉炉</title>
 	</programme>
@@ -76563,6 +76564,9 @@
 	<programme channel="黑莓动画" start="20240419113600 +0800" stop="20240419114800 +0800">
 		<title lang="zh">百变布鲁可第4季第1集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240419120000 +0800" stop="20240419121300 +0800">
+		<title lang="zh">01_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77928,6 +77932,9 @@
 	<programme channel="newtv超级电影" start="20240419101400 +0800" stop="20240419115500 +0800">
 		<title lang="zh">公主为奴</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240419115500 +0800" stop="20240419132800 +0800">
+		<title lang="zh">电影《红野菊》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -78035,6 +78042,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240419111300 +0800" stop="20240419115000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240419115000 +0800" stop="20240419123000 +0800">
+		<title lang="zh">35_老酒馆</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -78531,6 +78541,9 @@
 	<programme channel="newtv军事评论" start="20240419113500 +0800" stop="20240419120100 +0800">
 		<title lang="zh">美日菲联手搅动南海局势 联合国通过加沙停火决议 以色列“生美国气”？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240419120100 +0800" stop="20240419122600 +0800">
+		<title lang="zh">3D打印 纳米技术 航天科技</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -78644,6 +78657,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240419111400 +0800" stop="20240419115900 +0800">
 		<title lang="zh">37_扶摇</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240419115900 +0800" stop="20240419123600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
