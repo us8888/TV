@@ -31887,11 +31887,41 @@
 	<programme channel="国会频道1" start="20240419084700 +0800" stop="20240419090000 +0800">
 		<title lang="zh">週五會議預報</title>
 	</programme>
-	<programme channel="国会频道1" start="20240419090000 +0800" stop="20240419180000 +0800">
+	<programme channel="国会频道1" start="20240419090000 +0800" stop="20240419114400 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道1" start="20240419180000 +0800" stop="20240419235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道1" start="20240419114400 +0800" stop="20240419121800 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419121800 +0800" stop="20240419140500 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419140500 +0800" stop="20240419143900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419143900 +0800" stop="20240419162600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419162600 +0800" stop="20240419170000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419170000 +0800" stop="20240419184700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419184700 +0800" stop="20240419192100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419192100 +0800" stop="20240419210800 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419210800 +0800" stop="20240419214200 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419214200 +0800" stop="20240419232900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240419232900 +0800" stop="20240419235900 +0800">
+		<title lang="zh">外交及國防委員會</title>
 	</programme>
 	<channel id="国会频道2">
 		<display-name lang="zh">国会频道2</display-name>
@@ -31911,11 +31941,35 @@
 	<programme channel="国会频道2" start="20240419084700 +0800" stop="20240419090000 +0800">
 		<title lang="zh">週五會議預報</title>
 	</programme>
-	<programme channel="国会频道2" start="20240419090000 +0800" stop="20240419180000 +0800">
+	<programme channel="国会频道2" start="20240419090000 +0800" stop="20240419114400 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20240419180000 +0800" stop="20240419235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道2" start="20240419114400 +0800" stop="20240419121800 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419121800 +0800" stop="20240419140500 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419140500 +0800" stop="20240419143900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419143900 +0800" stop="20240419162600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419162600 +0800" stop="20240419170000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419170000 +0800" stop="20240419184700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419184700 +0800" stop="20240419192100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419192100 +0800" stop="20240419210800 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240419210800 +0800" stop="20240419235900 +0800">
+		<title lang="zh">教育及文化委員會</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -78213,6 +78267,9 @@
 	<programme channel="newtv精品大剧" start="20240419152700 +0800" stop="20240419161300 +0800">
 		<title lang="zh">27_真爱背后</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240419161300 +0800" stop="20240419165900 +0800">
+		<title lang="zh">28_真爱背后</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78299,6 +78356,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240419151900 +0800" stop="20240419160900 +0800">
 		<title lang="zh">03_再大的风 我都去接你</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240419160900 +0800" stop="20240419165800 +0800">
+		<title lang="zh">06_生生不息</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -78497,6 +78557,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240419152700 +0800" stop="20240419161300 +0800">
 		<title lang="zh">20_烟火人家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240419161300 +0800" stop="20240419170200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -78887,6 +78950,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240419154900 +0800" stop="20240419161400 +0800">
 		<title lang="zh">北约扩建黑海基地 美国打造“三北联动” 俄方称现已进入战争状态</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240419161400 +0800" stop="20240419163600 +0800">
+		<title lang="zh">全景一战b7战线（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
