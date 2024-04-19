@@ -78,6 +78,9 @@
 	<programme channel="4K综艺" start="20240419083300 +0800" stop="20240419095800 +0800">
 		<title lang="zh">亲爱的客栈第三季20200103</title>
 	</programme>
+	<programme channel="4K综艺" start="20240419095800 +0800" stop="20240419111900 +0800">
+		<title lang="zh">亲爱的客栈第三季20200110</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -30779,6 +30782,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240419074700 +0800" stop="20240419100800 +0800">
 		<title lang="zh">23/24赛季意甲第32轮全场回放：国际米兰2:2卡利亚里（刘腾、贺宇）（50帧原画）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240419100800 +0800" stop="20240419122000 +0800">
+		<title lang="zh">23/24赛季西甲第31轮全场回放：皇家马略卡0:1皇家马德里（刘畅、孙雷）（50帧原画）</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -64720,10 +64726,7 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel>
 	<programme channel="纯享4K" start="20240419000300 +0800" stop="20240419003300 +0800">
-		<title lang="zh">记住乡愁4K第七季 第四十八集 长汀——客家首府 红军故乡（上）</title>
-	</programme>
-	<programme channel="纯享4K" start="20240419003300 +0800" stop="20240419010300 +0800">
-		<title lang="zh">记住乡愁4K第七季 第四十九集 长汀——客家首府 红军故乡（下）</title>
+		<title lang="zh">记住乡愁4K第七季 第四十八集 长汀——�）</title>
 	</programme>
 	<programme channel="纯享4K" start="20240419010300 +0800" stop="20240419014300 +0800">
 		<title lang="zh">探索b7发现4K 探秘云梦古墓（3）</title>
@@ -64766,6 +64769,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240419091300 +0800" stop="20240419095300 +0800">
 		<title lang="zh">探索b7发现4K 探秘云梦古墓（3）</title>
+	</programme>
+	<programme channel="纯享4K" start="20240419095300 +0800" stop="20240419101900 +0800">
+		<title lang="zh">丛林星球4K 众神花园</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -76515,6 +76521,9 @@
 	<programme channel="黑莓动画" start="20240419093600 +0800" stop="20240419095700 +0800">
 		<title lang="zh">10_小马宝莉：我的可爱标志上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240419095700 +0800" stop="20240419101000 +0800">
+		<title lang="zh">23_百变校巴7</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77955,6 +77964,9 @@
 	<programme channel="newtv精品大剧" start="20240419090900 +0800" stop="20240419095100 +0800">
 		<title lang="zh">32_老酒馆</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240419095100 +0800" stop="20240419103200 +0800">
+		<title lang="zh">33_老酒馆</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78095,6 +78107,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240419091400 +0800" stop="20240419100000 +0800">
 		<title lang="zh">37_绝地枪王二松花江上的枪声（DVD版）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240419100000 +0800" stop="20240419104700 +0800">
+		<title lang="zh">38_绝地枪王二松花江上的枪声（DVD版）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -78273,6 +78288,9 @@
 	<programme channel="newtv怡伴健康" start="20240419090300 +0800" stop="20240419094800 +0800">
 		<title lang="zh">17_刀锋乱世情</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240419094800 +0800" stop="20240419103000 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -78311,6 +78329,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240419091400 +0800" stop="20240419095600 +0800">
 		<title lang="zh">08_陆贞传奇[DVD版]</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240419095600 +0800" stop="20240419103800 +0800">
+		<title lang="zh">09_陆贞传奇[DVD版]</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -78362,6 +78383,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240419093000 +0800" stop="20240419095400 +0800">
 		<title lang="zh">美政客鼓动美军用“星盾”干预台海 乌军称将打击克里米亚大桥</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240419095400 +0800" stop="20240419101900 +0800">
+		<title lang="zh">美日在我周边演练“夺岛” 菲律宾企图“引狼入室”？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -78419,6 +78443,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240419090200 +0800" stop="20240419095200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240419095200 +0800" stop="20240419104200 +0800">
+		<title lang="zh">歌手吕晶带来《其实的我》 赢得现场掌声（20221208）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -78605,6 +78632,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240419090200 +0800" stop="20240419094800 +0800">
 		<title lang="zh">26_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240419094800 +0800" stop="20240419103300 +0800">
+		<title lang="zh">27_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
