@@ -17500,7 +17500,9 @@
 		<title lang="zh">导视</title>
 	</programme>
 	<programme channel="中国教育1台" start="20240419222300 +0800" stop="20240419223000 +0800">
-		<title>
+		<title lang="zh">微纪录:走电线的人</title>
+	</programme>
+	<programme channel="中国教育1台" start="20240419223000 +0800" stop="20240419230000 +0800">
 		<title lang="zh">等着我(12)</title>
 	</programme>
 	<programme channel="中国教育1台" start="20240419230000 +0800" stop="20240419235900 +0800">
@@ -30871,6 +30873,9 @@
 	<programme channel="咪咕足球" start="20240419210000 +0800" stop="20240419231500 +0800">
 		<title lang="zh">U23亚洲杯t中国U23vs韩国U23</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240419231500 +0800" stop="20240419000000 +0800">
+		<title lang="zh">2024赛季中超第6轮全场回放：天津津门虎0:0梅州客家（孙雨轩、徐阳）</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41861,9 +41866,6 @@
 		<title lang="zh">happy怀化</title>
 	</programme>
 	<programme channel="怀化文化旅游" start="20240419130500 +0800" stop="20240419133500 +0800">
-		<title lang="zh">朗朗其声</title>
-	</programme>
-	<programme channell="怀化文化旅游" start="20240419130500 +0800" stop="20240419133500 +0800">
 		<title lang="zh">朗朗其声</title>
 	</programme>
 	<programme channel="怀化文化旅游" start="20240419133500 +0800" stop="20240419142000 +0800">
@@ -78400,6 +78402,9 @@
 	<programme channel="newtv超级体育" start="20240419210000 +0800" stop="20240419230000 +0800">
 		<title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组(中国队-韩国队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240419230000 +0800" stop="20240419232500 +0800">
+		<title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -78976,6 +78981,9 @@
 	<programme channel="newtv军旅剧场" start="20240419221500 +0800" stop="20240419230000 +0800">
 		<title lang="zh">30_牧马人</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240419230000 +0800" stop="20240419234500 +0800">
+		<title lang="zh">21_铁道游击队 战后篇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79071,6 +79079,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240419221200 +0800" stop="20240419225300 +0800">
 		<title lang="zh">35_幸福照相馆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240419225300 +0800" stop="20240419233500 +0800">
+		<title lang="zh">36_幸福照相馆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -79401,6 +79412,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240419220500 +0800" stop="20240419225000 +0800">
 		<title lang="zh">第七场 北京源莱慧VS四川K2（第二局）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240419225000 +0800" stop="20240419232800 +0800">
+		<title lang="zh">第七场 北京源莱慧VS四川K2（第三局）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79749,6 +79763,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240419224100 +0800" stop="20240419224900 +0800">
 		<title lang="zh">《广场舞》 羊羊得意（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240419225400 +0800" stop="20240419231600 +0800">
+		<title lang="zh">好春光-毕刚</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
