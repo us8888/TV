@@ -60000,6 +60000,9 @@
 	<programme channel="newtv超级综艺" start="20240420015000 +0800" stop="20240420032100 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240420032100 +0800" stop="20240420042000 +0800">
+		<title lang="zh">乐龄唱响</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60021,6 +60024,9 @@
 	<programme channel="newtv超级电影" start="20240420013400 +0800" stop="20240420030700 +0800">
 		<title lang="zh">夜盗珍妃墓（上）</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240420030700 +0800" stop="20240420051600 +0800">
+		<title lang="zh">夜盗珍妃墓（下）</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60038,6 +60044,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240420022100 +0800" stop="20240420030400 +0800">
 		<title lang="zh">24_乡村爱情8：浪漫曲（下）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240420030400 +0800" stop="20240420035100 +0800">
+		<title lang="zh">25_乡村爱情8：浪漫曲（下）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60080,6 +60089,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240420020900 +0800" stop="20240420025400 +0800">
 		<title lang="zh">11_独步天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240420025400 +0800" stop="20240420033900 +0800">
+		<title lang="zh">12_独步天下</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60206,6 +60218,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240420002500 +0800" stop="20240420025900 +0800">
 		<title lang="zh">幸福账单（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240420025900 +0800" stop="20240420053700 +0800">
+		<title lang="zh">故事里的中国 第二季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
