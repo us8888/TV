@@ -76548,6 +76548,9 @@
 	<programme channel="黑莓动画" start="20240419104600 +0800" stop="20240419110900 +0800">
 		<title lang="zh">汪汪队立大功第3季24</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240419110900 +0800" stop="20240419112300 +0800">
+		<title lang="zh">23_钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77964,6 +77967,9 @@
 	<programme channel="newtv超级电视剧" start="20240419103100 +0800" stop="20240419111600 +0800">
 		<title lang="zh">35_陈情令</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240419111600 +0800" stop="20240419120200 +0800">
+		<title lang="zh">36_陈情令</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78011,6 +78017,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240419103200 +0800" stop="20240419111300 +0800">
 		<title lang="zh">34_老酒馆</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240419111300 +0800" stop="20240419115000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -78474,6 +78483,9 @@
 	<programme channel="newtv军事评论" start="20240419104500 +0800" stop="20240419111000 +0800">
 		<title lang="zh">美日菲欲合谋“南海陷阱” 法国被指准备向乌派兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240419111000 +0800" stop="20240419113500 +0800">
+		<title lang="zh">美日菲欲在南海“联合巡逻” 乌总统谈“撤退”施压美国</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -78581,6 +78593,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240419102900 +0800" stop="20240419111400 +0800">
 		<title lang="zh">36_扶摇</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240419111400 +0800" stop="20240419115900 +0800">
+		<title lang="zh">37_扶摇</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
