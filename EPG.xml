@@ -75,6 +75,9 @@
 	<programme channel="4K综艺" start="20240420103700 +0800" stop="20240420120900 +0800">
 		<title lang="zh">亲爱的客栈第三季20191115</title>
 	</programme>
+	<programme channel="4K综艺" start="20240420120900 +0800" stop="20240420133100 +0800">
+		<title lang="zh">亲爱的客栈第三季20191122</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -60357,6 +60360,9 @@
 	<programme channel="纯享4K" start="20240420115800 +0800" stop="20240420120300 +0800">
 		<title lang="zh">如果国宝会说话4K 殷墟嵌绿松石甲骨</title>
 	</programme>
+	<programme channel="纯享4K" start="20240420120300 +0800" stop="20240420124400 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72168,6 +72174,9 @@
 	<programme channel="黑莓动画" start="20240420115400 +0800" stop="20240420120700 +0800">
 		<title lang="zh">03_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420120700 +0800" stop="20240420122000 +0800">
+		<title lang="zh">04_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73551,6 +73560,9 @@
 	<programme channel="newtv超级电视剧" start="20240420120000 +0800" stop="20240420120500 +0800">
 		<title lang="zh">星推荐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240420120500 +0800" stop="20240420124600 +0800">
+		<title lang="zh">14_破冰行动</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73668,6 +73680,9 @@
 	<programme channel="newtv精品纪录" start="20240420115000 +0800" stop="20240420121500 +0800">
 		<title lang="zh">03_鳗鱼的故事</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240420121500 +0800" stop="20240420124200 +0800">
+		<title lang="zh">武汉：各大夜市一到夜里就摩肩接踵 排队腿抽筋也不能放过两种鱼</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -73715,6 +73730,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240420112300 +0800" stop="20240420121000 +0800">
 		<title lang="zh">21_隋唐英雄3</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240420121000 +0800" stop="20240420125600 +0800">
+		<title lang="zh">22_隋唐英雄3</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -73818,6 +73836,9 @@
 	<programme channel="newtv家庭剧场" start="20240420112600 +0800" stop="20240420121100 +0800">
 		<title lang="zh">21_烟火人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240420121100 +0800" stop="20240420125700 +0800">
+		<title lang="zh">22_烟火人家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -73859,6 +73880,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240420112500 +0800" stop="20240420121500 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240420121500 +0800" stop="20240420134200 +0800">
+		<title lang="zh">金沙血</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -74027,6 +74051,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240420111900 +0800" stop="20240420120100 +0800">
 		<title lang="zh">16_陆贞传奇[DVD版]</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240420120100 +0800" stop="20240420125200 +0800">
+		<title lang="zh">风味人间</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -74237,6 +74264,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240420113500 +0800" stop="20240420121400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240420121400 +0800" stop="20240420134600 +0800">
+		<title lang="zh">悬案密码1：笼里的女人</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
