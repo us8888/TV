@@ -59712,6 +59712,9 @@
 	<programme channel="黑莓动画" start="20240421003100 +0800" stop="20240421004600 +0800">
 		<title lang="zh">02_西行纪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240421004600 +0800" stop="20240421010800 +0800">
+		<title lang="zh">01_一人之下第二季</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60234,11 +60237,17 @@
 	<programme channel="newtv精品大剧" start="20240421001200 +0800" stop="20240421005700 +0800">
 		<title lang="zh">21_天狼星行动</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240421005700 +0800" stop="20240421014300 +0800">
+		<title lang="zh">22_天狼星行动</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
 	<programme channel="newtv精品纪录" start="20240421000100 +0800" stop="20240421005100 +0800">
 		<title lang="zh">01_一局输赢料不真</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240421005100 +0800" stop="20240421014000 +0800">
+		<title lang="zh">02_无声的功勋（第二季）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60251,6 +60260,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20240421000900 +0800" stop="20240421005000 +0800">
 		<title lang="zh">09_黎明前的抉择</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240421005000 +0800" stop="20240421013100 +0800">
+		<title lang="zh">10_黎明前的抉择</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60347,6 +60359,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20240421001000 +0800" stop="20240421004900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240421004900 +0800" stop="20240421013400 +0800">
+		<title lang="zh">24_铁腕行动</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
