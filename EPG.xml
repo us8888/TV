@@ -67413,9 +67413,6 @@
 		<display-name lang="zh">钦州综合</display-name>
 	</channel>
 	<programme channel="钦州综合" start="20240420000000 +0800" stop="20240420003000 +0800">
-		<title ly-name lang="zh">钦州综合</display-name>
-	</channel>
-	<programme channel="钦州综合" start="20240420000000 +0800" stop="20240420003000 +0800">
 		<title lang="zh">钦州新闻(重播)</title>
 	</programme>
 	<programme channel="钦州综合" start="20240420003000 +0800" stop="20240420183000 +0800">
@@ -72251,12 +72248,6 @@
 	<programme channel="黑莓动画" start="20240420151300 +0800" stop="20240420151700 +0800">
 		<title lang="zh">20_坦克世界动画：塔拉斯大战KV-拉特-6</title>
 	</programme>
-	<programme channel="黑莓动画" start="20240420152900 +0800" stop="20240420153400 +0800">
-		<title lang="zh">零食仓库寻宝挖掘机 小志看到什么也想吃</title>
-	</programme>
-	<programme channel="黑莓动画" start="20240420153700 +0800" stop="20240420160000 +0800">
-		<title lang="zh">51_格格不见了</title>
-	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73538,9 +73529,6 @@
 	<programme channel="newtv超级综艺" start="20240420144100 +0800" stop="20240420152900 +0800">
 		<title lang="zh">幸福账单</title>
 	</programme>
-	<programme channel="newtv超级综艺" start="20240420152900 +0800" stop="20240420164600 +0800">
-		<title lang="zh">向幸福出发</title>
-	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73688,9 +73676,6 @@
 	<programme channel="newtv超级电视剧" start="20240420145100 +0800" stop="20240420153200 +0800">
 		<title lang="zh">18_破冰行动</title>
 	</programme>
-	<programme channel="newtv超级电视剧" start="20240420153700 +0800" stop="20240420161900 +0800">
-		<title lang="zh">06_正是青春璀璨时</title>
-	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73756,9 +73741,6 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240420143700 +0800" stop="20240420152300 +0800">
 		<title lang="zh">31_真爱背后</title>
-	</programme>
-	<programme channel="newtv精品大剧" start="20240420152300 +0800" stop="20240420161000 +0800">
-		<title lang="zh">32_真爱背后</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -73840,9 +73822,6 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240420144100 +0800" stop="20240420152000 +0800">
 		<title lang="zh">新安沉船（上）</title>
-	</programme>
-	<programme channel="newtv精品纪录" start="20240420152000 +0800" stop="20240420160900 +0800">
-		<title lang="zh">04_孤独的路 勇敢的心</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -73969,9 +73948,6 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240420144600 +0800" stop="20240420153600 +0800">
 		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20240420153600 +0800" stop="20240420162400 +0800">
-		<title lang="zh">18_烽火孤儿</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -74252,9 +74228,6 @@
 	<programme channel="newtv怡伴健康" start="20240420144600 +0800" stop="20240420152500 +0800">
 		<title lang="zh">保护眼睛你做对了吗（下）</title>
 	</programme>
-	<programme channel="newtv怡伴健康" start="20240420152500 +0800" stop="20240420155200 +0800">
-		<title lang="zh">法官解案b7离异后的伤害</title>
-	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -74408,9 +74381,6 @@
 	<programme channel="newtv军事评论" start="20240420145700 +0800" stop="20240420152300 +0800">
 		<title lang="zh">台欲新建两导弹基地“吓阻”解放军 朝称“绝不避战”</title>
 	</programme>
-	<programme channel="newtv军事评论" start="20240420152300 +0800" stop="20240420154800 +0800">
-		<title lang="zh">朝鲜半岛开年风波不断 台当局幻想“倚美谋独”</title>
-	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -74497,12 +74467,6 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240420150700 +0800" stop="20240420152000 +0800">
 		<title lang="zh">情深深雨蒙蒙-李萍</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240420152000 +0800" stop="20240420153200 +0800">
-		<title lang="zh">漫步人生路-孙爱迪</title>
-	</programme>
-	<programme channel="newtv炫舞未来" start="20240420153200 +0800" stop="20240420162100 +0800">
-		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -75045,42 +75009,4 @@
 		<title lang="zh">名车改装厂(3)</title>
 	</programme>
 	<programme channel="求索纪录" start="20240420120500 +0800" stop="20240420125500 +0800">
-		<title lang="zh">我们的梦幻新家</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420125500 +0800" stop="20240420134500 +0800">
-		<title lang="zh">废车救星</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420134500 +0800" stop="20240420143500 +0800">
-		<title lang="zh">科幻成真Ⅱ(3)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420143500 +0800" stop="20240420153000 +0800">
-		<title lang="zh">水池梦工厂(8)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420153000 +0800" stop="20240420162000 +0800">
-		<title lang="zh">顶尖钓手(7)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420162000 +0800" stop="20240420171000 +0800">
-		<title lang="zh">探秘地震</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420171000 +0800" stop="20240420180500 +0800">
-		<title lang="zh">完全改造-超重篇Ⅳ(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420180500 +0800" stop="20240420185500 +0800">
-		<title lang="zh">末代极圈居民(3)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420185500 +0800" stop="20240420194500 +0800">
-		<title lang="zh">非洲大恶斗(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420194500 +0800" stop="20240420203500 +0800">
-		<title lang="zh">兽医毕业班(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420203500 +0800" stop="20240420213000 +0800">
-		<title lang="zh">草根飞天梦(3)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420213000 +0800" stop="20240420222000 +0800">
-		<title lang="zh">美食天堂Ⅶ(3)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240420222000 +0800" stop="20240420231000 +0800">
-		<title lang="zh">世界工程五霸Ⅱ(9)</title>
-	</programme>
-</tv>
+		<title la
