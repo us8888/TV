@@ -54421,7 +54421,19 @@
 		<title lang="zh">银发大学</title>
 	</programme>
 	<programme channel="现代教育" start="20240421200000 +0800" stop="20240421200800 +0800">
-		<title lang="zh">蓝色星球</title�</title>
+		<title lang="zh">蓝色星球</title>
+	</programme>
+	<programme channel="现代教育" start="20240421200800 +0800" stop="20240421204100 +0800">
+		<title lang="zh">小鬼当家</title>
+	</programme>
+	<programme channel="现代教育" start="20240421204100 +0800" stop="20240421212000 +0800">
+		<title lang="zh">边城故事</title>
+	</programme>
+	<programme channel="现代教育" start="20240421212000 +0800" stop="20240421215700 +0800">
+		<title lang="zh">好奇魔学堂</title>
+	</programme>
+	<programme channel="现代教育" start="20240421215700 +0800" stop="20240421222500 +0800">
+		<title lang="zh">动画片</title>
 	</programme>
 	<programme channel="现代教育" start="20240421222500 +0800" stop="20240421231000 +0800">
 		<title lang="zh">五年级插班生</title>
@@ -55675,18 +55687,6 @@
 		<title lang="zh">美丽中国:新疆</title>
 	</programme>
 	<programme channel="电视指南" start="20240421210000 +0800" stop="20240421212000 +0800">
-		<title lang="zh">整点冲击播</title>
-	</programme>
-	<programme channel="电视指南" start="20240421212000 +0800" stop="20240421214000 +0800">
-		<title lang="zh">我喜欢我推荐:蔚蓝之境(10)</title>
-	</programme>
-	<programme channel="电视指南" start="20240421214000 +0800" stop="20240421220500 +0800">
-		<title lang="zh">我喜欢我推荐:蔚蓝之境(11)</title>
-	</programme>
-	<programme channel="电视指南" start="20240421220500 +0800" stop="20240421223500 +0800">
-		<title lang="zh">军火之源</title>
-	</programme>
-	<programme channel="电�00 +0800">
 		<title lang="zh">整点冲击播</title>
 	</programme>
 	<programme channel="电视指南" start="20240421212000 +0800" stop="20240421214000 +0800">
@@ -69240,6 +69240,9 @@
 	<programme channel="黑莓动画" start="20240421140000 +0800" stop="20240421140300 +0800">
 		<title lang="zh">06_一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240421141500 +0800" stop="20240421141700 +0800">
+		<title lang="zh">植物大战僵尸动画：植物与僵尸的屋顶之战，僵尸BOSS能吃到脑子？</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70245,6 +70248,9 @@
 	<programme channel="newtv家庭剧场" start="20240421131900 +0800" stop="20240421140400 +0800">
 		<title lang="zh">29_烟火人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240421140400 +0800" stop="20240421145200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -70334,6 +70340,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240421132100 +0800" stop="20240421140600 +0800">
 		<title lang="zh">39_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240421140600 +0800" stop="20240421145100 +0800">
+		<title lang="zh">40_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -70442,6 +70451,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240421135600 +0800" stop="20240421140600 +0800">
 		<title lang="zh">小品《陌生人》 表演：巩汉林 蔡明</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240421140600 +0800" stop="20240421144600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -70587,6 +70599,9 @@
 	<programme channel="newtv军事评论" start="20240421133700 +0800" stop="20240421140200 +0800">
 		<title lang="zh">代表委员的强军故事 第1集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240421140200 +0800" stop="20240421142800 +0800">
+		<title lang="zh">代表委员的强军故事 第2集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -70658,6 +70673,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240421131900 +0800" stop="20240421140900 +0800">
 		<title lang="zh">草原“腾格尔”分享模仿精髓（20221018）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240421140900 +0800" stop="20240421145800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
