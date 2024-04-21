@@ -69198,6 +69198,9 @@
 	<programme channel="黑莓动画" start="20240421120700 +0800" stop="20240421122000 +0800">
 		<title lang="zh">02_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240421122700 +0800" stop="20240421123400 +0800">
+		<title lang="zh">02_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69981,6 +69984,9 @@
 	<programme channel="newtv精品纪录" start="20240421120300 +0800" stop="20240421123000 +0800">
 		<title lang="zh">杭州：南高银北古水大红灯高高挂 灌汤煎包和印象中的不一样</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240421123000 +0800" stop="20240421125800 +0800">
+		<title lang="zh">南宁：水果得到最稳妥的安排 螺丝搭配鸭脚后小龙虾都要靠边站</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -70085,6 +70091,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240421113700 +0800" stop="20240421122500 +0800">
 		<title lang="zh">20_烽火孤儿</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240421122500 +0800" stop="20240421131200 +0800">
+		<title lang="zh">21_烽火孤儿</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -70245,6 +70254,9 @@
 	<programme channel="newtv动作电影" start="20240421104400 +0800" stop="20240421122600 +0800">
 		<title lang="zh">极速生活</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240421122600 +0800" stop="20240421135300 +0800">
+		<title lang="zh">金沙血</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -70304,6 +70316,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240421113700 +0800" stop="20240421122300 +0800">
 		<title lang="zh">07_一生只爱你</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240421122300 +0800" stop="20240421130800 +0800">
+		<title lang="zh">08_一生只爱你</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -70431,6 +70446,9 @@
 	<programme channel="newtv军事评论" start="20240421115600 +0800" stop="20240421122100 +0800">
 		<title lang="zh">“刀尖起舞”的排爆尖兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240421122100 +0800" stop="20240421124600 +0800">
+		<title lang="zh">“空中铁拳”的决胜时刻</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -70497,6 +70515,9 @@
 	<programme channel="newtv炫舞未来" start="20240421111000 +0800" stop="20240421122700 +0800">
 		<title lang="zh">现场撕破脸？朱迅怒砸手机（20220120）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240421122700 +0800" stop="20240421131900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -70547,6 +70568,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240421115100 +0800" stop="20240421122800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240421122800 +0800" stop="20240421140000 +0800">
+		<title lang="zh">蓝调海之恋</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
