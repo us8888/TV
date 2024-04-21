@@ -24543,6 +24543,9 @@
 	<programme channel="咪咕足球" start="20240422024200 +0800" stop="20240422042900 +0800">
 		<title lang="zh">23/24赛季西甲第31轮全场回放：拉斯帕尔马斯0:2塞维利亚（李霄）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240422042900 +0800" stop="20240422065600 +0800">
+		<title lang="zh">23/24赛季西甲第31轮全场回放：马德里竞技3:1吉罗纳（鲁靖明、马延峰）（50帧原画）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -48588,6 +48591,9 @@
 	<programme channel="纯享4K" start="20240422035100 +0800" stop="20240422043300 +0800">
 		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
 	</programme>
+	<programme channel="纯享4K" start="20240422043300 +0800" stop="20240422051500 +0800">
+		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘湿地公园 寻找高山雪豹</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -57477,6 +57483,9 @@
 	<programme channel="黑莓动画" start="20240422040700 +0800" stop="20240422042900 +0800">
 		<title lang="zh">03_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240422042900 +0800" stop="20240422045200 +0800">
+		<title lang="zh">04_马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -57939,6 +57948,9 @@
 	<programme channel="newtv超级电视剧" start="20240422035900 +0800" stop="20240422044400 +0800">
 		<title lang="zh">06_乡村爱情9（上）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240422044900 +0800" stop="20240422053000 +0800">
+		<title lang="zh">28_刘家媳妇</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -57977,6 +57989,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240422033100 +0800" stop="20240422041900 +0800">
 		<title lang="zh">04_海洋</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240422041900 +0800" stop="20240422050800 +0800">
+		<title lang="zh">04_不废江河</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -58056,6 +58071,9 @@
 	<programme channel="newtv热播精选" start="20240422035000 +0800" stop="20240422043700 +0800">
 		<title lang="zh">01_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240422043700 +0800" stop="20240422052300 +0800">
+		<title lang="zh">02_梦中的那片海</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -58070,6 +58088,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240422040000 +0800" stop="20240422044400 +0800">
 		<title lang="zh">50_女医明妃传</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240422044400 +0800" stop="20240422052300 +0800">
+		<title lang="zh">01_御赐小仵作</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -58107,6 +58128,9 @@
 	<programme channel="newtv怡伴健康" start="20240422040000 +0800" stop="20240422042700 +0800">
 		<title lang="zh">奇妙的感官（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240422042700 +0800" stop="20240422045400 +0800">
+		<title lang="zh">雨林优先（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -58130,6 +58154,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240422040800 +0800" stop="20240422043400 +0800">
 		<title lang="zh">再探中国航空工业历史博物馆</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240422043400 +0800" stop="20240422050100 +0800">
+		<title lang="zh">军迷越南游记（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -58176,6 +58203,9 @@
 	<programme channel="newtv精品综合" start="20240422035400 +0800" stop="20240422044000 +0800">
 		<title lang="zh">18_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240422044000 +0800" stop="20240422052500 +0800">
+		<title lang="zh">19_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -58187,6 +58217,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240422025700 +0800" stop="20240422042300 +0800">
 		<title lang="zh">失调</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240422042300 +0800" stop="20240422053600 +0800">
+		<title lang="zh">夺命寄生</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -58259,6 +58292,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240422025100 +0800" stop="20240422042300 +0800">
 		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240422042300 +0800" stop="20240422052000 +0800">
+		<title lang="zh">全运会武术套路团体赛：男子三人徒手对练</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
