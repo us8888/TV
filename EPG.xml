@@ -57807,6 +57807,9 @@
 	<programme channel="纯享4K" start="20240421093300 +0800" stop="20240421100000 +0800">
 		<title lang="zh">丛林星球4K 古老丛林</title>
 	</programme>
+	<programme channel="纯享4K" start="20240421100000 +0800" stop="20240421105300 +0800">
+		<title lang="zh">乘火车看中国4K 第一集 开放之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69150,6 +69153,9 @@
 	<programme channel="黑莓动画" start="20240421093000 +0800" stop="20240421095100 +0800">
 		<title lang="zh">02_小马宝莉：我的可爱标志上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240421095100 +0800" stop="20240421100400 +0800">
+		<title lang="zh">01_百变校巴7</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69687,6 +69693,9 @@
 	<programme channel="newtv超级综艺" start="20240421093800 +0800" stop="20240421094800 +0800">
 		<title lang="zh">文化十分</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240421094800 +0800" stop="20240421104700 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69735,6 +69744,9 @@
 	<programme channel="newtv超级电影" start="20240421075700 +0800" stop="20240421094800 +0800">
 		<title lang="zh">一万年以后</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240421094800 +0800" stop="20240421114200 +0800">
+		<title lang="zh">芒咕的动物城</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -69782,6 +69794,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240421090900 +0800" stop="20240421095400 +0800">
 		<title lang="zh">43_陈情令</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240421095400 +0800" stop="20240421104000 +0800">
+		<title lang="zh">44_陈情令</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -69875,6 +69890,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240421093300 +0800" stop="20240421095700 +0800">
 		<title lang="zh">第六集 陈坤 如实呈现</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240421095700 +0800" stop="20240421104500 +0800">
+		<title lang="zh">第3集：亚马孙幸存宝宝</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -70143,6 +70161,9 @@
 	<programme channel="newtv怡伴健康" start="20240421091500 +0800" stop="20240421100000 +0800">
 		<title lang="zh">21_刀锋乱世情</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240421100000 +0800" stop="20240421104200 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -70184,6 +70205,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240421091400 +0800" stop="20240421095600 +0800">
 		<title lang="zh">18_陆贞传奇[DVD版]</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240421095600 +0800" stop="20240421103800 +0800">
+		<title lang="zh">19_陆贞传奇[DVD版]</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -70238,6 +70262,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240421094000 +0800" stop="20240421100100 +0800">
 		<title lang="zh">莫斯科恐袭事件或致俄乌冲突升级</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240421100100 +0800" stop="20240421102200 +0800">
+		<title lang="zh">解码美B-21轰炸机</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
