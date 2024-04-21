@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240421192000 +0800" stop="20240421205400 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20191127</title>
 	</programme>
+	<programme channel="4K综艺" start="20240421205400 +0800" stop="20240421212700 +0800">
+		<title lang="zh">重返地球20180209</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -69522,6 +69525,12 @@
 	<programme channel="黑莓动画" start="20240421204400 +0800" stop="20240421205700 +0800">
 		<title lang="zh">01_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240421205700 +0800" stop="20240421211000 +0800">
+		<title lang="zh">02_托宝战士之银河侦探1</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240421211500 +0800" stop="20240421211900 +0800">
+		<title lang="zh">02_统一战争</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70098,6 +70107,9 @@
 	<programme channel="newtv超级综艺" start="20240421193000 +0800" stop="20240421205200 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240421205200 +0800" stop="20240421222000 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70293,6 +70305,9 @@
 	<programme channel="newtv超级电视剧" start="20240421200700 +0800" stop="20240421205300 +0800">
 		<title lang="zh">37_新万家灯火</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240421205700 +0800" stop="20240421214500 +0800">
+		<title lang="zh">12_繁花（沪语版）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -70382,6 +70397,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240421201600 +0800" stop="20240421205700 +0800">
 		<title lang="zh">13_猎冰</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240421205700 +0800" stop="20240421214300 +0800">
+		<title lang="zh">37_无间</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -70488,6 +70506,9 @@
 	<programme channel="newtv精品纪录" start="20240421202900 +0800" stop="20240421205300 +0800">
 		<title lang="zh">02_武汉b7百草园书店</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240421205300 +0800" stop="20240421213400 +0800">
+		<title lang="zh">服务大局</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -70571,6 +70592,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240421201000 +0800" stop="20240421205500 +0800">
 		<title lang="zh">27_梦华录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240421205500 +0800" stop="20240421212500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -70661,6 +70685,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240421203900 +0800" stop="20240421210900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240421210900 +0800" stop="20240421215100 +0800">
+		<title lang="zh">33_牧马人</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -70836,6 +70863,9 @@
 	<programme channel="newtv热播精选" start="20240421202400 +0800" stop="20240421210900 +0800">
 		<title lang="zh">16_云顶天宫</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240421210900 +0800" stop="20240421215300 +0800">
+		<title lang="zh">17_云顶天宫</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70898,6 +70928,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240421201500 +0800" stop="20240421210100 +0800">
 		<title lang="zh">09_爱神的黑白羽翼</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240421210100 +0800" stop="20240421214800 +0800">
+		<title lang="zh">10_爱神的黑白羽翼</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -71142,6 +71175,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240421201700 +0800" stop="20240421210700 +0800">
 		<title lang="zh">05_锦心似玉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240421210700 +0800" stop="20240421215600 +0800">
+		<title lang="zh">06_锦心似玉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -71274,6 +71310,9 @@
 	<programme channel="newtv军事评论" start="20240421202900 +0800" stop="20240421205900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240421205900 +0800" stop="20240421212500 +0800">
+		<title lang="zh">靶场铸剑</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71372,6 +71411,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240421195800 +0800" stop="20240421204700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240421204700 +0800" stop="20240421213600 +0800">
+		<title lang="zh">陈氏兄弟PK苏氏姐妹 姐妹花更胜一筹获得非常默契搭档奖杯（20231016）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -71501,6 +71543,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240421200400 +0800" stop="20240421205200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240421205200 +0800" stop="20240421223000 +0800">
+		<title lang="zh">红色之路</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -71699,6 +71744,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240421202500 +0800" stop="20240421211100 +0800">
 		<title lang="zh">12_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240421211100 +0800" stop="20240421223500 +0800">
+		<title lang="zh">锦衣之下之绣春刀</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
