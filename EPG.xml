@@ -58065,6 +58065,12 @@
 	<programme channel="纯享4K" start="20240421222800 +0800" stop="20240421225200 +0800">
 		<title lang="zh">了不起的冬天4K 第1集 速度的艺术</title>
 	</programme>
+	<programme channel="纯享4K" start="20240421225200 +0800" stop="20240421231600 +0800">
+		<title lang="zh">了不起的冬天4K 第2集 默契</title>
+	</programme>
+	<programme channel="纯享4K" start="20240421231600 +0800" stop="20240421001600 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会 三</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62194,10 +62200,7 @@
 		<title lang="zh">智慧斗士</title>
 	</programme>
 	<programme channel="辽宁体育" start="20240421100400 +0800" stop="20240421102400 +0800">
-		<title lang="zh">名医之道</title>
-	</programme>
-	<programme channel="辽宁体育" start="20240421102400 +0800" stop="20240421112000 +0800">
-		<title lang="zh">智慧斗士</title>
+		<ti/title>
 	</programme>
 	<programme channel="辽宁体育" start="20240421112000 +0800" stop="20240421120000 +0800">
 		<title lang="zh">好日子</title>
@@ -70473,6 +70476,9 @@
 	<programme channel="newtv精品大剧" start="20240421221300 +0800" stop="20240421225800 +0800">
 		<title lang="zh">38_无间</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240421225800 +0800" stop="20240421234300 +0800">
+		<title lang="zh">39_无间</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -70587,6 +70593,9 @@
 	<programme channel="newtv精品纪录" start="20240421221500 +0800" stop="20240421225400 +0800">
 		<title lang="zh">主食千变（三）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240421225400 +0800" stop="20240421233300 +0800">
+		<title lang="zh">主食千变（四）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -70679,6 +70688,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240421221000 +0800" stop="20240421225600 +0800">
 		<title lang="zh">48_白发</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240421225600 +0800" stop="20240421234100 +0800">
+		<title lang="zh">49_白发</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -70872,6 +70884,9 @@
 	<programme channel="newtv家庭剧场" start="20240421220200 +0800" stop="20240421224800 +0800">
 		<title lang="zh">03_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240421224800 +0800" stop="20240421233400 +0800">
+		<title lang="zh">04_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -70964,6 +70979,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240421215300 +0800" stop="20240421225000 +0800">
 		<title lang="zh">新游记</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240421225000 +0800" stop="20240421233900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -71552,6 +71570,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240421224600 +0800" stop="20240421225400 +0800">
 		<title lang="zh">《广场舞》 羊羊得意（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240421225400 +0800" stop="20240421233400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
