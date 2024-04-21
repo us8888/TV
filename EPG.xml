@@ -48207,6 +48207,9 @@
 	<programme channel="纯享4K" start="20240422020800 +0800" stop="20240422025900 +0800">
 		<title lang="zh">乘火车看中国4K 第三集 复兴之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240422025900 +0800" stop="20240422035100 +0800">
+		<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -57090,6 +57093,9 @@
 	<programme channel="黑莓电影" start="20240422005400 +0800" stop="20240422030100 +0800">
 		<title lang="zh">春之樱：吟子和她的弟弟</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240422030100 +0800" stop="20240422044900 +0800">
+		<title lang="zh">完全结婚手册</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -57612,6 +57618,9 @@
 	<programme channel="newtv热播精选" start="20240422010400 +0800" stop="20240422024900 +0800">
 		<title lang="zh">夺命手机</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240422024900 +0800" stop="20240422035000 +0800">
+		<title lang="zh">36_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -57696,11 +57705,17 @@
 	<programme channel="newtv惊悚悬疑" start="20240422012100 +0800" stop="20240422025700 +0800">
 		<title lang="zh">侠僧探案传奇之大夜叉</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240422025700 +0800" stop="20240422042300 +0800">
+		<title lang="zh">失调</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240422003500 +0800" stop="20240422030900 +0800">
 		<title lang="zh">幸福账单（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240422030900 +0800" stop="20240422054900 +0800">
+		<title lang="zh">故事里的中国 第二季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -57758,6 +57773,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240422012100 +0800" stop="20240422025100 +0800">
 		<title lang="zh">天下第一镖局2长风厉</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240422025100 +0800" stop="20240422042300 +0800">
+		<title lang="zh">绝世低手之夺命玉玺</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
