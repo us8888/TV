@@ -56862,6 +56862,12 @@
 	<programme channel="黑莓动画" start="20240422004000 +0800" stop="20240422010200 +0800">
 		<title lang="zh">03_一人之下第二季</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240422005400 +0800" stop="20240422030100 +0800">
+		<title lang="zh">春之樱：吟子和她的弟弟</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -57255,6 +57261,9 @@
 	<programme channel="newtv超级综艺" start="20240422002000 +0800" stop="20240422010500 +0800">
 		<title lang="zh">25_向往的生活</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240422010500 +0800" stop="20240422015100 +0800">
+		<title lang="zh">26_向往的生活</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57275,6 +57284,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20240422000700 +0800" stop="20240422005200 +0800">
 		<title lang="zh">01_乡村爱情9（上）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240422005200 +0800" stop="20240422013800 +0800">
+		<title lang="zh">02_乡村爱情9（上）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -57365,6 +57377,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20240422001000 +0800" stop="20240422004900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240422004900 +0800" stop="20240422013500 +0800">
+		<title lang="zh">03_香格里拉</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
