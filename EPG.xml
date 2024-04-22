@@ -96,6 +96,9 @@
 	<programme channel="4K综艺" start="20240422200100 +0800" stop="20240422213400 +0800">
 		<title lang="zh">真心大冒险20180616</title>
 	</programme>
+	<programme channel="4K综艺" start="20240422213400 +0800" stop="20240422232300 +0800">
+		<title lang="zh">真心大冒险20180623</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -4194,74 +4197,53 @@
 	<channel id="CCTV5+">
 		<display-name lang="zh">CCTV5+</display-name>
 	</channel>
-	<programme channel="CCTV5+" start="20240422000500 +0800" stop="20240422013500 +0800">
-		<title lang="zh">实况录像-2024年世界室内田径锦标赛 1</title>
+	<programme channel="CCTV5+" start="20240422013500 +0800" stop="20240422023500 +0800">
+		<title lang="zh">实况录像-2023/2024赛季短道速滑世界杯 波兰站 2</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422013500 +0800" stop="20240422023600 +0800">
-		<title lang="zh">赛事集锦-2024年国际体联体操世界杯-科特布斯站 1</title>
+	<programme channel="CCTV5+" start="20240422023500 +0800" stop="20240422040000 +0800">
+		<title lang="zh">实况录像-2024年世界花样滑冰锦标赛  男单自由滑</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422023600 +0800" stop="20240422040000 +0800">
-		<title lang="zh">2023/2024赛季欧洲篮球联赛-第29轮（巴塞罗那-贝尔格莱德游击队）</title>
+	<programme channel="CCTV5+" start="20240422040000 +0800" stop="20240422053000 +0800">
+		<title lang="zh">国际足球赛场-23-24赛季德甲联赛第28轮 柏林联—勒沃库森</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422040000 +0800" stop="20240422060000 +0800">
+	<programme channel="CCTV5+" start="20240422053000 +0800" stop="20240422070000 +0800">
+		<title lang="zh">实况录像-2024年ATP1000男子网球大师赛 迈阿密站 1/4决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20240422070000 +0800" stop="20240422090000 +0800">
 		<title lang="zh">2024年世界女子冰壶锦标赛-半决赛</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422060000 +0800" stop="20240422073000 +0800">
-		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 1</title>
+	<programme channel="CCTV5+" start="20240422090000 +0800" stop="20240422103000 +0800">
+		<title lang="zh">2023/2024赛季欧洲篮球联赛-第33轮（费内巴切-伊斯坦布尔艾菲斯)</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422073000 +0800" stop="20240422080000 +0800">
-		<title lang="zh">健身动起来</title>
+	<programme channel="CCTV5+" start="20240422103000 +0800" stop="20240422120000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 巴塞罗那—巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422080000 +0800" stop="20240422090100 +0800">
+	<programme channel="CCTV5+" start="20240422120000 +0800" stop="20240422130000 +0800">
 		<title lang="zh">实况录像-2024年国际体联体操世界杯 多哈站 1</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422090100 +0800" stop="20240422103100 +0800">
-		<title lang="zh">国际足球赛场-23-24赛季德甲联赛第30轮 柏林联—拜仁慕尼黑</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422103100 +0800" stop="20240422120000 +0800">
-		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 4</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422120000 +0800" stop="20240422123500 +0800">
-		<title lang="zh">体坛快讯</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422123500 +0800" stop="20240422125800 +0800">
-		<title lang="zh">艺术里的奥林匹克</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422125800 +0800" stop="20240422140000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2024年世界泳联跳水世界杯总决赛 女子3米板决赛（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422140000 +0800" stop="20240422143000 +0800">
-		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-索菲亚站 25分钟版1</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422143000 +0800" stop="20240422163300 +0800">
-		<title lang="zh">2024年全国举重锦标赛-男子55公斤级决赛</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422163300 +0800" stop="20240422180000 +0800">
+	<programme channel="CCTV5+" start="20240422130000 +0800" stop="20240422143000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 厦门站</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422180000 +0800" stop="20240422183500 +0800">
-		<title lang="zh">体育新闻</title>
+	<programme channel="CCTV5+" start="20240422143000 +0800" stop="20240422160000 +0800">
+		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 3</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422183500 +0800" stop="20240422193000 +0800">
-		<title lang="zh">天下足球</title>
+	<programme channel="CCTV5+" start="20240422160000 +0800" stop="20240422173000 +0800">
+		<title lang="zh">国际足球赛场-23-24赛季德甲联赛第30轮 柏林联—拜仁慕尼黑</title>
 	</programme>
-	<programme channel="CCTV5+" start="20240422193000 +0800" stop="20240422205500 +0800">
+	<programme channel="CCTV5+" start="20240422173000 +0800" stop="20240422183000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2024年世界泳联跳水世界杯总决赛 女子3米板决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20240422183000 +0800" stop="20240422203500 +0800">
+		<title lang="zh">2024年全国举重锦标赛-男子61公斤级决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20240422203500 +0800" stop="20240422205000 +0800">
+		<title lang="zh">赛事集锦（奥林匹克）-2024年世界泳联花样游泳世界杯 北京站 10分钟版（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20240422205000 +0800" stop="20240422230500 +0800">
+		<title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组（日本队-韩国队）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20240422230500 +0800" stop="20240422235900 +0800">
 		<title lang="zh">实况录像-2024年国际乒联单打世界杯 决赛</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422205500 +0800" stop="20240422214500 +0800">
-		<title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组（阿联酋队—中国队）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422214500 +0800" stop="20240422220000 +0800">
-		<title lang="zh">体育世界</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422220000 +0800" stop="20240422230000 +0800">
-		<title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组（阿联酋队—中国队）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422230000 +0800" stop="20240422232500 +0800">
-		<title lang="zh">实况录像-2024年全国游泳冠军赛 女子100米仰泳决赛等（录播）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20240422232500 +0800" stop="20240422235900 +0800">
-		<title lang="zh">2024卡塔尔U23亚洲杯-小组赛C组（沙特阿拉伯队—伊拉克队）</title>
 	</programme>
 	<channel id="CCTV6">
 		<display-name lang="zh">CCTV6</display-name>
@@ -57753,6 +57735,12 @@
 	<programme channel="纯享4K" start="20240422203700 +0800" stop="20240422211900 +0800">
 		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘湿地公园 寻找高山雪豹</title>
 	</programme>
+	<programme channel="纯享4K" start="20240422213000 +0800" stop="20240422214400 +0800">
+		<title lang="zh">跑马溜溜的云上4K 第3集</title>
+	</programme>
+	<programme channel="纯享4K" start="20240422214400 +0800" stop="20240422220900 +0800">
+		<title lang="zh">辣椒的征途4K 第1集 红色征途的起点</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67824,6 +67812,12 @@
 	<programme channel="黑莓动画" start="20240422211200 +0800" stop="20240422211700 +0800">
 		<title lang="zh">06_少康复国</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240422212400 +0800" stop="20240422213100 +0800">
+		<title lang="zh">05_午餐谜案</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240422213800 +0800" stop="20240422215100 +0800">
+		<title lang="zh">16_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67865,6 +67859,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240422201900 +0800" stop="20240422214000 +0800">
 		<title lang="zh">烧烤之王</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240422214000 +0800" stop="20240422234700 +0800">
+		<title lang="zh">星际迷航</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -68631,6 +68628,9 @@
 	<programme channel="newtv精品大剧" start="20240422203800 +0800" stop="20240422212500 +0800">
 		<title lang="zh">01_昙花梦</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240422212500 +0800" stop="20240422215500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -68826,6 +68826,9 @@
 	<programme channel="newtv古装剧场" start="20240422210600 +0800" stop="20240422213600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240422213600 +0800" stop="20240422222200 +0800">
+		<title lang="zh">51_白发</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -68919,6 +68922,9 @@
 	<programme channel="newtv军旅剧场" start="20240422210100 +0800" stop="20240422214400 +0800">
 		<title lang="zh">35_牧马人</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240422214400 +0800" stop="20240422222900 +0800">
+		<title lang="zh">01_危机迷雾</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -69005,6 +69011,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240422203300 +0800" stop="20240422211900 +0800">
 		<title lang="zh">07_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240422211900 +0800" stop="20240422214900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -69156,6 +69165,9 @@
 	<programme channel="newtv爱情喜剧" start="20240422204200 +0800" stop="20240422212900 +0800">
 		<title lang="zh">15_爱神的黑白羽翼</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240422212900 +0800" stop="20240422221500 +0800">
+		<title lang="zh">16_爱神的黑白羽翼</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -69203,6 +69215,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240422210700 +0800" stop="20240422213700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240422213700 +0800" stop="20240422230200 +0800">
+		<title lang="zh">生死游戏</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -69312,6 +69327,9 @@
 	<programme channel="newtv怡伴健康" start="20240422211200 +0800" stop="20240422214200 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240422214200 +0800" stop="20240422222600 +0800">
+		<title lang="zh">北京源莱慧VS山东好哥哥a0第三局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -69398,6 +69416,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240422205800 +0800" stop="20240422214200 +0800">
 		<title lang="zh">11_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240422214200 +0800" stop="20240422231900 +0800">
+		<title lang="zh">撒贝宁呼麦惊到了阿云嘎</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -69627,6 +69648,12 @@
 	<programme channel="newtv炫舞未来" start="20240422205800 +0800" stop="20240422211800 +0800">
 		<title lang="zh">《相亲进行曲》 宋小宝 赵海燕</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240422211800 +0800" stop="20240422213300 +0800">
+		<title lang="zh">《相亲2》 宋小宝 赵海燕</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240422213300 +0800" stop="20240422222900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -69764,6 +69791,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240422203900 +0800" stop="20240422212700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240422212700 +0800" stop="20240422230600 +0800">
+		<title lang="zh">黄庙村b7地宫美人</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
