@@ -50430,6 +50430,9 @@
 	<programme channel="纯享4K" start="20240425001600 +0800" stop="20240425004400 +0800">
 		<title lang="zh">记住乡愁4K第八季 桃源村——桃源深处有人家</title>
 	</programme>
+	<programme channel="纯享4K" start="20240425004400 +0800" stop="20240425011200 +0800">
+		<title lang="zh">记住乡愁4K第八季 骆驼湾村——只要有信心 黄土变成金</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60150,6 +60153,9 @@
 	<programme channel="黑莓动画" start="20240425002900 +0800" stop="20240425004800 +0800">
 		<title lang="zh">10_西行纪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240425004800 +0800" stop="20240425011000 +0800">
+		<title lang="zh">09_一人之下第二季</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60699,11 +60705,17 @@
 	<programme channel="newtv军旅剧场" start="20240425001600 +0800" stop="20240425005700 +0800">
 		<title lang="zh">30_黎明前的抉择</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240425005700 +0800" stop="20240425013800 +0800">
+		<title lang="zh">31_黎明前的抉择</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240425001400 +0800" stop="20240425010000 +0800">
 		<title lang="zh">17_加油！妈妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240425010000 +0800" stop="20240425014500 +0800">
+		<title lang="zh">18_加油！妈妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
