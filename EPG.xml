@@ -41485,7 +41485,11 @@
 		<title lang="zh">中华警花</title>
 	</programme>
 	<programme channel="新片放映厅" start="20240425175500 +0800" stop="20240425192200 +0800">
-		<title lang="zh">龙虎过江</titgramme>
+		<title lang="zh">龙虎过江</title>
+	</programme>
+	<programme channel="新片放映厅" start="20240425192200 +0800" stop="20240425204900 +0800">
+		<title lang="zh">刀客外传</title>
+	</programme>
 	<programme channel="新片放映厅" start="20240425204900 +0800" stop="20240425221500 +0800">
 		<title lang="zh">精武小英雄</title>
 	</programme>
@@ -46539,9 +46543,6 @@
 		<title lang="zh">江门新时空</title>
 	</programme>
 	<programme channel="江门侨乡生活" start="20240425083200 +0800" stop="20240425101200 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel=amme channel="江门侨乡生活" start="20240425083200 +0800" stop="20240425101200 +0800">
 		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="江门侨乡生活" start="20240425101200 +0800" stop="20240425114800 +0800">
@@ -70472,6 +70473,9 @@
 	<programme channel="newtv超级综艺" start="20240425193000 +0800" stop="20240425205200 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240425205200 +0800" stop="20240425221500 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70570,6 +70574,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240425185400 +0800" stop="20240425205600 +0800">
 		<title lang="zh">电影《潜伏者》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240425205600 +0800" stop="20240425223300 +0800">
+		<title lang="zh">电影《蜀山：新蜀山剑侠》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
