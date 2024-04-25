@@ -70653,6 +70653,9 @@
 	<programme channel="newtv超级电视剧" start="20240425193700 +0800" stop="20240425201200 +0800">
 		<title lang="zh">05_鬼吹灯之精绝古城</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240425201200 +0800" stop="20240425204500 +0800">
+		<title lang="zh">06_鬼吹灯之精绝古城</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -70736,6 +70739,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240425194300 +0800" stop="20240425201300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240425201300 +0800" stop="20240425205800 +0800">
+		<title lang="zh">15_珠江人家</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -71175,6 +71181,9 @@
 	<programme channel="newtv热播精选" start="20240425192800 +0800" stop="20240425200400 +0800">
 		<title lang="zh">09_怒晴湘西</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240425200400 +0800" stop="20240425204200 +0800">
+		<title lang="zh">10_怒晴湘西</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -71237,6 +71246,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240425192000 +0800" stop="20240425200900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240425200900 +0800" stop="20240425205500 +0800">
+		<title lang="zh">10_乡村爱情10（上）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -71559,6 +71571,9 @@
 	<programme channel="newtv军事评论" start="20240425191900 +0800" stop="20240425201300 +0800">
 		<title lang="zh">携笔从戎砺芳华——《老兵你好》征兵季特别节目（一）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240425201300 +0800" stop="20240425204300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71742,6 +71757,9 @@
 	<programme channel="newtv精品综合" start="20240425175500 +0800" stop="20240425200200 +0800">
 		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240425200200 +0800" stop="20240425204900 +0800">
+		<title lang="zh">13_很想很想你</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -71786,6 +71804,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240425183000 +0800" stop="20240425201000 +0800">
 		<title lang="zh">毒。诫</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240425201000 +0800" stop="20240425205900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -71969,6 +71990,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240425192200 +0800" stop="20240425200800 +0800">
 		<title lang="zh">22_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240425200800 +0800" stop="20240425205300 +0800">
+		<title lang="zh">23_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
