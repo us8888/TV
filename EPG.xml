@@ -2805,11 +2805,14 @@
 	<programme channel="CCTV4" start="20240426092800 +0800" stop="20240426100000 +0800">
 		<title lang="zh">中国文艺-2024-84</title>
 	</programme>
-	<programme channel="CCTV4" start="20240426100000 +0800" stop="20240426110000 +0800">
+	<programme channel="CCTV4" start="20240426100000 +0800" stop="20240426111000 +0800">
 		<title lang="zh">2024年国新办发布会-28</title>
 	</programme>
-	<programme channel="CCTV4" start="20240426110000 +0800" stop="20240426113000 +0800">
-		<title lang="zh">国家记忆-2024-19</title>
+	<programme channel="CCTV4" start="20240426111000 +0800" stop="20240426112000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-22</title>
+	</programme>
+	<programme channel="CCTV4" start="20240426112000 +0800" stop="20240426113000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-10</title>
 	</programme>
 	<programme channel="CCTV4" start="20240426113000 +0800" stop="20240426120000 +0800">
 		<title lang="zh">海峡两岸-2024-116</title>
@@ -3054,14 +3057,11 @@
 	<programme channel="CCTV4欧洲" start="20240426091500 +0800" stop="20240426100000 +0800">
 		<title lang="zh">远方的家2024-37(4K)</title>
 	</programme>
-	<programme channel="CCTV4欧洲" start="20240426100000 +0800" stop="20240426110500 +0800">
+	<programme channel="CCTV4欧洲" start="20240426100000 +0800" stop="20240426111500 +0800">
 		<title lang="zh">2024年国新办发布会-28</title>
 	</programme>
-	<programme channel="CCTV4欧洲" start="20240426110500 +0800" stop="20240426115000 +0800">
+	<programme channel="CCTV4欧洲" start="20240426111500 +0800" stop="20240426120000 +0800">
 		<title lang="zh">乡村篮球队第20集</title>
-	</programme>
-	<programme channel="CCTV4欧洲" start="20240426115000 +0800" stop="20240426120000 +0800">
-		<title lang="zh">记住乡愁2018片段展播-10</title>
 	</programme>
 	<programme channel="CCTV4欧洲" start="20240426120000 +0800" stop="20240426130000 +0800">
 		<title lang="zh">中国新闻</title>
@@ -3180,14 +3180,11 @@
 	<programme channel="CCTV4美洲" start="20240426094500 +0800" stop="20240426100000 +0800">
 		<title lang="zh">记住乡愁2018片段展播-50</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20240426100000 +0800" stop="20240426110500 +0800">
+	<programme channel="CCTV4美洲" start="20240426100000 +0800" stop="20240426111500 +0800">
 		<title lang="zh">2024年国新办发布会-28</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20240426110500 +0800" stop="20240426115000 +0800">
+	<programme channel="CCTV4美洲" start="20240426111500 +0800" stop="20240426120000 +0800">
 		<title lang="zh">幸福有配方第33集</title>
-	</programme>
-	<programme channel="CCTV4美洲" start="20240426115000 +0800" stop="20240426120000 +0800">
-		<title lang="zh">记住乡愁2018片段展播-49</title>
 	</programme>
 	<programme channel="CCTV4美洲" start="20240426120000 +0800" stop="20240426130000 +0800">
 		<title lang="zh">中国新闻</title>
@@ -3655,13 +3652,13 @@
 		<title lang="zh">本集提要- 《承欢记》第35集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240426193000 +0800" stop="20240426202500 +0800">
-		<title lang="zh">承欢记35/37</title>
+		<title lang="zh">承欢记第35集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240426202500 +0800" stop="20240426203000 +0800">
 		<title lang="zh">本集提要- 《承欢记》第36集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240426203000 +0800" stop="20240426212300 +0800">
-		<title lang="zh">承欢记36/37</title>
+		<title lang="zh">承欢记第36集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240426212300 +0800" stop="20240426212700 +0800">
 		<title lang="zh">本集提要- 《春色寄情人》第5集</title>
@@ -70446,6 +70443,9 @@
 	<programme channel="黑莓动画" start="20240426121200 +0800" stop="20240426121900 +0800">
 		<title lang="zh">26_嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240426122600 +0800" stop="20240426123300 +0800">
+		<title lang="zh">28_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71016,6 +71016,9 @@
 	<programme channel="newtv超级综艺" start="20240426111500 +0800" stop="20240426124500 +0800">
 		<title lang="zh">一馔千年</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240426124500 +0800" stop="20240426140700 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71049,6 +71052,9 @@
 	<programme channel="newtv超级体育" start="20240426120000 +0800" stop="20240426123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240426123500 +0800" stop="20240426125800 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71072,6 +71078,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240426104600 +0800" stop="20240426123300 +0800">
 		<title lang="zh">流浪地球2（上）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240426123300 +0800" stop="20240426124100 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240426124100 +0800" stop="20240426141900 +0800">
+		<title lang="zh">流浪地球2（下）</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71123,6 +71135,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240426114900 +0800" stop="20240426123500 +0800">
 		<title lang="zh">21_梦华录</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240426124000 +0800" stop="20240426132700 +0800">
+		<title lang="zh">01_小日子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71241,6 +71256,9 @@
 	<programme channel="newtv精品纪录" start="20240426115100 +0800" stop="20240426121900 +0800">
 		<title lang="zh">长沙：热辣入骨成为性格 没吃口味虾臭干子就难以度过后半夜</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240426121900 +0800" stop="20240426124600 +0800">
+		<title lang="zh">成都：摇滚火锅正疯狂 为爱等待的海鲜店里最后连配菜都不剩</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71346,6 +71364,9 @@
 	<programme channel="newtv军旅剧场" start="20240426113600 +0800" stop="20240426122000 +0800">
 		<title lang="zh">17_对与决</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240426122000 +0800" stop="20240426130400 +0800">
+		<title lang="zh">18_对与决</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71397,6 +71418,9 @@
 	<programme channel="newtv家庭剧场" start="20240426114300 +0800" stop="20240426123100 +0800">
 		<title lang="zh">12_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240426123100 +0800" stop="20240426131700 +0800">
+		<title lang="zh">13_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -71438,6 +71462,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240426112800 +0800" stop="20240426121800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240426121800 +0800" stop="20240426133100 +0800">
+		<title lang="zh">洛城疑云</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -71561,6 +71588,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240426114000 +0800" stop="20240426122600 +0800">
 		<title lang="zh">17_一生只爱你</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240426122600 +0800" stop="20240426131100 +0800">
+		<title lang="zh">18_一生只爱你</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71798,6 +71828,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240426114000 +0800" stop="20240426122500 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240426122500 +0800" stop="20240426133800 +0800">
+		<title lang="zh">萨姆曾在这里</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
