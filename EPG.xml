@@ -23518,7 +23518,10 @@
 		<title lang="zh">凤凰早班车 -26/4/24</title>
 	</programme>
 	<programme channel="凤凰中文" start="20240426085700 +0800" stop="20240426090000 +0800">
-		<title 凰全球连线 -25/4/24</title>
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20240426090000 +0800" stop="20240426093000 +0800">
+		<title lang="zh">凤凰全球连线 -25/4/24</title>
 	</programme>
 	<programme channel="凤凰中文" start="20240426093000 +0800" stop="20240426100000 +0800">
 		<title lang="zh">凤凰大视野</title>
@@ -24746,9 +24749,6 @@
 	</programme>
 	<programme channel="动漫秀场" start="20240426174900 +0800" stop="20240426180100 +0800">
 		<title lang="zh">三只松鼠之松鼠小镇(29)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20240426180100 +0800" stop="20240426181600 +0800">
-		<title lang="zh">喜羊羊与灾鼠小镇(29)</title>
 	</programme>
 	<programme channel="动漫秀场" start="20240426180100 +0800" stop="20240426181600 +0800">
 		<title lang="zh">喜羊羊与灰太狼之深海历险记(19)</title>
@@ -31355,6 +31355,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240426130500 +0800" stop="20240426152400 +0800">
 		<title lang="zh">23/24赛季英超第34轮全场回放：富勒姆1:3利物浦（詹俊、张路、林梦鸽）（50帧原画）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240426152400 +0800" stop="20240426173400 +0800">
+		<title lang="zh">23/24赛季英超第33轮全场回放：切尔西6:0埃弗顿（刘焕、徐阳）（50帧原画）</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -59043,6 +59046,9 @@
 	<programme channel="纯享4K" start="20240426142900 +0800" stop="20240426151900 +0800">
 		<title lang="zh">多彩葡萄牙4K</title>
 	</programme>
+	<programme channel="纯享4K" start="20240426151900 +0800" stop="20240426161800 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会（十一）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70503,6 +70509,9 @@
 	<programme channel="黑莓动画" start="20240426151300 +0800" stop="20240426153700 +0800">
 		<title lang="zh">11_生日大乱 上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240426153700 +0800" stop="20240426160100 +0800">
+		<title lang="zh">12_生日大乱 下</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71085,6 +71094,9 @@
 	<programme channel="newtv超级综艺" start="20240426140700 +0800" stop="20240426152500 +0800">
 		<title lang="zh">诗画中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240426152500 +0800" stop="20240426164700 +0800">
+		<title lang="zh">乐在旅途</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71162,6 +71174,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240426141900 +0800" stop="20240426153700 +0800">
 		<title lang="zh">电影《篮球美少女》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240426153700 +0800" stop="20240426170600 +0800">
+		<title lang="zh">电影《龙门镇客栈》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71433,6 +71448,9 @@
 	<programme channel="newtv古装剧场" start="20240426145000 +0800" stop="20240426153500 +0800">
 		<title lang="zh">06_少林寺传奇藏经阁</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240426153500 +0800" stop="20240426162000 +0800">
+		<title lang="zh">07_少林寺传奇藏经阁</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -71499,6 +71517,9 @@
 	<programme channel="newtv军旅剧场" start="20240426143300 +0800" stop="20240426152100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240426152100 +0800" stop="20240426160800 +0800">
+		<title lang="zh">06_红色娘子军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71561,6 +71582,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240426144900 +0800" stop="20240426153700 +0800">
 		<title lang="zh">15_三十而已</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240426153700 +0800" stop="20240426162200 +0800">
+		<title lang="zh">13_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71700,6 +71724,9 @@
 	<programme channel="newtv动作电影" start="20240426142700 +0800" stop="20240426153400 +0800">
 		<title lang="zh">封神之九曲黄河阵</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240426153400 +0800" stop="20240426170800 +0800">
+		<title lang="zh">末日回旋</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -71775,6 +71802,9 @@
 	<programme channel="newtv怡伴健康" start="20240426145100 +0800" stop="20240426153000 +0800">
 		<title lang="zh">保住精气神（中）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240426153000 +0800" stop="20240426155700 +0800">
+		<title lang="zh">车祸背后的阴谋</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71835,6 +71865,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240426144000 +0800" stop="20240426152800 +0800">
 		<title lang="zh">33_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240426152800 +0800" stop="20240426161600 +0800">
+		<title lang="zh">34_我们的婚姻</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -71894,6 +71927,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240426144400 +0800" stop="20240426153800 +0800">
 		<title lang="zh">气壮山河奏凯旋——抗美援朝战争胜利70周年特别节目（三）丰碑</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240426153800 +0800" stop="20240426163000 +0800">
+		<title lang="zh">永不褪色的指导员——全国最美退役军人 卢运柏</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -71975,6 +72011,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240426150700 +0800" stop="20240426152700 +0800">
 		<title lang="zh">《相亲进行曲》 宋小宝 赵海燕</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240426152700 +0800" stop="20240426154200 +0800">
+		<title lang="zh">《相亲2》 宋小宝 赵海燕</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240426154200 +0800" stop="20240426155600 +0800">
+		<title lang="zh">《买单》 宋小宝 赵海燕 小沈阳</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -72105,6 +72147,9 @@
 	<programme channel="newtv金牌综艺" start="20240426144700 +0800" stop="20240426152400 +0800">
 		<title lang="zh">活力满分的夏天</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240426152400 +0800" stop="20240426174600 +0800">
+		<title lang="zh">现在就出发</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -72230,6 +72275,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240426145100 +0800" stop="20240426153500 +0800">
 		<title lang="zh">43_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240426153500 +0800" stop="20240426162400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
