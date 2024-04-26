@@ -31323,6 +31323,9 @@
 	<programme channel="咪咕综合体育" start="20240426121000 +0800" stop="20240426144500 +0800">
 		<title lang="zh">23/24赛季CBA季后赛12进8G2全场回放：龙狮vs青岛（徐秦威、郭维盛）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240426144500 +0800" stop="20240426175100 +0800">
+		<title lang="zh">23/24赛季CBA季后赛12进8G2全场回放：北京vs上海（佳依、孙博、杨健、曾令旭）（50帧原画）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59034,6 +59037,9 @@
 	<programme channel="纯享4K" start="20240426140400 +0800" stop="20240426142900 +0800">
 		<title lang="zh">在乡村4K 第6集 从许村到青田</title>
 	</programme>
+	<programme channel="纯享4K" start="20240426142900 +0800" stop="20240426151900 +0800">
+		<title lang="zh">多彩葡萄牙4K</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70482,6 +70488,12 @@
 	<programme channel="黑莓动画" start="20240426141500 +0800" stop="20240426142000 +0800">
 		<title lang="zh">大牙的手工频道自制漂亮的扇子魔法棒</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240426142700 +0800" stop="20240426143300 +0800">
+		<title lang="zh">大牙种果树，彩色小铲子播种豆子认识颜色和水果</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240426144400 +0800" stop="20240426144800 +0800">
+		<title lang="zh">28_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70511,6 +70523,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240426131700 +0800" stop="20240426144500 +0800">
 		<title lang="zh">我们的黄金年代</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240426144500 +0800" stop="20240426162600 +0800">
+		<title lang="zh">千杯不醉</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -70959,17 +70974,7 @@
 	<programme channel="龙岩综合" start="20240426200300 +0800" stop="20240426201700 +0800">
 		<title lang="zh">家园·车市先锋</title>
 	</programme>
-	<programme channel="龙岩综合" start="20240426201700 +0800" stop="20240426202500 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="龙岩综合" start="20240426202500 +0800" stop="20240426212000 +0800">
-		<title lang="zh">黄金强档</title>
-	</programme>
-	<programme channel="龙岩综合" start="20240426212000 +0800" stop="20240426221700 +0800">
-		<title lang="zh">黄金强档</title>
-	</programme>
-	<programme channel="龙岩综合" start="20240426221700 +0800" stop="20240426223000 +0800">
-		<title lang="zh">新片预告</title>
+	<prle>
 	</programme>
 	<programme channel="龙岩综合" start="20240426223000 +0800" stop="20240426224300 +0800">
 		<title lang="zh">记者追踪</title>
@@ -71100,6 +71105,9 @@
 	<programme channel="newtv超级体育" start="20240426125800 +0800" stop="20240426143000 +0800">
 		<title lang="zh">实况录像-2024年国际乒联单打世界杯 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240426143000 +0800" stop="20240426150000 +0800">
+		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-巴库站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71129,6 +71137,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240426124100 +0800" stop="20240426141900 +0800">
 		<title lang="zh">流浪地球2（下）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240426141900 +0800" stop="20240426153700 +0800">
+		<title lang="zh">电影《篮球美少女》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71249,6 +71260,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240426134300 +0800" stop="20240426142900 +0800">
 		<title lang="zh">23_问心</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240426142900 +0800" stop="20240426151400 +0800">
+		<title lang="zh">24_问心</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -71556,6 +71570,9 @@
 	<programme channel="newtv热播精选" start="20240426133100 +0800" stop="20240426141600 +0800">
 		<title lang="zh">08_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240426141600 +0800" stop="20240426150200 +0800">
+		<title lang="zh">09_画眉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -71633,6 +71650,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240426130100 +0800" stop="20240426142700 +0800">
 		<title lang="zh">涉嫌之人</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240426142700 +0800" stop="20240426153400 +0800">
+		<title lang="zh">封神之九曲黄河阵</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -71891,6 +71911,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240426130100 +0800" stop="20240426141800 +0800">
 		<title lang="zh">买鸡蛋也有智商税？专业养鸡人现场教授鸡蛋到底怎么挑（20240422）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240426141800 +0800" stop="20240426145400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
