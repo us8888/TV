@@ -31251,6 +31251,9 @@
 	<programme channel="咪咕足球" start="20240427123000 +0800" stop="20240427142800 +0800">
 		<title lang="zh">23/24赛季英超第34轮全场回放：水晶宫5:2西汉姆联（郭灿亮）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240427142800 +0800" stop="20240427165800 +0800">
+		<title lang="zh">2024赛季中超第7轮全场回放：河南队1:0青岛海牛（刘腾、于海）（50帧原画）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -70998,6 +71001,9 @@
 	<programme channel="黑莓动画" start="20240427140600 +0800" stop="20240427141900 +0800">
 		<title lang="zh">小牙打开惊喜百宝箱秘密，获得钥匙解救公主</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240427142800 +0800" stop="20240427143100 +0800">
+		<title lang="zh">31_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71027,6 +71033,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240427123200 +0800" stop="20240427142200 +0800">
 		<title lang="zh">冷血悍将</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240427142200 +0800" stop="20240427154300 +0800">
+		<title lang="zh">别叫我酒神</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71544,6 +71553,9 @@
 	<programme channel="newtv超级综艺" start="20240427132900 +0800" stop="20240427144600 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240427144600 +0800" stop="20240427163000 +0800">
+		<title lang="zh">国家宝藏 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71612,6 +71624,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240427130900 +0800" stop="20240427143300 +0800">
 		<title lang="zh">电影《东北轴神》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240427143300 +0800" stop="20240427160100 +0800">
+		<title lang="zh">电影《我们的黄金年代》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -71810,6 +71825,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240427133700 +0800" stop="20240427142200 +0800">
 		<title lang="zh">第4集：安b7危</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240427142200 +0800" stop="20240427151200 +0800">
+		<title lang="zh">07_幕天席地</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72315,6 +72333,9 @@
 	<programme channel="newtv军事评论" start="20240427133400 +0800" stop="20240427142800 +0800">
 		<title lang="zh">铁血军人 崇德向善——老兵王进才</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240427142800 +0800" stop="20240427152100 +0800">
+		<title lang="zh">雄赳赳 气昂昂——抗美援朝老兵特辑</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72381,6 +72402,9 @@
 	<programme channel="newtv炫舞未来" start="20240427132700 +0800" stop="20240427141700 +0800">
 		<title lang="zh">女相声演员现场挑老公 朱迅出谋划策（20220811）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240427141700 +0800" stop="20240427151300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -72431,6 +72455,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240427125400 +0800" stop="20240427142300 +0800">
 		<title lang="zh">鲨鱼帝国</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240427142300 +0800" stop="20240427144800 +0800">
+		<title lang="zh">01_大理寺日志第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -72491,6 +72518,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240427123300 +0800" stop="20240427143900 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240427143900 +0800" stop="20240427152900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240427123300 +0800" stop="20240427143900 +0800">
+		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240427143900 +0800" stop="20240427152900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
