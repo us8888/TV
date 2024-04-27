@@ -71934,6 +71934,9 @@
 	<programme channel="newtv超级电影" start="20240427183600 +0800" stop="20240427200300 +0800">
 		<title lang="zh">电影《绝色霸王花》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240427200300 +0800" stop="20240427213000 +0800">
+		<title lang="zh">电影《时间陷阱》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -72204,6 +72207,9 @@
 	<programme channel="newtv精品纪录" start="20240427194300 +0800" stop="20240427200300 +0800">
 		<title lang="zh">第6集：成都甜水面</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240427200300 +0800" stop="20240427202900 +0800">
+		<title lang="zh">05_丰盈菜篮</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -72372,6 +72378,9 @@
 	<programme channel="newtv军旅剧场" start="20240427193100 +0800" stop="20240427201600 +0800">
 		<title lang="zh">19_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240427201600 +0800" stop="20240427210200 +0800">
+		<title lang="zh">20_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72456,6 +72465,9 @@
 	<programme channel="newtv家庭剧场" start="20240427193400 +0800" stop="20240427200400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240427200400 +0800" stop="20240427204900 +0800">
+		<title lang="zh">20_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -72533,6 +72545,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240427192700 +0800" stop="20240427200200 +0800">
 		<title lang="zh">19_怒晴湘西</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240427200200 +0800" stop="20240427203500 +0800">
+		<title lang="zh">20_怒晴湘西</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -72740,6 +72755,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240427193400 +0800" stop="20240427200700 +0800">
 		<title lang="zh">第四场 湖南星火燎原vs天津兄弟连 第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240427200700 +0800" stop="20240427205100 +0800">
+		<title lang="zh">第五场 河北巧战群雄vs天津兄弟连 第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -73122,6 +73140,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240427184900 +0800" stop="20240427200900 +0800">
 		<title lang="zh">终极目标</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240427200900 +0800" stop="20240427205700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -73163,6 +73184,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240427181200 +0800" stop="20240427200400 +0800">
 		<title lang="zh">令人心动的offer</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240427200400 +0800" stop="20240427205200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
