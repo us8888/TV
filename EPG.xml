@@ -59871,6 +59871,9 @@
 	<programme channel="纯享4K" start="20240427180300 +0800" stop="20240427185200 +0800">
 		<title lang="zh">大数据时代4K 第3集 决策之智</title>
 	</programme>
+	<programme channel="纯享4K" start="20240427185200 +0800" stop="20240427194100 +0800">
+		<title lang="zh">大数据时代4K 第4集 商业之变</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71232,6 +71235,9 @@
 	<programme channel="黑莓动画" start="20240427184300 +0800" stop="20240427185800 +0800">
 		<title lang="zh">13_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240427185800 +0800" stop="20240427191400 +0800">
+		<title lang="zh">14_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71270,6 +71276,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240427172300 +0800" stop="20240427185800 +0800">
 		<title lang="zh">特殊身份</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240427185800 +0800" stop="20240427203400 +0800">
+		<title lang="zh">大红狗克里弗</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71853,6 +71862,9 @@
 	<programme channel="newtv超级体育" start="20240427183000 +0800" stop="20240427190000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240427190000 +0800" stop="20240427210000 +0800">
+		<title lang="zh">2024年世界田联钻石联赛-苏州站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -72306,6 +72318,9 @@
 	<programme channel="newtv军旅剧场" start="20240427181300 +0800" stop="20240427190100 +0800">
 		<title lang="zh">13_红色娘子军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240427190100 +0800" stop="20240427193100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72384,6 +72399,9 @@
 	<programme channel="newtv家庭剧场" start="20240427180000 +0800" stop="20240427184800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240427184800 +0800" stop="20240427193400 +0800">
+		<title lang="zh">19_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -72455,6 +72473,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240427180000 +0800" stop="20240427185300 +0800">
 		<title lang="zh">风味人间第4季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240427185300 +0800" stop="20240427192700 +0800">
+		<title lang="zh">18_怒晴湘西</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -72554,6 +72575,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240427182700 +0800" stop="20240427185700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240427185700 +0800" stop="20240427205800 +0800">
+		<title lang="zh">特种部队：蛇眼起源</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72723,6 +72747,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240427181500 +0800" stop="20240427185700 +0800">
 		<title lang="zh">32_锦心似玉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240427185700 +0800" stop="20240427194500 +0800">
+		<title lang="zh">33_锦心似玉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -72800,6 +72827,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240427183200 +0800" stop="20240427185400 +0800">
 		<title lang="zh">二战前线b7血染“奥马哈”（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240427185400 +0800" stop="20240427191600 +0800">
+		<title lang="zh">二战大轰炸b7全天候攻击（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -73004,6 +73034,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240427174200 +0800" stop="20240427184900 +0800">
 		<title lang="zh">三生花</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240427184900 +0800" stop="20240427200900 +0800">
+		<title lang="zh">终极目标</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
