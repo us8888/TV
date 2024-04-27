@@ -59661,6 +59661,9 @@
 	<programme channel="纯享4K" start="20240427100700 +0800" stop="20240427105600 +0800">
 		<title lang="zh">大数据时代4K 第3集 决策之智</title>
 	</programme>
+	<programme channel="纯享4K" start="20240427105600 +0800" stop="20240427114400 +0800">
+		<title lang="zh">大数据时代4K 第4集 商业之变</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70914,6 +70917,9 @@
 	<programme channel="黑莓动画" start="20240427102700 +0800" stop="20240427105000 +0800">
 		<title lang="zh">汪汪队立大功第3季14</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240427105000 +0800" stop="20240427110400 +0800">
+		<title lang="zh">13_钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70937,6 +70943,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240427093400 +0800" stop="20240427110100 +0800">
 		<title lang="zh">另类民兵葛二蛋</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240427110100 +0800" stop="20240427123200 +0800">
+		<title lang="zh">混元灵珠</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71505,6 +71514,9 @@
 	<programme channel="newtv超级电影" start="20240427090700 +0800" stop="20240427110100 +0800">
 		<title lang="zh">快乐的大脚</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240427110100 +0800" stop="20240427110700 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -71556,6 +71568,9 @@
 	<programme channel="newtv超级电视剧" start="20240427100900 +0800" stop="20240427105500 +0800">
 		<title lang="zh">24_梦华录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240427105500 +0800" stop="20240427114000 +0800">
+		<title lang="zh">25_梦华录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71600,6 +71615,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240427101000 +0800" stop="20240427105600 +0800">
 		<title lang="zh">29_安家</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240427105600 +0800" stop="20240427114500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -71750,6 +71768,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240427100400 +0800" stop="20240427104900 +0800">
 		<title lang="zh">06_怒江之战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240427104900 +0800" stop="20240427113300 +0800">
+		<title lang="zh">21_对与决</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71946,6 +71967,9 @@
 	<programme channel="newtv怡伴健康" start="20240427101200 +0800" stop="20240427105400 +0800">
 		<title lang="zh">生活圈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240427105400 +0800" stop="20240427112100 +0800">
+		<title lang="zh">公路30号</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72038,6 +72062,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240427100300 +0800" stop="20240427105500 +0800">
 		<title lang="zh">决胜千里：解放战争中的红色电波 第2集 经略中原</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240427105500 +0800" stop="20240427114800 +0800">
+		<title lang="zh">决胜千里：解放战争中的红色电波 第3集 鏖战泉城</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
