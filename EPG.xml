@@ -1756,7 +1756,7 @@
 		<title lang="zh">美美与共-6</title>
 	</programme>
 	<programme channel="CCTV1" start="20240428175900 +0800" stop="20240428185100 +0800">
-		<title lang="zh">正大综艺-2024-16</title>
+		<title lang="zh">正大综艺-2024-13</title>
 	</programme>
 	<programme channel="CCTV1" start="20240428185100 +0800" stop="20240428190000 +0800">
 		<title lang="zh">2024秘境之眼-107</title>
@@ -2242,7 +2242,7 @@
 		<title lang="zh">全球中文音乐榜上榜-2024-14</title>
 	</programme>
 	<programme channel="CCTV15" start="20240428124000 +0800" stop="20240428135400 +0800">
-		<title lang="zh">乐享汇-2024-21</title>
+		<title lang="zh">精彩音乐汇-2024-93</title>
 	</programme>
 	<programme channel="CCTV15" start="20240428135400 +0800" stop="20240428150800 +0800">
 		<title lang="zh">乐享汇-2024-22</title>
@@ -2611,7 +2611,7 @@
 		<title lang="zh">中国文艺报道-2024-53</title>
 	</programme>
 	<programme channel="CCTV3" start="20240428213300 +0800" stop="20240428225500 +0800">
-		<title lang="zh">向幸福出发-2024-14</title>
+		<title lang="zh">向幸福出发-2024-9</title>
 	</programme>
 	<programme channel="CCTV3" start="20240428225500 +0800" stop="20240428234300 +0800">
 		<title lang="zh">综艺喜乐汇-2024-389 一路朝阳25/36</title>
@@ -3259,7 +3259,7 @@
 		<title lang="zh">今日影评2024-119</title>
 	</programme>
 	<programme channel="CCTV6" start="20240428201200 +0800" stop="20240428220000 +0800">
-		<title lang="zh">天气预爆</title>
+		<title lang="zh">天气预报</title>
 	</programme>
 	<programme channel="CCTV6" start="20240428220000 +0800" stop="20240428222300 +0800">
 		<title lang="zh">中国电影报道2024-119</title>
@@ -3469,7 +3469,7 @@
 		<title lang="zh">本集提要- 《微暗之火》第2集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240428193000 +0800" stop="20240428202500 +0800">
-		<title lang="zh">微暗之火2/28</title>
+		<title lang="zh">微暗之火第2集</title>
 	</programme>
 	<programme channel="CCTV8" start="20240428202500 +0800" stop="20240428203000 +0800">
 		<title lang="zh">本集提要- 《微暗之火》第3集</title>
@@ -60678,7 +60678,7 @@
 	<programme channel="自贡综合" start="20240428193500 +0800" stop="20240428201200 +0800">
 		<title lang="zh">自贡新时空</title>
 	</programme>
-	<programme channel="自贡综合" start="20240428201200 +0800" stop="20240428202000 +0800">
+	<programme channel="自贡综rt="20240428201200 +0800" stop="20240428202000 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
 	<programme channel="自贡综合" start="20240428202000 +0800" stop="20240428220000 +0800">
@@ -71340,6 +71340,9 @@
 	<programme channel="黑莓动画" start="20240428151500 +0800" stop="20240428151800 +0800">
 		<title lang="zh">汽水机器人重创豌豆射手 心奇爆龙战车X玩具故事</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240428152200 +0800" stop="20240428154500 +0800">
+		<title lang="zh">15_神秘的昭仁殿</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71369,6 +71372,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240428133500 +0800" stop="20240428153000 +0800">
 		<title lang="zh">只在那里发光</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240428153000 +0800" stop="20240428170400 +0800">
+		<title lang="zh">别叫我酒神2</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -72033,6 +72039,9 @@
 	<programme channel="newtv超级电视剧" start="20240428144100 +0800" stop="20240428152800 +0800">
 		<title lang="zh">14_小日子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240428152800 +0800" stop="20240428161400 +0800">
+		<title lang="zh">15_小日子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72174,6 +72183,9 @@
 	<programme channel="newtv精品纪录" start="20240428144400 +0800" stop="20240428152500 +0800">
 		<title lang="zh">02_巨石结构</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240428152500 +0800" stop="20240428161200 +0800">
+		<title lang="zh">03_巨幅地画</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -72237,6 +72249,9 @@
 	<programme channel="newtv古装剧场" start="20240428144400 +0800" stop="20240428152900 +0800">
 		<title lang="zh">16_少林寺传奇藏经阁</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240428152900 +0800" stop="20240428161400 +0800">
+		<title lang="zh">17_少林寺传奇藏经阁</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -72299,6 +72314,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240428144100 +0800" stop="20240428152300 +0800">
 		<title lang="zh">03_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240428152300 +0800" stop="20240428161200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -72504,6 +72522,9 @@
 	<programme channel="newtv动作电影" start="20240428135800 +0800" stop="20240428152200 +0800">
 		<title lang="zh">火线追凶2之夺命书院</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240428152200 +0800" stop="20240428164900 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -72582,6 +72603,9 @@
 	<programme channel="newtv怡伴健康" start="20240428144700 +0800" stop="20240428152600 +0800">
 		<title lang="zh">运动也能治慢病（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240428152600 +0800" stop="20240428155300 +0800">
+		<title lang="zh">被拦截的母爱</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72641,6 +72665,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240428143500 +0800" stop="20240428152000 +0800">
 		<title lang="zh">05_花谢花飞花满天</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240428152000 +0800" stop="20240428160500 +0800">
+		<title lang="zh">06_花谢花飞花满天</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72710,6 +72737,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240428145500 +0800" stop="20240428152100 +0800">
 		<title lang="zh">保装备战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240428152100 +0800" stop="20240428154800 +0800">
+		<title lang="zh">制胜未来</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72798,6 +72828,9 @@
 	<programme channel="newtv炫舞未来" start="20240428150900 +0800" stop="20240428153000 +0800">
 		<title lang="zh">民族健身舞《纳林湖等你》（20231127）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240428153000 +0800" stop="20240428155100 +0800">
+		<title lang="zh">塑造天鹅臂（20231204）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -72854,6 +72887,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240428145800 +0800" stop="20240428152400 +0800">
 		<title lang="zh">04_大理寺日志第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240428152400 +0800" stop="20240428161200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
