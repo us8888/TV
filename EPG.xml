@@ -78,6 +78,9 @@
 	<programme channel="4K综艺" start="20240428100700 +0800" stop="20240428113300 +0800">
 		<title lang="zh">奇兵神犬20171117</title>
 	</programme>
+	<programme channel="4K综艺" start="20240428113300 +0800" stop="20240428130000 +0800">
+		<title lang="zh">奇兵神犬20171124</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -59499,6 +59502,9 @@
 	<programme channel="纯享4K" start="20240428104100 +0800" stop="20240428112100 +0800">
 		<title lang="zh">荣宝斋4K 第1集 荣重书林</title>
 	</programme>
+	<programme channel="纯享4K" start="20240428112100 +0800" stop="20240428120100 +0800">
+		<title lang="zh">荣宝斋4K 第2集 宝增艺圃</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71244,6 +71250,12 @@
 	<programme channel="黑莓动画" start="20240428111300 +0800" stop="20240428112500 +0800">
 		<title lang="zh">百变布鲁可第4季第15集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240428112500 +0800" stop="20240428113700 +0800">
+		<title lang="zh">百变布鲁可第4季第16集</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240428113700 +0800" stop="20240428115000 +0800">
+		<title lang="zh">15_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71883,6 +71895,9 @@
 	<programme channel="newtv超级电视剧" start="20240428104700 +0800" stop="20240428113300 +0800">
 		<title lang="zh">30_梦华录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240428113300 +0800" stop="20240428121800 +0800">
+		<title lang="zh">31_梦华录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72042,6 +72057,9 @@
 	<programme channel="newtv古装剧场" start="20240428105600 +0800" stop="20240428114200 +0800">
 		<title lang="zh">61_隋唐英雄3</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240428114200 +0800" stop="20240428122900 +0800">
+		<title lang="zh">62_隋唐英雄3</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -72140,6 +72158,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240428103100 +0800" stop="20240428111700 +0800">
 		<title lang="zh">29_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240428111700 +0800" stop="20240428120400 +0800">
+		<title lang="zh">21_三十而已</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -72299,6 +72320,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240428110200 +0800" stop="20240428112900 +0800">
 		<title lang="zh">一个村支书的涉黑之路</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240428112900 +0800" stop="20240428121500 +0800">
+		<title lang="zh">21_一生只爱你</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -72513,6 +72537,9 @@
 	<programme channel="newtv精品综合" start="20240428103600 +0800" stop="20240428112200 +0800">
 		<title lang="zh">15_梦华录</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240428112200 +0800" stop="20240428120900 +0800">
+		<title lang="zh">16_梦华录</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -72662,6 +72689,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240428103800 +0800" stop="20240428112300 +0800">
 		<title lang="zh">14_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240428112300 +0800" stop="20240428121200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
