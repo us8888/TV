@@ -71241,6 +71241,9 @@
 	<programme channel="黑莓动画" start="20240428110000 +0800" stop="20240428111300 +0800">
 		<title lang="zh">16_钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240428111300 +0800" stop="20240428112500 +0800">
+		<title lang="zh">百变布鲁可第4季第15集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71778,6 +71781,9 @@
 	<programme channel="newtv超级综艺" start="20240428102500 +0800" stop="20240428111400 +0800">
 		<title lang="zh">幸福账单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240428111400 +0800" stop="20240428124400 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71925,6 +71931,9 @@
 	<programme channel="newtv精品大剧" start="20240428102200 +0800" stop="20240428110800 +0800">
 		<title lang="zh">34_安家</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240428110800 +0800" stop="20240428115700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71981,6 +71990,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240428102200 +0800" stop="20240428111000 +0800">
 		<title lang="zh">02_昼夜觅生机</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240428111000 +0800" stop="20240428120000 +0800">
+		<title lang="zh">02_好食不过澳门街</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72078,6 +72090,9 @@
 	<programme channel="newtv军旅剧场" start="20240428103700 +0800" stop="20240428111200 +0800">
 		<title lang="zh">11_怒江之战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240428111200 +0800" stop="20240428121300 +0800">
+		<title lang="zh">26_对与决</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72165,6 +72180,9 @@
 	<programme channel="newtv热播精选" start="20240428102700 +0800" stop="20240428111300 +0800">
 		<title lang="zh">08_锦心似玉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240428111300 +0800" stop="20240428120200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -72198,6 +72216,9 @@
 	<programme channel="newtv爱情喜剧" start="20240428093400 +0800" stop="20240428111200 +0800">
 		<title lang="zh">霸王别姬（京剧）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240428111200 +0800" stop="20240428120000 +0800">
+		<title lang="zh">72_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72221,6 +72242,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240428093100 +0800" stop="20240428110500 +0800">
 		<title lang="zh">卧虎悍将</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240428110500 +0800" stop="20240428123300 +0800">
+		<title lang="zh">特别追踪</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72273,6 +72297,9 @@
 	<programme channel="newtv怡伴健康" start="20240428103400 +0800" stop="20240428110200 +0800">
 		<title lang="zh">等你二十八年</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240428110200 +0800" stop="20240428112900 +0800">
+		<title lang="zh">一个村支书的涉黑之路</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72317,6 +72344,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240428102800 +0800" stop="20240428111400 +0800">
 		<title lang="zh">10_因为爱情有多美（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240428111400 +0800" stop="20240428120100 +0800">
+		<title lang="zh">11_因为爱情有多美（DVD版）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72365,6 +72395,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240428101100 +0800" stop="20240428110300 +0800">
 		<title lang="zh">抗战号角——战火中走来的鲁艺（下集）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240428110300 +0800" stop="20240428115100 +0800">
+		<title lang="zh">用兵真如神：探秘十大军事原则 第1集 先打分散和孤立之敌</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72434,6 +72467,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240428103300 +0800" stop="20240428111300 +0800">
 		<title lang="zh">03_高原典藏</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240428111300 +0800" stop="20240428115000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
