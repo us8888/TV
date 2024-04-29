@@ -75,6 +75,9 @@
 	<programme channel="4K综艺" start="20240429101600 +0800" stop="20240429120100 +0800">
 		<title lang="zh">花儿与少年第一季20140530</title>
 	</programme>
+	<programme channel="4K综艺" start="20240429120100 +0800" stop="20240429134400 +0800">
+		<title lang="zh">花儿与少年第一季20140606</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -30606,6 +30609,9 @@
 	<programme channel="咪咕综合体育" start="20240429094900 +0800" stop="20240429120900 +0800">
 		<title lang="zh">2024斯诺克威尔士公开赛Day2回放：丁俊晖2-4罗比b7威廉姆斯（李照）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240429120900 +0800" stop="20240429142700 +0800">
+		<title lang="zh">2024斯诺克威尔士公开赛Day2回放：肖国栋3-4巴里b7霍金斯（李照）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -30626,6 +30632,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240429093900 +0800" stop="20240429115500 +0800">
 		<title lang="zh">23/24赛季英超第26轮全场回放：伯恩茅斯0:1曼城（50帧原画）（颜强、徐阳、林梦鸽）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240429115500 +0800" stop="20240429141400 +0800">
+		<title lang="zh">23/24赛季英超第26轮全场回放：曼联1:2富勒姆（娄一晨、刘越、姚安妮）（50帧原画）</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -46623,10 +46632,7 @@
 	<programme channel="河南民生" start="20240429143100 +0800" stop="20240429151600 +0800">
 		<title lang="zh">下午剧场：生死归途</title>
 	</programme>
-	<programme channel="河南民生" start="20240429151600 +0800" stop="20240429153600 +0800">
-		<title lang="zh">乐淘天下（6）</title>
-	</programme>
-	<programme channel="河南民生" start="20240429153600 +0800" stop="20240429161000 +0800">
+	<progr61000 +0800">
 		<title lang="zh">下午剧场：生死归途</title>
 	</programme>
 	<programme channel="河南民生" start="20240429161000 +0800" stop="20240429164000 +0800">
@@ -66885,6 +66891,9 @@
 	<programme channel="黑莓动画" start="20240429113800 +0800" stop="20240429115100 +0800">
 		<title lang="zh">17_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240429115100 +0800" stop="20240429120400 +0800">
+		<title lang="zh">18_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67476,6 +67485,9 @@
 	<programme channel="newtv超级电视剧" start="20240429110100 +0800" stop="20240429114800 +0800">
 		<title lang="zh">35_梦华录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240429114800 +0800" stop="20240429123400 +0800">
+		<title lang="zh">36_梦华录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -67638,6 +67650,9 @@
 	<programme channel="newtv古装剧场" start="20240429110000 +0800" stop="20240429114800 +0800">
 		<title lang="zh">66_隋唐英雄3</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240429114800 +0800" stop="20240429123400 +0800">
+		<title lang="zh">01_春光灿烂猪九妹</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -67688,6 +67703,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240429110500 +0800" stop="20240429114700 +0800">
 		<title lang="zh">04_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240429114700 +0800" stop="20240429122800 +0800">
+		<title lang="zh">05_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -67782,6 +67800,9 @@
 	<programme channel="newtv热播精选" start="20240429111000 +0800" stop="20240429115900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240429115900 +0800" stop="20240429133100 +0800">
+		<title lang="zh">捍战2</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -67817,6 +67838,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240429111300 +0800" stop="20240429115900 +0800">
 		<title lang="zh">03_京城四少</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240429115900 +0800" stop="20240429124500 +0800">
+		<title lang="zh">04_京城四少</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -67946,6 +67970,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240429111500 +0800" stop="20240429120100 +0800">
 		<title lang="zh">16_因为爱情有多美（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240429120100 +0800" stop="20240429123200 +0800">
+		<title lang="zh">风味人间 第3季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
