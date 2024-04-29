@@ -67185,6 +67185,9 @@
 	<programme channel="黑莓动画" start="20240429183700 +0800" stop="20240429185200 +0800">
 		<title lang="zh">17_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240429185200 +0800" stop="20240429190800 +0800">
+		<title lang="zh">18_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67223,6 +67226,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240429173400 +0800" stop="20240429185700 +0800">
 		<title lang="zh">大唐狄公案之狐影迷案</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240429185700 +0800" stop="20240429202200 +0800">
+		<title lang="zh">城市游戏</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -68415,6 +68421,9 @@
 	<programme channel="newtv爱情喜剧" start="20240429172400 +0800" stop="20240429185700 +0800">
 		<title lang="zh">罪爱</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240429185700 +0800" stop="20240429194700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -68453,6 +68462,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240429182400 +0800" stop="20240429185400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240429185400 +0800" stop="20240429204700 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -68621,6 +68633,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240429180100 +0800" stop="20240429185200 +0800">
 		<title lang="zh">42_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240429185200 +0800" stop="20240429193600 +0800">
+		<title lang="zh">43_锦心似玉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
