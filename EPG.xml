@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20240429140800 +0800" stop="20240429142900 +0800">
 		<title lang="zh">少年说听你说20180713</title>
 	</programme>
+	<programme channel="4K综艺" start="20240429142900 +0800" stop="20240429144800 +0800">
+		<title lang="zh">少年说听你说20180717</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -3021,14 +3024,11 @@
 	<programme channel="CCTV4欧洲" start="20240429090000 +0800" stop="20240429100000 +0800">
 		<title lang="zh">环球综艺秀-2024-17</title>
 	</programme>
-	<programme channel="CCTV4欧洲" start="20240429100000 +0800" stop="20240429110500 +0800">
+	<programme channel="CCTV4欧洲" start="20240429100000 +0800" stop="20240429111500 +0800">
 		<title lang="zh">2024年国新办发布会-29</title>
 	</programme>
-	<programme channel="CCTV4欧洲" start="20240429110500 +0800" stop="20240429115000 +0800">
+	<programme channel="CCTV4欧洲" start="20240429111500 +0800" stop="20240429120000 +0800">
 		<title lang="zh">乡村篮球队第26集</title>
-	</programme>
-	<programme channel="CCTV4欧洲" start="20240429115000 +0800" stop="20240429120000 +0800">
-		<title lang="zh">记住乡愁2018片段展播-12</title>
 	</programme>
 	<programme channel="CCTV4欧洲" start="20240429120000 +0800" stop="20240429130000 +0800">
 		<title lang="zh">中国新闻</title>
@@ -3141,14 +3141,11 @@
 	<programme channel="CCTV4美洲" start="20240429094500 +0800" stop="20240429100000 +0800">
 		<title lang="zh">记住乡愁2018片段展播-54</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20240429100000 +0800" stop="20240429110500 +0800">
+	<programme channel="CCTV4美洲" start="20240429100000 +0800" stop="20240429111500 +0800">
 		<title lang="zh">2024年国新办发布会-29</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20240429110500 +0800" stop="20240429115000 +0800">
+	<programme channel="CCTV4美洲" start="20240429111500 +0800" stop="20240429120000 +0800">
 		<title lang="zh">幸福有配方第37集</title>
-	</programme>
-	<programme channel="CCTV4美洲" start="20240429115000 +0800" stop="20240429120000 +0800">
-		<title lang="zh">记住乡愁2018片段展播-53</title>
 	</programme>
 	<programme channel="CCTV4美洲" start="20240429120000 +0800" stop="20240429130000 +0800">
 		<title lang="zh">中国新闻</title>
@@ -30617,6 +30614,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20240429120900 +0800" stop="20240429142700 +0800">
 		<title lang="zh">2024斯诺克威尔士公开赛Day2回放：肖国栋3-4巴里b7霍金斯（李照）</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240429142700 +0800" stop="20240429173000 +0800">
+		<title lang="zh">23/24赛季CBA季后赛12进8G3全场回放：深圳vs北控（姜帆、刘铁、秋童）（50帧原画）</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -66945,6 +66945,9 @@
 	<programme channel="黑莓动画" start="20240429141500 +0800" stop="20240429142200 +0800">
 		<title lang="zh">用画圆圈DIY彩虹摇摇鱼，大牙的手工剧场</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240429142800 +0800" stop="20240429143400 +0800">
+		<title lang="zh">纸巾筒变成小火车，和大牙一起变废为宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67944,6 +67947,9 @@
 	<programme channel="newtv热播精选" start="20240429133100 +0800" stop="20240429141700 +0800">
 		<title lang="zh">20_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240429141700 +0800" stop="20240429150200 +0800">
+		<title lang="zh">21_画眉</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -67988,6 +67994,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240429133100 +0800" stop="20240429141700 +0800">
 		<title lang="zh">06_京城四少</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240429141700 +0800" stop="20240429150400 +0800">
+		<title lang="zh">07_京城四少</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -68387,6 +68396,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240429125600 +0800" stop="20240429144500 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240429144500 +0800" stop="20240429153500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
