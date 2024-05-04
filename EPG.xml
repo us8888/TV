@@ -31803,6 +31803,9 @@
 	<programme channel="咪咕足球" start="20240504192500 +0800" stop="20240504220000 +0800">
 		<title lang="zh">中超第10轮  青岛西海岸vs山东泰山</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240504220000 +0800" stop="20240504000000 +0800">
+		<title lang="zh">2024赛季中超第7轮全场回放：浙江队3:2天津津门虎（石庆圣、李彦）（50帧原画）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -72693,6 +72696,9 @@
 	<programme channel="黑莓动画" start="20240504214000 +0800" stop="20240504214600 +0800">
 		<title lang="zh">04_大风起兮</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240504220000 +0800" stop="20240504221400 +0800">
+		<title lang="zh">38_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73329,6 +73335,9 @@
 	<programme channel="newtv超级体育" start="20240504200000 +0800" stop="20240504215500 +0800">
 		<title lang="zh">2024年世乒联大满贯赛(沙特站)-第1轮1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240504215500 +0800" stop="20240504001000 +0800">
+		<title lang="zh">2023/2024英格兰足球超级联赛-第36轮(伯恩利-纽卡斯尔)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73565,6 +73574,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240504210600 +0800" stop="20240504214700 +0800">
 		<title lang="zh">06_黑白密码</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240504214700 +0800" stop="20240504221700 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -73875,6 +73887,9 @@
 	<programme channel="newtv军旅剧场" start="20240504210900 +0800" stop="20240504215400 +0800">
 		<title lang="zh">24_危机迷雾</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240504215400 +0800" stop="20240504223800 +0800">
+		<title lang="zh">25_危机迷雾</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -73964,6 +73979,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240504212000 +0800" stop="20240504215000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240504215000 +0800" stop="20240504223500 +0800">
+		<title lang="zh">21_新居之约</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -74594,6 +74612,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240504211400 +0800" stop="20240504215300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240504220000 +0800" stop="20240504220400 +0800">
+		<title lang="zh">中国范儿-毕刚（舞蹈展示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
