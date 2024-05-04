@@ -72468,6 +72468,9 @@
 	<programme channel="黑莓动画" start="20240504164400 +0800" stop="20240504164700 +0800">
 		<title lang="zh">69_蘑菇头和恐龙笨波</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240504165100 +0800" stop="20240504170700 +0800">
+		<title lang="zh">01_海中花</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73260,6 +73263,9 @@
 	<programme channel="newtv精品大剧" start="20240504160400 +0800" stop="20240504164900 +0800">
 		<title lang="zh">28_我爱男保姆</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240504164900 +0800" stop="20240504173500 +0800">
+		<title lang="zh">21_烟火人家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -73343,6 +73349,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240504160000 +0800" stop="20240504164900 +0800">
 		<title lang="zh">第二集 山中的传奇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240504170000 +0800" stop="20240504171100 +0800">
+		<title lang="zh">第2集 三杯鸡：最美好的味道</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -73560,6 +73569,9 @@
 	<programme channel="newtv家庭剧场" start="20240504161200 +0800" stop="20240504170000 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240504170000 +0800" stop="20240504174500 +0800">
+		<title lang="zh">16_兰桐花开</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -73622,6 +73634,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240504164200 +0800" stop="20240504165500 +0800">
 		<title lang="zh">13_超级飞侠12</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240504165500 +0800" stop="20240504170800 +0800">
+		<title lang="zh">14_超级飞侠12</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -74327,6 +74342,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240504155700 +0800" stop="20240504164900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240504164900 +0800" stop="20240504173400 +0800">
+		<title lang="zh">26_龙汇镖局</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
