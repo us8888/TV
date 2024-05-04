@@ -31770,6 +31770,9 @@
 	<programme channel="咪咕综合体育" start="20240504192500 +0800" stop="20240504230000 +0800">
 		<title lang="zh">CBAt季后赛半决赛t新疆VS浙江</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240504230000 +0800" stop="20240504000000 +0800">
+		<title lang="zh">2024第十二届中式台球国际大师赛全球总决赛Day4回放：克林特b7艾安森12-8丹尼斯b7奥科洛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -73302,6 +73305,9 @@
 	<programme channel="newtv超级综艺" start="20240504214800 +0800" stop="20240504225700 +0800">
 		<title lang="zh">国家宝藏系列专题节目</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240504225700 +0800" stop="20240504234200 +0800">
+		<title lang="zh">39_烟火人家</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73509,6 +73515,9 @@
 	<programme channel="newtv超级电视剧" start="20240504221400 +0800" stop="20240504230000 +0800">
 		<title lang="zh">18_独孤天下</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240504230000 +0800" stop="20240504234500 +0800">
+		<title lang="zh">《追风者》</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73604,6 +73613,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240504221700 +0800" stop="20240504230100 +0800">
 		<title lang="zh">07_黑白密码</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240504230100 +0800" stop="20240504234400 +0800">
+		<title lang="zh">08_黑白密码</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -74118,6 +74130,9 @@
 	<programme channel="newtv热播精选" start="20240504213000 +0800" stop="20240504225400 +0800">
 		<title lang="zh">半熟恋人第2季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240504225400 +0800" stop="20240504233900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -74358,6 +74373,9 @@
 	<programme channel="newtv怡伴健康" start="20240504221200 +0800" stop="20240504225400 +0800">
 		<title lang="zh">第六场 重庆一针见血vs山西浪人秦 第2局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240504225400 +0800" stop="20240504233400 +0800">
+		<title lang="zh">第六场 重庆一针见血vs山西浪人秦 第3局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -74564,6 +74582,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240504222400 +0800" stop="20240504224600 +0800">
 		<title lang="zh">海战纪事b7鱼雷与海战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240504224600 +0800" stop="20240504230800 +0800">
+		<title lang="zh">直击二战b7争夺112高地</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -75062,6 +75083,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240504213000 +0800" stop="20240504225200 +0800">
 		<title lang="zh">大话西游：至尊宝</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240504225200 +0800" stop="20240504000900 +0800">
+		<title lang="zh">狄仁杰之骷髅将军</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
