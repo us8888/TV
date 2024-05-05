@@ -31746,6 +31746,9 @@
 	<programme channel="咪咕综合体育" start="20240505193700 +0800" stop="20240505215700 +0800">
 		<title lang="zh">23/24赛季CBA常规赛第51轮全场回放：浙江vs广厦（吕程、殳海）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240505215700 +0800" stop="20240505000000 +0800">
+		<title lang="zh">UFC第300期主赛全场回放（王琰博、李景亮、宋亚东、张光宇）（50帧原画）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60615,6 +60618,9 @@
 	<programme channel="纯享4K" start="20240505205800 +0800" stop="20240505215000 +0800">
 		<title lang="zh">乘火车看中国4K 第五集 世界屋脊之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240505215000 +0800" stop="20240505222000 +0800">
+		<title lang="zh">味道4K 原味乡间b7沂水篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72369,6 +72375,9 @@
 	<programme channel="黑莓动画" start="20240505214300 +0800" stop="20240505215000 +0800">
 		<title lang="zh">34_史上最强烦恼星人</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240505215700 +0800" stop="20240505220500 +0800">
+		<title lang="zh">36_脸盲征候群</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73149,6 +73158,9 @@
 	<programme channel="newtv超级电视剧" start="20240505211000 +0800" stop="20240505215600 +0800">
 		<title lang="zh">19_独孤天下</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240505215600 +0800" stop="20240505224100 +0800">
+		<title lang="zh">20_独孤天下</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73238,6 +73250,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240505212600 +0800" stop="20240505215500 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240505215500 +0800" stop="20240505224400 +0800">
+		<title lang="zh">11_黑白密码</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -73848,6 +73863,9 @@
 	<programme channel="newtv动作电影" start="20240505203400 +0800" stop="20240505214800 +0800">
 		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240505214800 +0800" stop="20240505000100 +0800">
+		<title lang="zh">碟中谍4</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -74040,6 +74058,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240505210500 +0800" stop="20240505215100 +0800">
 		<title lang="zh">05_永安梦</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240505215100 +0800" stop="20240505231600 +0800">
+		<title lang="zh">五年前任分手另有隐情？</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -74144,6 +74165,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240505213900 +0800" stop="20240505220000 +0800">
 		<title lang="zh">突袭迪耶普之谜（中）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240505220000 +0800" stop="20240505222100 +0800">
+		<title lang="zh">突袭迪耶普之谜（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
