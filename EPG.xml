@@ -87,6 +87,9 @@
 	<programme channel="4K综艺" start="20240505121400 +0800" stop="20240505132000 +0800">
 		<title lang="zh">真心大冒险20180602</title>
 	</programme>
+	<programme channel="4K综艺" start="20240505132000 +0800" stop="20240505144300 +0800">
+		<title lang="zh">真心大冒险20180609</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -72057,6 +72060,9 @@
 	<programme channel="黑莓动画" start="20240505131300 +0800" stop="20240505132600 +0800">
 		<title lang="zh">29_熊出没之怪兽计划第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240505133900 +0800" stop="20240505135200 +0800">
+		<title lang="zh">03_猪猪侠之超星五灵侠6</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72083,6 +72089,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240505120200 +0800" stop="20240505133900 +0800">
 		<title lang="zh">爆裂都市</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240505133900 +0800" stop="20240505152700 +0800">
+		<title lang="zh">银翼的魔术师</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -72636,6 +72645,9 @@
 	<programme channel="newtv超级体育" start="20240505130500 +0800" stop="20240505132500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240505132500 +0800" stop="20240505144500 +0800">
+		<title lang="zh">2024年世界职业拳王争霸赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -72735,6 +72747,9 @@
 	<programme channel="newtv超级电视剧" start="20240505125800 +0800" stop="20240505133500 +0800">
 		<title lang="zh">09_怒晴湘西</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240505133500 +0800" stop="20240505141300 +0800">
+		<title lang="zh">10_怒晴湘西</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72788,6 +72803,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240505123900 +0800" stop="20240505132400 +0800">
 		<title lang="zh">29_我爱男保姆</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240505132400 +0800" stop="20240505141000 +0800">
+		<title lang="zh">30_我爱男保姆</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72854,6 +72872,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240505125100 +0800" stop="20240505132800 +0800">
 		<title lang="zh">05_风涌稻香</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240505132800 +0800" stop="20240505140500 +0800">
+		<title lang="zh">06_清秋月圆</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72969,6 +72990,9 @@
 	<programme channel="newtv军旅剧场" start="20240505124500 +0800" stop="20240505133100 +0800">
 		<title lang="zh">07_雪域天路</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240505133100 +0800" stop="20240505141600 +0800">
+		<title lang="zh">08_雪域天路</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -73026,6 +73050,9 @@
 	<programme channel="newtv家庭剧场" start="20240505125800 +0800" stop="20240505134400 +0800">
 		<title lang="zh">16_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240505134400 +0800" stop="20240505143400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -73071,6 +73098,9 @@
 	<programme channel="newtv热播精选" start="20240505121300 +0800" stop="20240505131700 +0800">
 		<title lang="zh">大狂蜂：起源</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240505131700 +0800" stop="20240505135800 +0800">
+		<title lang="zh">06_黑白密码</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -73115,6 +73145,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240505123000 +0800" stop="20240505131700 +0800">
 		<title lang="zh">36_京城四少</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240505131700 +0800" stop="20240505140400 +0800">
+		<title lang="zh">37_京城四少</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -73209,6 +73242,9 @@
 	<programme channel="newtv怡伴健康" start="20240505130600 +0800" stop="20240505131700 +0800">
 		<title lang="zh">相声《我忍不了》 表演：岳云鹏 孙越</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240505134200 +0800" stop="20240505135000 +0800">
+		<title lang="zh">相声《卖布头》 表演者：侯宝林 郭启儒</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -73262,6 +73298,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240505125400 +0800" stop="20240505133900 +0800">
 		<title lang="zh">38_花谢花飞花满天</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240505133900 +0800" stop="20240505142400 +0800">
+		<title lang="zh">39_花谢花飞花满天</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -73334,6 +73373,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240505124600 +0800" stop="20240505133800 +0800">
 		<title lang="zh">矢志空天研为战 国防知识挑战赛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240505133800 +0800" stop="20240505143100 +0800">
+		<title lang="zh">矢志空天研为战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
