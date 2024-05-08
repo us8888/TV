@@ -25647,6 +25647,9 @@
 	<programme channel="动作电影" start="20240508201900 +0800" stop="20240508204900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="动作电影" start="20240508204900 +0800" stop="20240508215300 +0800">
+		<title lang="zh">头牌特工</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -42522,6 +42525,9 @@
 	<programme channel="惊悚悬疑" start="20240508200100 +0800" stop="20240508205100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20240508205100 +0800" stop="20240508224600 +0800">
+		<title lang="zh">古墓丽影2</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -57651,6 +57657,9 @@
 	<programme channel="爱情喜剧" start="20240508201000 +0800" stop="20240508205900 +0800">
 		<title lang="zh">14_救了一万次的你</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240508205900 +0800" stop="20240508214400 +0800">
+		<title lang="zh">15_救了一万次的你</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63071,6 +63080,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240508204200 +0800" stop="20240508204700 +0800">
 		<title lang="zh">美丽中国自然4K 亚洲象国家公园系列 树洞邻居</title>
+	</programme>
+	<programme channel="纯享4K" start="20240508204700 +0800" stop="20240508213600 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第1集 一局输赢料不真</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -75714,6 +75726,9 @@
 	<programme channel="newtv超级综艺" start="20240508193000 +0800" stop="20240508205100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240508205100 +0800" stop="20240508221400 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -75987,6 +76002,9 @@
 	<programme channel="newtv精品大剧" start="20240508200600 +0800" stop="20240508205100 +0800">
 		<title lang="zh">03_永安梦</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240508205100 +0800" stop="20240508213000 +0800">
+		<title lang="zh">22_黑白密码</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76082,6 +76100,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240508201100 +0800" stop="20240508210000 +0800">
 		<title lang="zh">02_甜橙之旅</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240508210000 +0800" stop="20240508215200 +0800">
+		<title lang="zh">走进老区看新貌：河北</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -76494,6 +76515,9 @@
 	<programme channel="newtv爱情喜剧" start="20240508201000 +0800" stop="20240508205900 +0800">
 		<title lang="zh">14_救了一万次的你</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240508205900 +0800" stop="20240508214400 +0800">
+		<title lang="zh">15_救了一万次的你</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -76541,6 +76565,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240508201900 +0800" stop="20240508204900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240508204900 +0800" stop="20240508215300 +0800">
+		<title lang="zh">头牌特工</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -77088,6 +77115,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240508200100 +0800" stop="20240508205100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240508205100 +0800" stop="20240508224600 +0800">
+		<title lang="zh">古墓丽影2</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -77138,6 +77168,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240508201000 +0800" stop="20240508210000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240508210000 +0800" stop="20240508235800 +0800">
+		<title lang="zh">心动的信号第5季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
