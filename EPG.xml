@@ -16230,6 +16230,78 @@
 	<programme channel="TVB PLUS" start="20240508182500 +0800" stop="20240508230500 +0800">
 		<title lang="zh">赛马直击[粤/英][马会]-Horse Racing Day[Can/Eng][HKJC]</title>
 	</programme>
+	<channel id="TVBS">
+		<display-name lang="zh">TVBS</display-name>
+	</channel>
+	<programme channel="TVBS" start="20240508000000 +0800" stop="20240508010000 +0800">
+		<title lang="zh">國民大會</title>
+	</programme>
+	<programme channel="TVBS" start="20240508010000 +0800" stop="20240508020000 +0800">
+		<title lang="zh">地球黃金線</title>
+	</programme>
+	<programme channel="TVBS" start="20240508020000 +0800" stop="20240508030000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240508030000 +0800" stop="20240508040000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240508040000 +0800" stop="20240508050000 +0800">
+		<title lang="zh">FOCUS國際話題</title>
+	</programme>
+	<programme channel="TVBS" start="20240508050000 +0800" stop="20240508060000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240508060000 +0800" stop="20240508070000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240508070000 +0800" stop="20240508080000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240508080000 +0800" stop="20240508090000 +0800">
+		<title lang="zh">健康2.0</title>
+	</programme>
+	<programme channel="TVBS" start="20240508090000 +0800" stop="20240508100000 +0800">
+		<title lang="zh">地球黃金線</title>
+	</programme>
+	<programme channel="TVBS" start="20240508100000 +0800" stop="20240508110000 +0800">
+		<title lang="zh">金臨天下</title>
+	</programme>
+	<programme channel="TVBS" start="20240508110000 +0800" stop="20240508120000 +0800">
+		<title lang="zh">FOCUS國際話題</title>
+	</programme>
+	<programme channel="TVBS" start="20240508120000 +0800" stop="20240508130000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240508130000 +0800" stop="20240508140000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240508140000 +0800" stop="20240508150000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240508150000 +0800" stop="20240508160000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240508160000 +0800" stop="20240508170000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240508170000 +0800" stop="20240508180000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240508180000 +0800" stop="20240508190000 +0800">
+		<title lang="zh">國民大會</title>
+	</programme>
+	<programme channel="TVBS" start="20240508190000 +0800" stop="20240508200000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240508200000 +0800" stop="20240508210000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240508210000 +0800" stop="20240508220000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240508220000 +0800" stop="20240508230000 +0800">
+		<title lang="zh">地球黃金線</title>
+	</programme>
 	<channel id="TVBS新闻台">
 		<display-name lang="zh">TVBS新闻台</display-name>
 	</channel>
@@ -74376,6 +74448,9 @@
 	<programme channel="黑莓动画" start="20240508103300 +0800" stop="20240508105600 +0800">
 		<title lang="zh">汪汪队立大功第3季09</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240508105600 +0800" stop="20240508111900 +0800">
+		<title lang="zh">汪汪队立大功第3季10</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75252,6 +75327,9 @@
 	<programme channel="newtv超级综艺" start="20240508091700 +0800" stop="20240508105000 +0800">
 		<title lang="zh">经典咏流传b7正青春</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240508105000 +0800" stop="20240508120900 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -75444,6 +75522,9 @@
 	<programme channel="newtv精品纪录" start="20240508100600 +0800" stop="20240508105100 +0800">
 		<title lang="zh">02_世上最蓝的海</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240508105100 +0800" stop="20240508112100 +0800">
+		<title lang="zh">15_风味实验室 第2季</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75530,6 +75611,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240508100700 +0800" stop="20240508105400 +0800">
 		<title lang="zh">18_最后的子弹</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240508105400 +0800" stop="20240508114200 +0800">
+		<title lang="zh">19_最后的子弹</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
