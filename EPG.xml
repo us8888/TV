@@ -25599,6 +25599,9 @@
 	<programme channel="动作电影" start="20240508114500 +0800" stop="20240508132700 +0800">
 		<title lang="zh">极速生活</title>
 	</programme>
+	<programme channel="动作电影" start="20240508132700 +0800" stop="20240508145500 +0800">
+		<title lang="zh">战斧行动</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -31823,6 +31826,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240508115500 +0800" stop="20240508134000 +0800">
 		<title lang="zh">23/24赛季意甲第33轮全场回放：都灵0:0弗罗西诺内（石庆圣）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240508134000 +0800" stop="20240508154100 +0800">
+		<title lang="zh">23/24赛季意甲第33轮全场回放：蒙扎1:2亚特兰大（乔迁）</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -57528,6 +57534,9 @@
 	<programme channel="爱情喜剧" start="20240508123800 +0800" stop="20240508132000 +0800">
 		<title lang="zh">09_邻居也疯狂（超清）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240508132000 +0800" stop="20240508140100 +0800">
+		<title lang="zh">10_邻居也疯狂（超清）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -74523,6 +74532,9 @@
 	<programme channel="黑莓动画" start="20240508131100 +0800" stop="20240508132400 +0800">
 		<title lang="zh">35_熊出没之怪兽计划第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240508132400 +0800" stop="20240508133700 +0800">
+		<title lang="zh">36_熊出没之怪兽计划第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74549,6 +74561,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240508114300 +0800" stop="20240508132400 +0800">
 		<title lang="zh">克莱泽的圣诞节</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240508132400 +0800" stop="20240508145100 +0800">
+		<title lang="zh">颛臾王</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -75408,6 +75423,9 @@
 	<programme channel="newtv超级综艺" start="20240508120900 +0800" stop="20240508132600 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240508132600 +0800" stop="20240508144300 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -75527,6 +75545,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240508125600 +0800" stop="20240508134000 +0800">
 		<title lang="zh">03_宫心计2深宫计（粤语版）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240508134000 +0800" stop="20240508142300 +0800">
+		<title lang="zh">04_宫心计2深宫计（粤语版）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -75648,6 +75669,9 @@
 	<programme channel="newtv精品纪录" start="20240508124800 +0800" stop="20240508131800 +0800">
 		<title lang="zh">我的家乡菜b7柳州篇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240508131800 +0800" stop="20240508140600 +0800">
+		<title lang="zh">第2集：甘苦之奇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75701,6 +75725,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240508123600 +0800" stop="20240508132100 +0800">
 		<title lang="zh">63_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240508132100 +0800" stop="20240508140700 +0800">
+		<title lang="zh">01_自古英雄出少年</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -75900,6 +75927,9 @@
 	<programme channel="newtv爱情喜剧" start="20240508123800 +0800" stop="20240508132000 +0800">
 		<title lang="zh">09_邻居也疯狂（超清）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240508132000 +0800" stop="20240508140100 +0800">
+		<title lang="zh">10_邻居也疯狂（超清）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75929,6 +75959,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240508114500 +0800" stop="20240508132700 +0800">
 		<title lang="zh">极速生活</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240508132700 +0800" stop="20240508145500 +0800">
+		<title lang="zh">战斧行动</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -75989,6 +76022,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240508130800 +0800" stop="20240508132400 +0800">
 		<title lang="zh">小品《主角与配角》 表演：陈佩斯 朱时茂</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240508132400 +0800" stop="20240508133800 +0800">
+		<title lang="zh">小品《羊肉串》 表演：陈佩斯 朱时茂</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
