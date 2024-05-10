@@ -42990,6 +42990,9 @@
 	<programme channel="纯享4K" start="20240511022300 +0800" stop="20240511030100 +0800">
 		<title lang="zh">探索b7发现4K 三江源（一）源头</title>
 	</programme>
+	<programme channel="纯享4K" start="20240511030100 +0800" stop="20240511034000 +0800">
+		<title lang="zh">探索b7发现4K 三江源（二）家园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52722,6 +52725,9 @@
 	<programme channel="黑莓动画" start="20240511023000 +0800" stop="20240511025500 +0800">
 		<title lang="zh">05_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240511025500 +0800" stop="20240511031900 +0800">
+		<title lang="zh">06_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -53070,6 +53076,9 @@
 	<programme channel="newtv超级综艺" start="20240511015400 +0800" stop="20240511031100 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240511031100 +0800" stop="20240511053500 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -53090,6 +53099,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240511015600 +0800" stop="20240511032000 +0800">
 		<title lang="zh">王牌替身</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240511032000 +0800" stop="20240511052400 +0800">
+		<title lang="zh">少女迷影</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -53118,6 +53130,9 @@
 	<programme channel="newtv精品大剧" start="20240511021200 +0800" stop="20240511025800 +0800">
 		<title lang="zh">29_前夜</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240511025800 +0800" stop="20240511034400 +0800">
+		<title lang="zh">30_前夜</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -53144,6 +53159,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240511020800 +0800" stop="20240511025300 +0800">
 		<title lang="zh">05_天地民心</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240511025300 +0800" stop="20240511033800 +0800">
+		<title lang="zh">06_天地民心</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -53172,11 +53190,17 @@
 	<programme channel="newtv家庭剧场" start="20240511021800 +0800" stop="20240511030500 +0800">
 		<title lang="zh">47_安家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240511030500 +0800" stop="20240511035300 +0800">
+		<title lang="zh">48_安家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20240511010400 +0800" stop="20240511024600 +0800">
 		<title lang="zh">终极胜利</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240511024600 +0800" stop="20240511033200 +0800">
+		<title lang="zh">27_逐浪之爱</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -53186,6 +53210,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240511014900 +0800" stop="20240511031600 +0800">
 		<title lang="zh">捕蝇纸</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240511031600 +0800" stop="20240511040100 +0800">
+		<title lang="zh">12_大捕房</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -53210,6 +53237,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240511021500 +0800" stop="20240511030000 +0800">
 		<title lang="zh">26_林深见鹿</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240511030000 +0800" stop="20240511032700 +0800">
+		<title lang="zh">爱在盛夏</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -53250,6 +53280,9 @@
 	<programme channel="newtv炫舞未来" start="20240511024500 +0800" stop="20240511031100 +0800">
 		<title lang="zh">系列片《一城一味》之山野鸡香（20210114）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240511031100 +0800" stop="20240511032900 +0800">
+		<title lang="zh">喜气洋洋-完整（无二维码）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -53258,6 +53291,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240511020400 +0800" stop="20240511030900 +0800">
 		<title lang="zh">五十公里桃花坞第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240511030900 +0800" stop="20240511035500 +0800">
+		<title lang="zh">07_铁腕行动</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
