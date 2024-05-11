@@ -25797,6 +25797,9 @@
 	<programme channel="咪咕足球" start="20240512010000 +0800" stop="20240512023500 +0800">
 		<title lang="zh">2024赛季中甲第9轮全场回放：南京城市2:1江西庐山（官方解说）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240512023500 +0800" stop="20240512060000 +0800">
+		<title lang="zh">意甲第36轮 AC米兰vs卡利亚里</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -63267,11 +63270,17 @@
 	<programme channel="黑莓动画" start="20240512015300 +0800" stop="20240512021700 +0800">
 		<title lang="zh">07_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240512021700 +0800" stop="20240512024100 +0800">
+		<title lang="zh">08_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240512003500 +0800" stop="20240512022700 +0800">
 		<title lang="zh">超8外星奇遇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240512022700 +0800" stop="20240512035600 +0800">
+		<title lang="zh">京都太秦物語</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -63741,6 +63750,9 @@
 	<programme channel="newtv超级综艺" start="20240512013200 +0800" stop="20240512021700 +0800">
 		<title lang="zh">30_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240512021700 +0800" stop="20240512034000 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -63749,6 +63761,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240512013500 +0800" stop="20240512023600 +0800">
 		<title lang="zh">实况录像-2024年国际体联体操世界杯 多哈站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240512023600 +0800" stop="20240512040000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第二回合</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -63773,6 +63788,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240512020200 +0800" stop="20240512024300 +0800">
 		<title lang="zh">03_鲜花盛开的山村</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240512024300 +0800" stop="20240512032500 +0800">
+		<title lang="zh">04_鲜花盛开的山村</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -63840,6 +63858,9 @@
 	<programme channel="newtv热播精选" start="20240512011500 +0800" stop="20240512022900 +0800">
 		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240512022900 +0800" stop="20240512031300 +0800">
+		<title lang="zh">32_逐浪之爱</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -63851,6 +63872,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20240512004300 +0800" stop="20240512021700 +0800">
 		<title lang="zh">黎明骑士</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240512021700 +0800" stop="20240512034700 +0800">
+		<title lang="zh">困兽之斗</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -63896,6 +63920,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240512020900 +0800" stop="20240512022700 +0800">
 		<title lang="zh">送别-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240512022700 +0800" stop="20240512025300 +0800">
+		<title lang="zh">系列片《一城一味》之串串（20210115）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
