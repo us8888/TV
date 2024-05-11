@@ -22800,6 +22800,9 @@
 	<programme channel="动作电影" start="20240511110000 +0800" stop="20240511121300 +0800">
 		<title lang="zh">湮没</title>
 	</programme>
+	<programme channel="动作电影" start="20240511121300 +0800" stop="20240511134500 +0800">
+		<title lang="zh">人口交易</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -65241,6 +65244,9 @@
 	<programme channel="纯享4K" start="20240511112600 +0800" stop="20240511120800 +0800">
 		<title lang="zh">远方的家4K 长江行 水润华坪 物华天宝</title>
 	</programme>
+	<programme channel="纯享4K" start="20240511120800 +0800" stop="20240511125000 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：公主起舞的乐园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -79422,6 +79428,9 @@
 	<programme channel="黑莓动画" start="20240511115600 +0800" stop="20240511120900 +0800">
 		<title lang="zh">01_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240511120900 +0800" stop="20240511122200 +0800">
+		<title lang="zh">02_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80586,6 +80595,9 @@
 	<programme channel="newtv精品大剧" start="20240511111900 +0800" stop="20240511120700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240511120700 +0800" stop="20240511125200 +0800">
+		<title lang="zh">19_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80643,6 +80655,9 @@
 	<programme channel="newtv精品纪录" start="20240511114200 +0800" stop="20240511121100 +0800">
 		<title lang="zh">我的家乡菜b7阆中篇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240511121100 +0800" stop="20240511124100 +0800">
+		<title lang="zh">穿街走巷b7丹棱篇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80690,6 +80705,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240511112700 +0800" stop="20240511121100 +0800">
 		<title lang="zh">01_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240511121100 +0800" stop="20240511125600 +0800">
+		<title lang="zh">02_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -80907,6 +80925,9 @@
 	<programme channel="newtv动作电影" start="20240511110000 +0800" stop="20240511121300 +0800">
 		<title lang="zh">湮没</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240511121300 +0800" stop="20240511134500 +0800">
+		<title lang="zh">人口交易</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -81077,6 +81098,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240511114300 +0800" stop="20240511120900 +0800">
 		<title lang="zh">直击“锋刃-2023”国际狙击手射击竞赛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240511120900 +0800" stop="20240511123400 +0800">
+		<title lang="zh">直击藏南侦察兵野外生存实训</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -81365,6 +81389,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240511112100 +0800" stop="20240511121200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240511121200 +0800" stop="20240511132900 +0800">
+		<title lang="zh">大漠悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
