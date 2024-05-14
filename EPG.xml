@@ -61716,6 +61716,12 @@
 	<programme channel="黑莓动画" start="20240515035400 +0800" stop="20240515041700 +0800">
 		<title lang="zh">23_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240515041700 +0800" stop="20240515043900 +0800">
+		<title lang="zh">24_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240515043900 +0800" stop="20240515050400 +0800">
+		<title lang="zh">05_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62229,6 +62235,9 @@
 	<programme channel="newtv超级综艺" start="20240515042000 +0800" stop="20240515043500 +0800">
 		<title lang="zh">文化十分</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240515043500 +0800" stop="20240515052400 +0800">
+		<title lang="zh">幸福账单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -62246,6 +62255,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240515040000 +0800" stop="20240515043000 +0800">
 		<title lang="zh">赛事集锦-2024年国际体联蹦床世界杯-科特布斯站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240515043000 +0800" stop="20240515063000 +0800">
+		<title lang="zh">2024年世界女排联赛-巴西站 (中国队-韩国队)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -62306,6 +62318,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240515034400 +0800" stop="20240515042500 +0800">
 		<title lang="zh">22_黎明前的抉择</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240515042500 +0800" stop="20240515051000 +0800">
+		<title lang="zh">12_返城年代</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -62424,6 +62439,9 @@
 	<programme channel="newtv爱情喜剧" start="20240515034200 +0800" stop="20240515042800 +0800">
 		<title lang="zh">32_大捕房</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240515042800 +0800" stop="20240515051300 +0800">
+		<title lang="zh">33_大捕房</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -62435,6 +62453,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240515030300 +0800" stop="20240515042600 +0800">
 		<title lang="zh">绝对忠诚之国家利益</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240515042600 +0800" stop="20240515055600 +0800">
+		<title lang="zh">斗战苍穹</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -62457,6 +62478,9 @@
 	<programme channel="newtv怡伴健康" start="20240515041400 +0800" stop="20240515044100 +0800">
 		<title lang="zh">依水而生（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240515044100 +0800" stop="20240515050800 +0800">
+		<title lang="zh">岛上奇境</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -62471,6 +62495,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240515034800 +0800" stop="20240515043300 +0800">
 		<title lang="zh">04_我的三个母亲</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240515043300 +0800" stop="20240515051800 +0800">
+		<title lang="zh">05_我的三个母亲</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -62507,6 +62534,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240515035100 +0800" stop="20240515044100 +0800">
 		<title lang="zh">岁月留声（20240504）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240515044100 +0800" stop="20240515050200 +0800">
+		<title lang="zh">对你爱不完-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
