@@ -62886,6 +62886,9 @@
 	<programme channel="newtv精品大剧" start="20240519021200 +0800" stop="20240519025200 +0800">
 		<title lang="zh">07_我们队伍向太阳</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240519025200 +0800" stop="20240519033300 +0800">
+		<title lang="zh">08_我们队伍向太阳</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -62912,6 +62915,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240519021300 +0800" stop="20240519025800 +0800">
 		<title lang="zh">45_天地民心</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240519025800 +0800" stop="20240519034300 +0800">
+		<title lang="zh">46_天地民心</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -63021,6 +63027,9 @@
 	<programme channel="newtv炫舞未来" start="20240519023600 +0800" stop="20240519025400 +0800">
 		<title lang="zh">送别-孙爱迪</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240519025400 +0800" stop="20240519032000 +0800">
+		<title lang="zh">系列片《一城一味》之串串（20210115）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -63050,6 +63059,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240519014000 +0800" stop="20240519025600 +0800">
 		<title lang="zh">邻家诗话第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240519025600 +0800" stop="20240519044300 +0800">
+		<title lang="zh">中国文艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
