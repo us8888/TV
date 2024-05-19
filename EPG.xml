@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240520023700 +0800" stop="20240520034100 +0800">
 		<title lang="zh">小小的追球20200121</title>
 	</programme>
+	<programme channel="4K综艺" start="20240520034100 +0800" stop="20240520043200 +0800">
+		<title lang="zh">小小的追球20200122</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -27195,6 +27198,9 @@
 	<programme channel="咪咕足球" start="20240520011500 +0800" stop="20240520032100 +0800">
 		<title lang="zh">23/24赛季西甲第35轮全场回放：阿拉维斯2:2吉罗纳（张天翼）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240520032100 +0800" stop="20240520053500 +0800">
+		<title lang="zh">23/24赛季西甲第35轮全场回放：比利亚雷亚尔3:2塞维利亚（李霄）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -49998,6 +50004,9 @@
 	<programme channel="纯享4K" start="20240520024000 +0800" stop="20240520032000 +0800">
 		<title lang="zh">探索b7发现4K 仰韶故事 第5集 璀璨华章</title>
 	</programme>
+	<programme channel="纯享4K" start="20240520032000 +0800" stop="20240520040200 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59649,6 +59658,9 @@
 	<programme channel="黑莓动画" start="20240520031000 +0800" stop="20240520033600 +0800">
 		<title lang="zh">12_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240520033600 +0800" stop="20240520035700 +0800">
+		<title lang="zh">11_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60060,6 +60072,12 @@
 	<programme channel="newtv超级综艺" start="20240520015800 +0800" stop="20240520032900 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240520032900 +0800" stop="20240520034100 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20240520034100 +0800" stop="20240520052600 +0800">
+		<title lang="zh">你好民歌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60084,6 +60102,9 @@
 	<programme channel="newtv超级电影" start="20240520021400 +0800" stop="20240520034100 +0800">
 		<title lang="zh">伏魔济公</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240520034100 +0800" stop="20240520051600 +0800">
+		<title lang="zh">开工大急</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60099,6 +60120,12 @@
 	<programme channel="newtv超级电视剧" start="20240520022800 +0800" stop="20240520031000 +0800">
 		<title lang="zh">08_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240520031000 +0800" stop="20240520035100 +0800">
+		<title lang="zh">09_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240520035100 +0800" stop="20240520043300 +0800">
+		<title lang="zh">09_妈妈在等你</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60113,6 +60140,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240520024400 +0800" stop="20240520032400 +0800">
 		<title lang="zh">14_我们队伍向太阳</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240520032400 +0800" stop="20240520040400 +0800">
+		<title lang="zh">15_我们队伍向太阳</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60135,6 +60165,9 @@
 	<programme channel="newtv精品纪录" start="20240520030200 +0800" stop="20240520032600 +0800">
 		<title lang="zh">03_寻踪</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240520032600 +0800" stop="20240520035000 +0800">
+		<title lang="zh">04_守护</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60153,6 +60186,9 @@
 	<programme channel="newtv古装剧场" start="20240520030000 +0800" stop="20240520034500 +0800">
 		<title lang="zh">52_天地民心</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240520034500 +0800" stop="20240520042600 +0800">
+		<title lang="zh">13_解忧公主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60167,6 +60203,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240520023600 +0800" stop="20240520032200 +0800">
 		<title lang="zh">29_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240520032200 +0800" stop="20240520040700 +0800">
+		<title lang="zh">30_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60183,6 +60222,9 @@
 	<programme channel="newtv家庭剧场" start="20240520025000 +0800" stop="20240520033500 +0800">
 		<title lang="zh">02_返城年代</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240520033500 +0800" stop="20240520042000 +0800">
+		<title lang="zh">03_返城年代</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60191,6 +60233,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240520024500 +0800" stop="20240520033000 +0800">
 		<title lang="zh">01_拯救大明星</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240520033000 +0800" stop="20240520041600 +0800">
+		<title lang="zh">02_拯救大明星</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -60209,6 +60254,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240520014300 +0800" stop="20240520033000 +0800">
 		<title lang="zh">终极尖兵</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240520033000 +0800" stop="20240520045800 +0800">
+		<title lang="zh">侠探锦毛鼠之血弥东京</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -60237,6 +60285,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240520025600 +0800" stop="20240520034100 +0800">
 		<title lang="zh">32_我的三个母亲</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240520034100 +0800" stop="20240520042600 +0800">
+		<title lang="zh">01_再造之恩</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60263,6 +60314,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240520030000 +0800" stop="20240520032500 +0800">
 		<title lang="zh">以军地面攻势或持续3个月？美进行“地下核试验” 台军欲为“幻影”续命</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240520032500 +0800" stop="20240520035100 +0800">
+		<title lang="zh">以军地面部队突入加沙 美报告鼓吹做好“与中俄同时开战”准备</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60293,6 +60347,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240520031400 +0800" stop="20240520032500 +0800">
 		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240520032500 +0800" stop="20240520033300 +0800">
+		<title lang="zh">《广场舞》 纳西情歌（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240520034500 +0800" stop="20240520040300 +0800">
+		<title lang="zh">我在春天等你-心心</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -60329,6 +60389,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240520015900 +0800" stop="20240520031500 +0800">
 		<title lang="zh">邻家诗话第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240520031500 +0800" stop="20240520053100 +0800">
+		<title lang="zh">中国文艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
