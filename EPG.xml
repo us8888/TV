@@ -27192,6 +27192,9 @@
 	<programme channel="咪咕综合体育" start="20240520024800 +0800" stop="20240520050800 +0800">
 		<title lang="zh">2024WTT沙特大满贯Day4一号桌晚间场全场回放（刘国正、马特）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240520050800 +0800" stop="20240520065500 +0800">
+		<title lang="zh">23/24赛季中国男子排球超级联赛冠、亚军决赛全场回放：上海光明3-0北京北汽（鸿昆、张歌）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27929,6 +27932,54 @@
 	</programme>
 	<programme channel="四海钓鱼" start="20240520223000 +0800" stop="20240520233000 +0800">
 		<title lang="zh">2020溧阳钓鱼达人垂钓嘉年华</title>
+	</programme>
+	<channel id="国会频道1">
+		<display-name lang="zh">国会频道1</display-name>
+	</channel>
+	<programme channel="国会频道1" start="20240520002000 +0800" stop="20240520030600 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520030600 +0800" stop="20240520041600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520041600 +0800" stop="20240520044600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520044600 +0800" stop="20240520091600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520091600 +0800" stop="20240520104400 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520104400 +0800" stop="20240520133000 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520133000 +0800" stop="20240520141700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520141700 +0800" stop="20240520143000 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520143000 +0800" stop="20240520180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道1" start="20240520180000 +0800" stop="20240520235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
+	</programme>
+	<channel id="国会频道2">
+		<display-name lang="zh">国会频道2</display-name>
+	</channel>
+	<programme channel="国会频道2" start="20240520051500 +0800" stop="20240520084700 +0800">
+		<title lang="zh">黨團協商</title>
+	</programme>
+	<programme channel="国会频道2" start="20240520084700 +0800" stop="20240520090000 +0800">
+		<title lang="zh">週一會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240520090000 +0800" stop="20240520180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道2" start="20240520180000 +0800" stop="20240520235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
 	</programme>
 	<channel id="大湾区卫视">
 		<display-name lang="zh">大湾区卫视</display-name>
@@ -48735,6 +48786,75 @@
 	<programme channel="生活时尚" start="20240520235700 +0800" stop="20240520000000 +0800">
 		<title lang="zh">自然之旅欣赏</title>
 	</programme>
+	<channel id="电竞天堂">
+		<display-name lang="zh">电竞天堂</display-name>
+	</channel>
+	<programme channel="电竞天堂" start="20240520005500 +0800" stop="20240520013000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520013000 +0800" stop="20240520021900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520021900 +0800" stop="20240520030000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520030000 +0800" stop="20240520034300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520034300 +0800" stop="20240520041800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520041800 +0800" stop="20240520050800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520050800 +0800" stop="20240520054800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520054800 +0800" stop="20240520063200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520063200 +0800" stop="20240520070700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520070700 +0800" stop="20240520075700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520075700 +0800" stop="20240520083700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520083700 +0800" stop="20240520092100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520092100 +0800" stop="20240520095600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520095600 +0800" stop="20240520104600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520104600 +0800" stop="20240520112600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520112600 +0800" stop="20240520121000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520121000 +0800" stop="20240520124500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520124500 +0800" stop="20240520133400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520133400 +0800" stop="20240520141500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520141500 +0800" stop="20240520145900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520145900 +0800" stop="20240520153400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240520153400 +0800" stop="20240520162300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
 	<channel id="电视指南">
 		<display-name lang="zh">电视指南</display-name>
 	</channel>
@@ -50372,6 +50492,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240520044400 +0800" stop="20240520044900 +0800">
 		<title lang="zh">美丽中国自然4K 云梦江城系列 豹澥湖新居民</title>
+	</programme>
+	<programme channel="纯享4K" start="20240520045500 +0800" stop="20240520052400 +0800">
+		<title lang="zh">村庄故事4K 枣香乾坤湾（上）</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -60036,6 +60159,9 @@
 	<programme channel="黑莓动画" start="20240520043700 +0800" stop="20240520045900 +0800">
 		<title lang="zh">34_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240520045900 +0800" stop="20240520052300 +0800">
+		<title lang="zh">15_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60564,6 +60690,9 @@
 	<programme channel="newtv精品纪录" start="20240520043300 +0800" stop="20240520051000 +0800">
 		<title lang="zh">镇馆之宝 14 秦国钱模发现记</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240520051000 +0800" stop="20240520053500 +0800">
+		<title lang="zh">01_王朝初生</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60588,6 +60717,9 @@
 	<programme channel="newtv古装剧场" start="20240520042600 +0800" stop="20240520050700 +0800">
 		<title lang="zh">14_解忧公主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240520050700 +0800" stop="20240520054800 +0800">
+		<title lang="zh">15_解忧公主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60608,6 +60740,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240520040700 +0800" stop="20240520045500 +0800">
 		<title lang="zh">22_红色娘子军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240520045500 +0800" stop="20240520054200 +0800">
+		<title lang="zh">01_爱在战火纷飞时</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60630,6 +60765,9 @@
 	<programme channel="newtv家庭剧场" start="20240520042000 +0800" stop="20240520050600 +0800">
 		<title lang="zh">12_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240520050600 +0800" stop="20240520055200 +0800">
+		<title lang="zh">13_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60645,6 +60783,9 @@
 	<programme channel="newtv热播精选" start="20240520041600 +0800" stop="20240520050100 +0800">
 		<title lang="zh">03_拯救大明星</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240520050100 +0800" stop="20240520054600 +0800">
+		<title lang="zh">04_拯救大明星</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60657,6 +60798,9 @@
 	<programme channel="newtv爱情喜剧" start="20240520042300 +0800" stop="20240520051000 +0800">
 		<title lang="zh">04_红颜的岁月</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240520051000 +0800" stop="20240520055700 +0800">
+		<title lang="zh">05_红颜的岁月</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60668,6 +60812,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240520033000 +0800" stop="20240520045800 +0800">
 		<title lang="zh">侠探锦毛鼠之血弥东京</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240520045800 +0800" stop="20240520061600 +0800">
+		<title lang="zh">兵临城下-虎贲</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -60693,6 +60840,9 @@
 	<programme channel="newtv怡伴健康" start="20240520044200 +0800" stop="20240520050900 +0800">
 		<title lang="zh">返璞归真——拯救珊瑚礁（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240520050900 +0800" stop="20240520053600 +0800">
+		<title lang="zh">返璞归真——拯救珊瑚礁（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60710,6 +60860,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240520042600 +0800" stop="20240520051200 +0800">
 		<title lang="zh">02_再造之恩</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240520051200 +0800" stop="20240520055700 +0800">
+		<title lang="zh">03_再造之恩</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60746,6 +60899,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240520041600 +0800" stop="20240520050900 +0800">
 		<title lang="zh">决胜千里：解放战争中的红色电波 第2集 经略中原</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240520050900 +0800" stop="20240520060100 +0800">
+		<title lang="zh">决胜千里：解放战争中的红色电波 第3集 鏖战泉城</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60788,6 +60944,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240520042000 +0800" stop="20240520051000 +0800">
 		<title lang="zh">岁月留声（20240503）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240520051000 +0800" stop="20240520052800 +0800">
+		<title lang="zh">草原的月亮-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
