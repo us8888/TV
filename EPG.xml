@@ -66,6 +66,9 @@
 	<programme channel="4K综艺" start="20240525041400 +0800" stop="20240525043600 +0800">
 		<title lang="zh">少年说听你说20180719</title>
 	</programme>
+	<programme channel="4K综艺" start="20240525043600 +0800" stop="20240525051300 +0800">
+		<title lang="zh">重返地球20180309</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -53058,6 +53061,9 @@
 	<programme channel="纯享4K" start="20240525035500 +0800" stop="20240525043600 +0800">
 		<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title>
 	</programme>
+	<programme channel="纯享4K" start="20240525043600 +0800" stop="20240525051900 +0800">
+		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64299,6 +64305,9 @@
 	<programme channel="黑莓动画" start="20240525040500 +0800" stop="20240525042700 +0800">
 		<title lang="zh">05_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240525042700 +0800" stop="20240525044900 +0800">
+		<title lang="zh">06_马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64824,6 +64833,9 @@
 	<programme channel="newtv超级电视剧" start="20240525035300 +0800" stop="20240525043400 +0800">
 		<title lang="zh">34_妈妈在等你</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240525043400 +0800" stop="20240525051600 +0800">
+		<title lang="zh">35_妈妈在等你</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -64844,6 +64856,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240525035000 +0800" stop="20240525043500 +0800">
 		<title lang="zh">15_新万家灯火</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240525043500 +0800" stop="20240525052000 +0800">
+		<title lang="zh">28_千金保姆</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -64914,6 +64929,9 @@
 	<programme channel="newtv军旅剧场" start="20240525035700 +0800" stop="20240525044500 +0800">
 		<title lang="zh">18_红色娘子军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240525044500 +0800" stop="20240525053100 +0800">
+		<title lang="zh">25_爱在战火纷飞时</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -64938,6 +64956,9 @@
 	<programme channel="newtv家庭剧场" start="20240525034200 +0800" stop="20240525042800 +0800">
 		<title lang="zh">37_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240525042800 +0800" stop="20240525051400 +0800">
+		<title lang="zh">38_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -64949,6 +64970,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240525032700 +0800" stop="20240525041700 +0800">
 		<title lang="zh">05_致我们暖暖的小时光</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240525041700 +0800" stop="20240525050200 +0800">
+		<title lang="zh">06_致我们暖暖的小时光</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -64964,6 +64988,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240525035900 +0800" stop="20240525044400 +0800">
 		<title lang="zh">04_沧桑花楼街</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240525044400 +0800" stop="20240525052800 +0800">
+		<title lang="zh">05_沧桑花楼街</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -64998,6 +65025,9 @@
 	<programme channel="newtv怡伴健康" start="20240525041200 +0800" stop="20240525043900 +0800">
 		<title lang="zh">大河的馈赠（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240525043900 +0800" stop="20240525050600 +0800">
+		<title lang="zh">动物的野性海岸</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -65015,6 +65045,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240525034000 +0800" stop="20240525042500 +0800">
 		<title lang="zh">31_再造之恩</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240525042500 +0800" stop="20240525051100 +0800">
+		<title lang="zh">32_再造之恩</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -65052,6 +65085,9 @@
 	<programme channel="newtv军事评论" start="20240525040800 +0800" stop="20240525043300 +0800">
 		<title lang="zh">台当局妄图将台岛打造成“地雷岛” 俄乌冲突将“长期化”？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240525043300 +0800" stop="20240525045900 +0800">
+		<title lang="zh">台当局欲通过欧洲国家采购无人机？美韩演习给半岛局势“火上浇油”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -65067,6 +65103,12 @@
 	<programme channel="newtv炫舞未来" start="20240525040500 +0800" stop="20240525042000 +0800">
 		<title lang="zh">纸月亮-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240525042000 +0800" stop="20240525044100 +0800">
+		<title lang="zh">印度姑娘-尚岩</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240525044100 +0800" stop="20240525045500 +0800">
+		<title lang="zh">最真的梦-饶子龙（纯净版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -65081,6 +65123,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240525034400 +0800" stop="20240525042800 +0800">
 		<title lang="zh">05_狐影</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240525042800 +0800" stop="20240525051100 +0800">
+		<title lang="zh">06_狐影</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
