@@ -28785,6 +28785,9 @@
 	<programme channel="咪咕综合体育" start="20240525000000 +0800" stop="20240525024900 +0800">
 		<title lang="zh">23/24赛季CBA季后赛1/4决赛G4全场回放：上海vs浙江（王羽希、王冠证、徐秦威、陈正昊）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240525024900 +0800" stop="20240525053600 +0800">
+		<title lang="zh">UFC格斗之夜240期主赛全场回放（陈瑞阳、郑文祺）（50帧原画）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52677,6 +52680,9 @@
 	<programme channel="纯享4K" start="20240525021500 +0800" stop="20240525023000 +0800">
 		<title lang="zh">鲜生史4K 第11集 白居易 心安即是归处</title>
 	</programme>
+	<programme channel="纯享4K" start="20240525023000 +0800" stop="20240525031000 +0800">
+		<title lang="zh">探索b7发现4K 大足石刻：石头上的世界 第1集 愿者之力</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63906,6 +63912,9 @@
 	<programme channel="黑莓动画" start="20240525021600 +0800" stop="20240525023900 +0800">
 		<title lang="zh">10_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240525023900 +0800" stop="20240525030500 +0800">
+		<title lang="zh">09_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64389,11 +64398,17 @@
 	<programme channel="newtv超级体育" start="20240525013500 +0800" stop="20240525023600 +0800">
 		<title lang="zh">实况录像-2024年举重世界杯 女子49公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240525023600 +0800" stop="20240525040000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20240525003900 +0800" stop="20240525023900 +0800">
 		<title lang="zh">我的左手</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240525023900 +0800" stop="20240525053400 +0800">
+		<title lang="zh">火药牌女友</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -64407,6 +64422,9 @@
 	<programme channel="newtv超级电视剧" start="20240525014800 +0800" stop="20240525023000 +0800">
 		<title lang="zh">34_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240525023000 +0800" stop="20240525031100 +0800">
+		<title lang="zh">35_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -64418,6 +64436,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240525013400 +0800" stop="20240525021900 +0800">
 		<title lang="zh">12_新万家灯火</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240525021900 +0800" stop="20240525030500 +0800">
+		<title lang="zh">13_新万家灯火</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -64431,6 +64452,9 @@
 	<programme channel="newtv精品纪录" start="20240525014300 +0800" stop="20240525021600 +0800">
 		<title lang="zh">共和国医者：马玙 张藻南</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240525021600 +0800" stop="20240525030400 +0800">
+		<title lang="zh">06_野性的世界</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -64442,6 +64466,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240525015000 +0800" stop="20240525023500 +0800">
 		<title lang="zh">21_上古情歌</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240525023500 +0800" stop="20240525032000 +0800">
+		<title lang="zh">22_上古情歌</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -64457,6 +64484,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240525013400 +0800" stop="20240525022200 +0800">
 		<title lang="zh">15_红色娘子军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240525022200 +0800" stop="20240525030900 +0800">
+		<title lang="zh">16_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -64482,6 +64512,9 @@
 	<programme channel="newtv热播精选" start="20240525011200 +0800" stop="20240525024100 +0800">
 		<title lang="zh">坦克战</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240525024100 +0800" stop="20240525032700 +0800">
+		<title lang="zh">04_致我们暖暖的小时光</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -64497,6 +64530,9 @@
 	<programme channel="newtv动作电影" start="20240525010600 +0800" stop="20240525022800 +0800">
 		<title lang="zh">极地追击</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240525022800 +0800" stop="20240525040300 +0800">
+		<title lang="zh">火线干探之复活</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -64508,6 +64544,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240525014700 +0800" stop="20240525023200 +0800">
 		<title lang="zh">27_加油！妈妈</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240525023200 +0800" stop="20240525031800 +0800">
+		<title lang="zh">28_加油！妈妈</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -64544,6 +64583,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240525020100 +0800" stop="20240525022600 +0800">
 		<title lang="zh">台军在苏澳港部署反潜护卫舰 乌军称已突破南部“最难防线”？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240525022600 +0800" stop="20240525025200 +0800">
+		<title lang="zh">台军拟建15座导弹阵地遍布台岛 以军称攻入加沙“心脏地带”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -64595,6 +64637,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240525004000 +0800" stop="20240525021900 +0800">
 		<title lang="zh">2023-24赛季意甲第34轮：尤文图斯 VS AC米兰</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240525021900 +0800" stop="20240525033900 +0800">
+		<title lang="zh">2023-24赛季意甲第23轮：国际米兰VS尤文图斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
