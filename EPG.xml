@@ -60399,6 +60399,9 @@
 	<programme channel="黑莓动画" start="20240527040800 +0800" stop="20240527043100 +0800">
 		<title lang="zh">09_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240527043100 +0800" stop="20240527045300 +0800">
+		<title lang="zh">10_马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60816,6 +60819,9 @@
 	<programme channel="newtv超级综艺" start="20240527025900 +0800" stop="20240527044000 +0800">
 		<title lang="zh">首届青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240527044000 +0800" stop="20240527050000 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60936,6 +60942,9 @@
 	<programme channel="newtv古装剧场" start="20240527034200 +0800" stop="20240527042700 +0800">
 		<title lang="zh">33_上古情歌</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240527042700 +0800" stop="20240527051200 +0800">
+		<title lang="zh">06_大戏法</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61001,6 +61010,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240527024300 +0800" stop="20240527041700 +0800">
 		<title lang="zh">爱情不NG</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240527041700 +0800" stop="20240527050300 +0800">
+		<title lang="zh">13_沧桑花楼街</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61106,6 +61118,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240527040900 +0800" stop="20240527042900 +0800">
 		<title lang="zh">印度姑娘-尚岩</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240527042900 +0800" stop="20240527044300 +0800">
+		<title lang="zh">最真的梦-饶子龙（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
