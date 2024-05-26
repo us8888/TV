@@ -27681,11 +27681,17 @@
 	<programme channel="咪咕综合体育" start="20240527000000 +0800" stop="20240527024500 +0800">
 		<title lang="zh">23/24赛季CBA季后赛半决赛G2全场回放：辽宁vs广东（杨健、李根、孙铭徽、金佳悦）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240527024500 +0800" stop="20240527050600 +0800">
+		<title lang="zh">2024WTT沙特大满贯Day4一号桌晚间场全场回放（刘国正、马特）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20240527000000 +0800" stop="20240527023000 +0800">
 		<title lang="zh">意甲t第38轮那不勒斯vs莱切</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240527023000 +0800" stop="20240527053000 +0800">
+		<title lang="zh">意甲t第38轮维罗纳vs国际米兰</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -60000,6 +60006,9 @@
 	<programme channel="黑莓动画" start="20240527015500 +0800" stop="20240527021800 +0800">
 		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240527021800 +0800" stop="20240527024200 +0800">
+		<title lang="zh">02_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60417,6 +60426,9 @@
 	<programme channel="newtv超级体育" start="20240527013500 +0800" stop="20240527023600 +0800">
 		<title lang="zh">实况录像-2024年举重世界杯 男子61公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240527023600 +0800" stop="20240527040000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第一回合 多特蒙德-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60425,6 +60437,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240527004400 +0800" stop="20240527021200 +0800">
 		<title lang="zh">鹰笛雪莲</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240527021200 +0800" stop="20240527034100 +0800">
+		<title lang="zh">沧州绝招</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60438,6 +60453,9 @@
 	<programme channel="newtv超级电视剧" start="20240527015900 +0800" stop="20240527024400 +0800">
 		<title lang="zh">02_下一站，别离</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240527024400 +0800" stop="20240527033000 +0800">
+		<title lang="zh">03_下一站，别离</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60449,6 +60467,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240527013600 +0800" stop="20240527022200 +0800">
 		<title lang="zh">24_新万家灯火</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240527022200 +0800" stop="20240527030700 +0800">
+		<title lang="zh">25_新万家灯火</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60464,6 +60485,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240527014900 +0800" stop="20240527022500 +0800">
 		<title lang="zh">共和国医者：赵雅度 薛光</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240527022500 +0800" stop="20240527025000 +0800">
+		<title lang="zh">03_钓鱼城</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60489,6 +60513,9 @@
 	<programme channel="newtv军旅剧场" start="20240527013300 +0800" stop="20240527021900 +0800">
 		<title lang="zh">04_关中义事</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240527021900 +0800" stop="20240527030500 +0800">
+		<title lang="zh">05_关中义事</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60506,6 +60533,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20240527004300 +0800" stop="20240527021800 +0800">
 		<title lang="zh">军火厂</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240527021800 +0800" stop="20240527030700 +0800">
+		<title lang="zh">14_致我们暖暖的小时光</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -60585,6 +60615,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240527011300 +0800" stop="20240527022000 +0800">
 		<title lang="zh">不能犯规的游戏之午夜来电</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240527022000 +0800" stop="20240527032300 +0800">
+		<title lang="zh">铁甲狂猴之亡命雷霆</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -60599,6 +60632,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20240527004900 +0800" stop="20240527023000 +0800">
 		<title lang="zh">2023-24赛季英超联赛第37轮：富勒姆VS曼城</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240527023000 +0800" stop="20240527041100 +0800">
+		<title lang="zh">2023-24赛季英超联赛第37轮：曼联VS阿森纳</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
