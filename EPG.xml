@@ -28530,6 +28530,9 @@
 	<programme channel="咪咕足球" start="20240528000000 +0800" stop="20240528005200 +0800">
 		<title lang="zh">23/24赛季西甲第32轮全场回放：皇家马德里3:2巴塞罗那（张昊泽、梁祥宇）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240528005200 +0800" stop="20240528025300 +0800">
+		<title lang="zh">23/24赛季德甲第33轮全场回放：RB莱比锡1:1云达不莱梅（涂远、马延峰）（50帧原画）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -52152,6 +52155,9 @@
 	<programme channel="纯享4K" start="20240528003200 +0800" stop="20240528010000 +0800">
 		<title lang="zh">记住乡愁4K第九季 王金庄——太行梯田壮美如画</title>
 	</programme>
+	<programme channel="纯享4K" start="20240528010000 +0800" stop="20240528013000 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇 1</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63090,6 +63096,15 @@
 	<programme channel="黑莓动画" start="20240528003400 +0800" stop="20240528005600 +0800">
 		<title lang="zh">03_一人之下第3季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240528005600 +0800" stop="20240528011700 +0800">
+		<title lang="zh">04_一人之下第3季</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240528005000 +0800" stop="20240528023800 +0800">
+		<title lang="zh">完全结婚手册</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -63651,6 +63666,9 @@
 	<programme channel="newtv古装剧场" start="20240528001500 +0800" stop="20240528010100 +0800">
 		<title lang="zh">34_上古情歌</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240528010100 +0800" stop="20240528014500 +0800">
+		<title lang="zh">35_上古情歌</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63678,41 +63696,8 @@
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
-	<programme channel="newtv动作电影" start="20240528000000 +0800" stop="20240528020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528020000 +0800" stop="20240528040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528060000 +0800" stop="20240528080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528080000 +0800" stop="20240528100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528100600 +0800" stop="20240528120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528120000 +0800" stop="20240528140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528140000 +0800" stop="20240528160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528160000 +0800" stop="20240528180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528180000 +0800" stop="20240528190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528190000 +0800" stop="20240528200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528200000 +0800" stop="20240528220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240528220000 +0800" stop="20240528235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv动作电影" start="20240528004800 +0800" stop="20240528030100 +0800">
+		<title lang="zh">碟中谍4</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -63732,6 +63717,9 @@
 	<programme channel="newtv军事评论" start="20240528002100 +0800" stop="20240528004600 +0800">
 		<title lang="zh">激光武器上阵巴以冲突？以方称将“摧毁哈马斯” 美B-52将首降韩国</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240528004600 +0800" stop="20240528011100 +0800">
+		<title lang="zh">激光武器或上阵俄乌冲突？外媒称台军急于获得F-35</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63749,6 +63737,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240528001200 +0800" stop="20240528010000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240528010000 +0800" stop="20240528025500 +0800">
+		<title lang="zh">古墓丽影2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
