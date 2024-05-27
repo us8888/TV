@@ -28608,6 +28608,9 @@
 	<programme channel="咪咕综合体育" start="20240528014000 +0800" stop="20240528042700 +0800">
 		<title lang="zh">UFC格斗之夜240期主赛全场回放（陈瑞阳、郑文祺）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240528042700 +0800" stop="20240528075000 +0800">
+		<title lang="zh">2024WTT沙特大满贯Day11一号桌全场回放（周冠达、侯英超、闫安、彭友）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28619,6 +28622,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240528015000 +0800" stop="20240528043000 +0800">
 		<title lang="zh">沙特超t利雅得胜利vs吉达联合</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240528043000 +0800" stop="20240528065200 +0800">
+		<title lang="zh">2024U17女足亚洲杯决赛全场回放：日本U17女足0:1朝鲜U17女足（张昊泽）</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -52620,6 +52626,9 @@
 	<programme channel="纯享4K" start="20240528035400 +0800" stop="20240528043500 +0800">
 		<title lang="zh">远方的家4K 长江行（104） 万里长江归大海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240528043500 +0800" stop="20240528051400 +0800">
+		<title lang="zh">远方的家4K 长江行 海纳百川大上海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63693,6 +63702,9 @@
 	<programme channel="黑莓动画" start="20240528041400 +0800" stop="20240528043700 +0800">
 		<title lang="zh">12_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240528043700 +0800" stop="20240528050100 +0800">
+		<title lang="zh">31_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63701,6 +63713,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240528023800 +0800" stop="20240528042100 +0800">
 		<title lang="zh">黄皮子坟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240528042100 +0800" stop="20240528055600 +0800">
+		<title lang="zh">打过长江去</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -64209,6 +64224,9 @@
 	<programme channel="newtv超级体育" start="20240528013500 +0800" stop="20240528043500 +0800">
 		<title lang="zh">顶级赛事-高尔夫</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240528043500 +0800" stop="20240528060000 +0800">
+		<title lang="zh">实况录像-2024年全国体操锦标赛 单项决赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -64262,6 +64280,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240528033800 +0800" stop="20240528042400 +0800">
 		<title lang="zh">32_新万家灯火</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240528042400 +0800" stop="20240528050900 +0800">
+		<title lang="zh">33_新万家灯火</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -64350,6 +64371,9 @@
 	<programme channel="newtv家庭剧场" start="20240528034400 +0800" stop="20240528042900 +0800">
 		<title lang="zh">14_一生只爱你</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240528042900 +0800" stop="20240528051500 +0800">
+		<title lang="zh">15_一生只爱你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -64365,6 +64389,9 @@
 	<programme channel="newtv热播精选" start="20240528035300 +0800" stop="20240528043800 +0800">
 		<title lang="zh">01_搞怪女厨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240528043800 +0800" stop="20240528052400 +0800">
+		<title lang="zh">02_搞怪女厨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -64377,6 +64404,9 @@
 	<programme channel="newtv爱情喜剧" start="20240528034100 +0800" stop="20240528042600 +0800">
 		<title lang="zh">18_沧桑花楼街</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240528042600 +0800" stop="20240528051000 +0800">
+		<title lang="zh">19_沧桑花楼街</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -64385,6 +64415,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240528030100 +0800" stop="20240528042900 +0800">
 		<title lang="zh">南宋猎人之灵蛊魅影</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240528042900 +0800" stop="20240528055800 +0800">
+		<title lang="zh">终极审判</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -64406,6 +64439,12 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240528035200 +0800" stop="20240528041900 +0800">
 		<title lang="zh">火山上的动物家园</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240528041900 +0800" stop="20240528044600 +0800">
+		<title lang="zh">花园里的奇妙世界（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240528044600 +0800" stop="20240528051300 +0800">
+		<title lang="zh">花园里的奇妙世界（下）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -64458,6 +64497,9 @@
 	<programme channel="newtv军事评论" start="20240528040900 +0800" stop="20240528043400 +0800">
 		<title lang="zh">美军在亚太测试新战法 乌对俄多个黑海港口发出“攻击警告”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240528043400 +0800" stop="20240528045600 +0800">
+		<title lang="zh">热点冲突中的防空反导装备</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -64505,6 +64547,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240528025500 +0800" stop="20240528042000 +0800">
 		<title lang="zh">鲨卷风4</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240528042000 +0800" stop="20240528054900 +0800">
+		<title lang="zh">侠探锦毛鼠之血光再起</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
