@@ -32229,6 +32229,9 @@
 	<programme channel="咪咕综合体育" start="20240602021300 +0800" stop="20240602024700 +0800">
 		<title lang="zh">2024WTT常规挑战赛太原站混双1/4决赛回放：刘丁硕/王添艺1-3蒯曼/林诗栋（周冠达）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240602024700 +0800" stop="20240602081900 +0800">
+		<title lang="zh">2024WTT常规挑战赛太原站Day6一号桌全场回放（刘国正、闫安）（大咖视角）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -71244,6 +71247,9 @@
 	<programme channel="黑莓动画" start="20240602020000 +0800" stop="20240602022200 +0800">
 		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240602022200 +0800" stop="20240602024600 +0800">
+		<title lang="zh">02_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71772,6 +71778,9 @@
 	<programme channel="newtv超级电影" start="20240602003900 +0800" stop="20240602022600 +0800">
 		<title lang="zh">金城档案</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240602022600 +0800" stop="20240602035100 +0800">
+		<title lang="zh">做次有钱人</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -71783,6 +71792,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240602013500 +0800" stop="20240602022000 +0800">
 		<title lang="zh">34_下一站，别离</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240602022000 +0800" stop="20240602030500 +0800">
+		<title lang="zh">35_下一站，别离</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71811,6 +71823,9 @@
 	<programme channel="newtv精品纪录" start="20240602015300 +0800" stop="20240602022700 +0800">
 		<title lang="zh">共和国医者：陈可冀加张彤</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240602022700 +0800" stop="20240602031700 +0800">
+		<title lang="zh">黄石公园——捕食者归来</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71838,6 +71853,9 @@
 	<programme channel="newtv军旅剧场" start="20240602014100 +0800" stop="20240602022600 +0800">
 		<title lang="zh">05_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240602022600 +0800" stop="20240602031200 +0800">
+		<title lang="zh">06_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71849,6 +71867,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240602013600 +0800" stop="20240602022200 +0800">
 		<title lang="zh">23_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240602022200 +0800" stop="20240602030700 +0800">
+		<title lang="zh">24_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71889,6 +71910,9 @@
 	<programme channel="newtv怡伴健康" start="20240602013500 +0800" stop="20240602022100 +0800">
 		<title lang="zh">11_余生，请多指教（DVD版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240602022100 +0800" stop="20240602030800 +0800">
+		<title lang="zh">12_余生，请多指教（DVD版）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71913,6 +71937,9 @@
 	<programme channel="newtv军事评论" start="20240602013500 +0800" stop="20240602022900 +0800">
 		<title lang="zh">与死神打交道的排爆勇士——全国模范退役军人王厚鑫</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240602022900 +0800" stop="20240602032200 +0800">
+		<title lang="zh">东江上的救捞人——老兵赵喜昌和他的战旗救捞队</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71933,6 +71960,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240602020900 +0800" stop="20240602021900 +0800">
 		<title lang="zh">青城山下白素贞-完整（无二维码）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240602022700 +0800" stop="20240602024500 +0800">
+		<title lang="zh">探清水河-完整（无二维码）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -71957,6 +71987,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240602000700 +0800" stop="20240602024100 +0800">
 		<title lang="zh">越战越勇（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240602024100 +0800" stop="20240602042300 +0800">
+		<title lang="zh">艺览天下（2022）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
