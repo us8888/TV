@@ -74232,6 +74232,9 @@
 	<programme channel="黑莓电影" start="20240604010800 +0800" stop="20240604025600 +0800">
 		<title lang="zh">境b7界</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240604025600 +0800" stop="20240604050200 +0800">
+		<title lang="zh">沙漠之花</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -74715,6 +74718,9 @@
 	<programme channel="newtv超级综艺" start="20240604015900 +0800" stop="20240604031600 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240604031600 +0800" stop="20240604052300 +0800">
+		<title lang="zh">首届青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -74753,6 +74759,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240604021900 +0800" stop="20240604025400 +0800">
 		<title lang="zh">06_怒晴湘西</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240604025400 +0800" stop="20240604034000 +0800">
+		<title lang="zh">13_承欢记</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -74826,6 +74835,9 @@
 	<programme channel="newtv家庭剧场" start="20240604020900 +0800" stop="20240604025400 +0800">
 		<title lang="zh">32_父亲的草原母亲的河</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240604025400 +0800" stop="20240604034000 +0800">
+		<title lang="zh">33_父亲的草原母亲的河</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -74862,6 +74874,9 @@
 	<programme channel="newtv怡伴健康" start="20240604020400 +0800" stop="20240604025100 +0800">
 		<title lang="zh">17_余生，请多指教（DVD版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240604025100 +0800" stop="20240604033600 +0800">
+		<title lang="zh">18_余生，请多指教（DVD版）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -74885,6 +74900,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240604020700 +0800" stop="20240604030000 +0800">
 		<title lang="zh">愿做“铆钉”护飞翔——人民空军首批教练机机械师 易崇德</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240604030000 +0800" stop="20240604035300 +0800">
+		<title lang="zh">携笔从戎砺芳华——《老兵你好》征兵季特别节目（一）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -74981,6 +74999,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240604013700 +0800" stop="20240604030000 +0800">
 		<title lang="zh">长生志</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240604030000 +0800" stop="20240604042800 +0800">
+		<title lang="zh">南宋猎人之匹马中原</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
