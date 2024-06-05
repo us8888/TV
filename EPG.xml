@@ -63063,6 +63063,9 @@
 	<programme channel="纯享4K" start="20240606034200 +0800" stop="20240606042200 +0800">
 		<title lang="zh">探索b7发现4K 探秘三星堆 第6集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240606042200 +0800" stop="20240606050400 +0800">
+		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75726,6 +75729,9 @@
 	<programme channel="黑莓动画" start="20240606040900 +0800" stop="20240606043100 +0800">
 		<title lang="zh">03_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240606043100 +0800" stop="20240606045300 +0800">
+		<title lang="zh">04_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76251,6 +76257,9 @@
 	<programme channel="newtv超级电影" start="20240606031100 +0800" stop="20240606043800 +0800">
 		<title lang="zh">马咀是个村</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240606043800 +0800" stop="20240606064100 +0800">
+		<title lang="zh">囧妈</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -76275,6 +76284,9 @@
 	<programme channel="newtv超级电视剧" start="20240606035800 +0800" stop="20240606044300 +0800">
 		<title lang="zh">24_承欢记</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240606044300 +0800" stop="20240606052800 +0800">
+		<title lang="zh">25_承欢记</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -76292,6 +76304,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240606034400 +0800" stop="20240606042900 +0800">
 		<title lang="zh">13_香格里拉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240606042900 +0800" stop="20240606051500 +0800">
+		<title lang="zh">14_香格里拉</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -76353,6 +76368,9 @@
 	<programme channel="newtv军旅剧场" start="20240606034500 +0800" stop="20240606043100 +0800">
 		<title lang="zh">27_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240606043100 +0800" stop="20240606051800 +0800">
+		<title lang="zh">12_红色娘子军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -76388,6 +76406,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240606034100 +0800" stop="20240606042800 +0800">
 		<title lang="zh">06_古董局中局之掠宝清单</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240606042800 +0800" stop="20240606051400 +0800">
+		<title lang="zh">07_古董局中局之掠宝清单</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -76452,6 +76473,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240606033800 +0800" stop="20240606041900 +0800">
 		<title lang="zh">02_幸福照相馆</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240606041900 +0800" stop="20240606050100 +0800">
+		<title lang="zh">03_幸福照相馆</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -76494,6 +76518,9 @@
 	<programme channel="newtv炫舞未来" start="20240606040900 +0800" stop="20240606042900 +0800">
 		<title lang="zh">01_美丽新疆-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240606042900 +0800" stop="20240606044300 +0800">
+		<title lang="zh">03_花儿这样红-饶子龙（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76529,6 +76556,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240606024500 +0800" stop="20240606042700 +0800">
 		<title lang="zh">艺览天下（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240606042700 +0800" stop="20240606061300 +0800">
+		<title lang="zh">中国文艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
