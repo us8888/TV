@@ -58389,6 +58389,9 @@
 	<programme channel="纯享4K" start="20240609035900 +0800" stop="20240609044100 +0800">
 		<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title>
 	</programme>
+	<programme channel="纯享4K" start="20240609044100 +0800" stop="20240609052300 +0800">
+		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71181,6 +71184,12 @@
 	<programme channel="黑莓动画" start="20240609035800 +0800" stop="20240609042000 +0800">
 		<title lang="zh">09_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240609042000 +0800" stop="20240609044300 +0800">
+		<title lang="zh">10_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240609044300 +0800" stop="20240609050700 +0800">
+		<title lang="zh">11_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71877,6 +71886,9 @@
 	<programme channel="newtv精品纪录" start="20240609033100 +0800" stop="20240609041800 +0800">
 		<title lang="zh">07_我们的海洋</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240609041800 +0800" stop="20240609045600 +0800">
+		<title lang="zh">沙土下的青铜王国（下）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71937,6 +71949,9 @@
 	<programme channel="newtv家庭剧场" start="20240609033300 +0800" stop="20240609041900 +0800">
 		<title lang="zh">19_娘家的故事之爱的抉择</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240609041900 +0800" stop="20240609045700 +0800">
+		<title lang="zh">04_闪耀的她</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -71951,6 +71966,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240609034900 +0800" stop="20240609043400 +0800">
 		<title lang="zh">24_古董局中局之掠宝清单</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240609043400 +0800" stop="20240609052000 +0800">
+		<title lang="zh">25_古董局中局之掠宝清单</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -72000,6 +72018,9 @@
 	<programme channel="newtv怡伴健康" start="20240609040400 +0800" stop="20240609043100 +0800">
 		<title lang="zh">母豹的生命旅程（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240609043100 +0800" stop="20240609045800 +0800">
+		<title lang="zh">动物的奇幻山林</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72014,6 +72035,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240609034700 +0800" stop="20240609042800 +0800">
 		<title lang="zh">20_幸福照相馆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240609042800 +0800" stop="20240609050900 +0800">
+		<title lang="zh">21_幸福照相馆</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72032,6 +72056,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240609033500 +0800" stop="20240609042700 +0800">
 		<title lang="zh">投送先锋军交人 国防知识挑战赛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240609042700 +0800" stop="20240609051800 +0800">
+		<title lang="zh">挺进深蓝 南部战区海军某基地 上集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -72065,6 +72092,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240609035300 +0800" stop="20240609043800 +0800">
 		<title lang="zh">30_再造之恩</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240609043800 +0800" stop="20240609052300 +0800">
+		<title lang="zh">31_再造之恩</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
