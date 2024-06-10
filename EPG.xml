@@ -54411,6 +54411,12 @@
 	<programme channel="纯享4K" start="20240611034900 +0800" stop="20240611043100 +0800">
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240611043100 +0800" stop="20240611043600 +0800">
+		<title lang="zh">美丽中国自然4K 唐家河系列 四川羚牛</title>
+	</programme>
+	<programme channel="纯享4K" start="20240611044600 +0800" stop="20240611052600 +0800">
+		<title lang="zh">探索b7发现4K 探秘云梦古墓（3）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65388,6 +65394,9 @@
 	<programme channel="黑莓动画" start="20240611040400 +0800" stop="20240611042700 +0800">
 		<title lang="zh">13_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240611042700 +0800" stop="20240611044900 +0800">
+		<title lang="zh">14_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65904,6 +65913,9 @@
 	<programme channel="newtv超级体育" start="20240611013500 +0800" stop="20240611043500 +0800">
 		<title lang="zh">顶级赛事-高尔夫</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240611043500 +0800" stop="20240611060000 +0800">
+		<title lang="zh">实况录像-2024年田径世界接力赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -65940,6 +65952,9 @@
 	<programme channel="newtv超级电视剧" start="20240611033700 +0800" stop="20240611042200 +0800">
 		<title lang="zh">08_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240611042200 +0800" stop="20240611050700 +0800">
+		<title lang="zh">09_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65957,6 +65972,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240611034000 +0800" stop="20240611042600 +0800">
 		<title lang="zh">06_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240611042600 +0800" stop="20240611051100 +0800">
+		<title lang="zh">24_天龙八部</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -65979,6 +65997,12 @@
 	<programme channel="newtv精品纪录" start="20240611035700 +0800" stop="20240611041900 +0800">
 		<title lang="zh">01_刘铭传在台湾</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240611041900 +0800" stop="20240611044000 +0800">
+		<title lang="zh">02_刘铭传在台湾</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240611044000 +0800" stop="20240611050200 +0800">
+		<title lang="zh">03_刘铭传在台湾</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -65996,6 +66020,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240611033800 +0800" stop="20240611042300 +0800">
 		<title lang="zh">24_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240611042300 +0800" stop="20240611050300 +0800">
+		<title lang="zh">09_民国恩仇录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -66017,6 +66044,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240611033200 +0800" stop="20240611042000 +0800">
 		<title lang="zh">15_红色娘子军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240611042000 +0800" stop="20240611050800 +0800">
+		<title lang="zh">16_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -66054,6 +66084,9 @@
 	<programme channel="newtv热播精选" start="20240611033900 +0800" stop="20240611042600 +0800">
 		<title lang="zh">36_古董局中局之掠宝清单</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240611042600 +0800" stop="20240611051300 +0800">
+		<title lang="zh">37_古董局中局之掠宝清单</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -66071,6 +66104,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240611035500 +0800" stop="20240611043900 +0800">
 		<title lang="zh">08_女村长</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240611043900 +0800" stop="20240611052300 +0800">
+		<title lang="zh">09_女村长</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -66108,6 +66144,9 @@
 	<programme channel="newtv怡伴健康" start="20240611041300 +0800" stop="20240611044000 +0800">
 		<title lang="zh">冰河时代的烙印（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240611044000 +0800" stop="20240611050700 +0800">
+		<title lang="zh">冰河时代的烙印（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -66119,6 +66158,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240611034000 +0800" stop="20240611042100 +0800">
 		<title lang="zh">31_幸福照相馆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240611042100 +0800" stop="20240611050300 +0800">
+		<title lang="zh">32_幸福照相馆</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -66159,6 +66201,12 @@
 	<programme channel="newtv炫舞未来" start="20240611040700 +0800" stop="20240611042600 +0800">
 		<title lang="zh">01_美丽新疆-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240611042600 +0800" stop="20240611044100 +0800">
+		<title lang="zh">03_花儿这样红-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240611044100 +0800" stop="20240611045800 +0800">
+		<title lang="zh">11_灯火里的中国-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66185,6 +66233,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240611030200 +0800" stop="20240611043300 +0800">
 		<title lang="zh">伦敦路</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240611043300 +0800" stop="20240611055800 +0800">
+		<title lang="zh">线上侦探</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
