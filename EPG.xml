@@ -54039,6 +54039,9 @@
 	<programme channel="纯享4K" start="20240611020400 +0800" stop="20240611022800 +0800">
 		<title lang="zh">在乡村4K 第3集 阿是农民</title>
 	</programme>
+	<programme channel="纯享4K" start="20240611022800 +0800" stop="20240611025300 +0800">
+		<title lang="zh">在乡村4K 第4集 旅游来了</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65004,6 +65007,9 @@
 	<programme channel="黑莓动画" start="20240611021500 +0800" stop="20240611023900 +0800">
 		<title lang="zh">08_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240611023900 +0800" stop="20240611030400 +0800">
+		<title lang="zh">07_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65499,6 +65505,9 @@
 	<programme channel="newtv超级综艺" start="20240611014700 +0800" stop="20240611023300 +0800">
 		<title lang="zh">02_清平乐</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240611023300 +0800" stop="20240611035000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -65516,6 +65525,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240611010700 +0800" stop="20240611024300 +0800">
 		<title lang="zh">老捕快</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240611024300 +0800" stop="20240611040900 +0800">
+		<title lang="zh">聊斋新传之画皮人</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -65556,6 +65568,9 @@
 	<programme channel="newtv精品纪录" start="20240611013900 +0800" stop="20240611022400 +0800">
 		<title lang="zh">南朱北李 时代记忆（下）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240611022400 +0800" stop="20240611030700 +0800">
+		<title lang="zh">05_沙漠之行</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -65595,6 +65610,9 @@
 	<programme channel="newtv家庭剧场" start="20240611015200 +0800" stop="20240611023700 +0800">
 		<title lang="zh">27_娘家的故事之爱的抉择</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240611023700 +0800" stop="20240611032300 +0800">
+		<title lang="zh">28_娘家的故事之爱的抉择</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -65613,11 +65631,17 @@
 	<programme channel="newtv爱情喜剧" start="20240611012400 +0800" stop="20240611022800 +0800">
 		<title lang="zh">前任的爱与救赎</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240611022800 +0800" stop="20240611031200 +0800">
+		<title lang="zh">06_女村长</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
 	<programme channel="newtv动作电影" start="20240611004600 +0800" stop="20240611022200 +0800">
 		<title lang="zh">火线干探之黑暗</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240611022200 +0800" stop="20240611034700 +0800">
+		<title lang="zh">公证人之大卫之死</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -65630,6 +65654,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240611014700 +0800" stop="20240611023300 +0800">
 		<title lang="zh">09_清平乐</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240611023300 +0800" stop="20240611031900 +0800">
+		<title lang="zh">10_清平乐</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -65663,6 +65690,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20240611005700 +0800" stop="20240611022600 +0800">
 		<title lang="zh">发明之父</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240611022600 +0800" stop="20240611032600 +0800">
+		<title lang="zh">新游记</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -65735,6 +65765,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240611013400 +0800" stop="20240611023800 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240611023800 +0800" stop="20240611041000 +0800">
+		<title lang="zh">大唐英豪之曼陀罗之谜</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
