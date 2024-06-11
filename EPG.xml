@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20240612033600 +0800" stop="20240612050200 +0800">
 		<title lang="zh">奇兵神犬20171117</title>
 	</programme>
+	<programme channel="4K综艺" start="20240612050200 +0800" stop="20240612063000 +0800">
+		<title lang="zh">奇兵神犬20171124</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -27518,6 +27521,48 @@
 	</programme>
 	<programme channel="四海钓鱼" start="20240612230000 +0800" stop="20240612233000 +0800">
 		<title lang="zh">寻根溯源:开沃剑武鲤轻量版</title>
+	</programme>
+	<channel id="国会频道1">
+		<display-name lang="zh">国会频道1</display-name>
+	</channel>
+	<programme channel="国会频道1" start="20240612021100 +0800" stop="20240612045100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240612045100 +0800" stop="20240612075800 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240612075800 +0800" stop="20240612084700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240612084700 +0800" stop="20240612090000 +0800">
+		<title lang="zh">週三會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240612090000 +0800" stop="20240612180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道1" start="20240612180000 +0800" stop="20240612235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
+	</programme>
+	<channel id="国会频道2">
+		<display-name lang="zh">国会频道2</display-name>
+	</channel>
+	<programme channel="国会频道2" start="20240612020600 +0800" stop="20240612044600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240612044600 +0800" stop="20240612075300 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240612075300 +0800" stop="20240612084700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240612084700 +0800" stop="20240612090000 +0800">
+		<title lang="zh">週三會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240612090000 +0800" stop="20240612180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道2" start="20240612180000 +0800" stop="20240612235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -66645,6 +66690,9 @@
 	<programme channel="newtv超级电视剧" start="20240612043300 +0800" stop="20240612051500 +0800">
 		<title lang="zh">13_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240612051500 +0800" stop="20240612055900 +0800">
+		<title lang="zh">14_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -66665,6 +66713,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240612042900 +0800" stop="20240612051500 +0800">
 		<title lang="zh">29_天龙八部</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240612051500 +0800" stop="20240612060000 +0800">
+		<title lang="zh">30_天龙八部</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -66696,6 +66747,9 @@
 	<programme channel="newtv精品纪录" start="20240612044800 +0800" stop="20240612051000 +0800">
 		<title lang="zh">05_刘铭传在台湾</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240612051000 +0800" stop="20240612055800 +0800">
+		<title lang="zh">06_台前幕后</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66719,6 +66773,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240612043300 +0800" stop="20240612051300 +0800">
 		<title lang="zh">15_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240612051300 +0800" stop="20240612055300 +0800">
+		<title lang="zh">16_民国恩仇录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -66783,6 +66840,9 @@
 	<programme channel="newtv热播精选" start="20240612041700 +0800" stop="20240612050300 +0800">
 		<title lang="zh">42_古董局中局之掠宝清单</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240612050300 +0800" stop="20240612055000 +0800">
+		<title lang="zh">43_古董局中局之掠宝清单</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -66837,6 +66897,9 @@
 	<programme channel="newtv怡伴健康" start="20240612043900 +0800" stop="20240612050600 +0800">
 		<title lang="zh">风暴之子（三）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240612050600 +0800" stop="20240612053300 +0800">
+		<title lang="zh">海底万花筒——与珊瑚礁共生（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -66854,6 +66917,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240612042200 +0800" stop="20240612050300 +0800">
 		<title lang="zh">38_幸福照相馆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240612050300 +0800" stop="20240612054500 +0800">
+		<title lang="zh">39_幸福照相馆</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -66918,6 +66984,9 @@
 	<programme channel="newtv炫舞未来" start="20240612050100 +0800" stop="20240612050400 +0800">
 		<title lang="zh">火苗-李莹（舞蹈展示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240612051300 +0800" stop="20240612051800 +0800">
+		<title lang="zh">风含情水含笑-孙爱迪（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66932,6 +67001,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240612042200 +0800" stop="20240612050600 +0800">
 		<title lang="zh">11_雪豹坚强岁月</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240612050600 +0800" stop="20240612055000 +0800">
+		<title lang="zh">12_雪豹坚强岁月</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -67022,6 +67094,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240612043500 +0800" stop="20240612051200 +0800">
 		<title lang="zh">女子南拳</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240612051200 +0800" stop="20240612054600 +0800">
+		<title lang="zh">洲际次轻量级拳王争霸赛：罗梅罗VS拉米雷斯</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
