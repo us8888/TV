@@ -68706,6 +68706,9 @@
 	<programme channel="黑莓动画" start="20240613053400 +0800" stop="20240613060000 +0800">
 		<title lang="zh">03_雷欧奥特曼 重制版 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240613060000 +0800" stop="20240613062600 +0800">
+		<title lang="zh">04_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69216,6 +69219,9 @@
 	<programme channel="newtv超级综艺" start="20240613054200 +0800" stop="20240613055700 +0800">
 		<title lang="zh">文化十分</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240613055700 +0800" stop="20240613071400 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69230,6 +69236,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240613040000 +0800" stop="20240613060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 半决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240613060000 +0800" stop="20240613063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 4</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -69272,6 +69281,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240613050500 +0800" stop="20240613055400 +0800">
 		<title lang="zh">18_在希望的田野上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240613055400 +0800" stop="20240613063900 +0800">
+		<title lang="zh">19_在希望的田野上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -69432,6 +69444,9 @@
 	<programme channel="newtv热播精选" start="20240613051200 +0800" stop="20240613055700 +0800">
 		<title lang="zh">04_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240613055700 +0800" stop="20240613064300 +0800">
+		<title lang="zh">05_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -69494,6 +69509,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240613051900 +0800" stop="20240613054600 +0800">
 		<title lang="zh">动物的超级本领</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240613054600 +0800" stop="20240613061300 +0800">
+		<title lang="zh">荒野原生态——水的杰作（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -69614,6 +69632,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240613050600 +0800" stop="20240613055000 +0800">
 		<title lang="zh">16_雪豹坚强岁月</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240613055000 +0800" stop="20240613063400 +0800">
+		<title lang="zh">17_雪豹坚强岁月</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
