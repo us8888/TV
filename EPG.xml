@@ -66060,6 +66060,9 @@
 	<programme channel="黑莓动画" start="20240613040100 +0800" stop="20240613042300 +0800">
 		<title lang="zh">03_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240613042300 +0800" stop="20240613044500 +0800">
+		<title lang="zh">04_马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66738,6 +66741,9 @@
 	<programme channel="newtv热播精选" start="20240613034100 +0800" stop="20240613042600 +0800">
 		<title lang="zh">02_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240613042600 +0800" stop="20240613051200 +0800">
+		<title lang="zh">03_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -66782,6 +66788,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240613035800 +0800" stop="20240613042500 +0800">
 		<title lang="zh">保护栖息地——海豹的福地（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240613042500 +0800" stop="20240613045200 +0800">
+		<title lang="zh">花园里的童话（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -66864,6 +66873,9 @@
 	<programme channel="newtv炫舞未来" start="20240613035900 +0800" stop="20240613042400 +0800">
 		<title lang="zh">毛不易演唱歌曲《入海》（20240502）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240613042900 +0800" stop="20240613044500 +0800">
+		<title lang="zh">海那边的桃花开—毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66875,6 +66887,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240613033900 +0800" stop="20240613042200 +0800">
 		<title lang="zh">14_雪豹坚强岁月</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240613042200 +0800" stop="20240613050600 +0800">
+		<title lang="zh">15_雪豹坚强岁月</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
