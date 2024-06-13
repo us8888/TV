@@ -27390,6 +27390,9 @@
 	<programme channel="咪咕综合体育" start="20240614000000 +0800" stop="20240614021800 +0800">
 		<title lang="zh">23/24赛季CBA季后赛总决赛G4全场回放：新疆vs辽宁（杨健、西热力江、曾令旭）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240614021800 +0800" stop="20240614042700 +0800">
+		<title lang="zh">UFC精英之路第3季首轮第2日上半场回放（陈瑞阳、王聪）（50帧原画）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -65946,6 +65949,9 @@
 	<programme channel="黑莓电影" start="20240614005700 +0800" stop="20240614022700 +0800">
 		<title lang="zh">御前侍卫</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240614022700 +0800" stop="20240614042800 +0800">
+		<title lang="zh">老无所依</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -66441,6 +66447,9 @@
 	<programme channel="newtv超级体育" start="20240614013500 +0800" stop="20240614023600 +0800">
 		<title lang="zh">实况录像-2024年赛艇世界杯 瓦雷泽站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240614023600 +0800" stop="20240614040000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 决赛 多特蒙德-皇家马德里</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -66461,6 +66470,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240614020500 +0800" stop="20240614024600 +0800">
 		<title lang="zh">33_岁岁年年柿柿红</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240614024600 +0800" stop="20240614032800 +0800">
+		<title lang="zh">34_岁岁年年柿柿红</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -66516,6 +66528,9 @@
 	<programme channel="newtv军旅剧场" start="20240614014300 +0800" stop="20240614022400 +0800">
 		<title lang="zh">30_喋血长江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240614022400 +0800" stop="20240614030500 +0800">
+		<title lang="zh">31_喋血长江</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66527,6 +66542,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240614014200 +0800" stop="20240614022700 +0800">
 		<title lang="zh">02_淑女涩男</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240614022700 +0800" stop="20240614031200 +0800">
+		<title lang="zh">03_淑女涩男</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -66593,6 +66611,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240614020400 +0800" stop="20240614022600 +0800">
 		<title lang="zh">战地现场Ⅱb7纳粹秘密地堡（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240614022600 +0800" stop="20240614024800 +0800">
+		<title lang="zh">战地现场Ⅱb7纳粹秘密地堡（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
