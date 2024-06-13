@@ -69561,6 +69561,9 @@
 	<programme channel="newtv超级体育" start="20240614040000 +0800" stop="20240614060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年汤姆斯杯羽毛球赛 半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240614060000 +0800" stop="20240614063000 +0800">
+		<title lang="zh">赛事集锦-2024年射箭世界杯 醴泉站1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -69660,6 +69663,9 @@
 	<programme channel="newtv精品纪录" start="20240614050700 +0800" stop="20240614055600 +0800">
 		<title lang="zh">08_夜港航灯</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240614055600 +0800" stop="20240614064500 +0800">
+		<title lang="zh">01_小人物 大历史</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -69743,6 +69749,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240614051100 +0800" stop="20240614055100 +0800">
 		<title lang="zh">31_闪耀的她</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240614055100 +0800" stop="20240614063400 +0800">
+		<title lang="zh">32_闪耀的她</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -69828,6 +69837,9 @@
 	<programme channel="newtv怡伴健康" start="20240614052900 +0800" stop="20240614055600 +0800">
 		<title lang="zh">奇幻珊瑚礁——缤纷家园（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240614055600 +0800" stop="20240614080100 +0800">
+		<title lang="zh">京剧《棋盘山》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -69848,6 +69860,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240614050600 +0800" stop="20240614055200 +0800">
 		<title lang="zh">11_空巢姥爷</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240614055200 +0800" stop="20240614063800 +0800">
+		<title lang="zh">12_空巢姥爷</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
