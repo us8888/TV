@@ -71499,6 +71499,9 @@
 	<programme channel="newtv超级体育" start="20240615053000 +0800" stop="20240615060000 +0800">
 		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-塔什干站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240615060000 +0800" stop="20240615063000 +0800">
+		<title lang="zh">赛事集锦-2024年射箭世界杯 醴泉站2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71592,6 +71595,9 @@
 	<programme channel="newtv精品纪录" start="20240615045900 +0800" stop="20240615054800 +0800">
 		<title lang="zh">09_不屈之城</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240615054800 +0800" stop="20240615063800 +0800">
+		<title lang="zh">10_津门破晓</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71619,6 +71625,9 @@
 	<programme channel="newtv古装剧场" start="20240615051000 +0800" stop="20240615055500 +0800">
 		<title lang="zh">01_天地民心</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240615055500 +0800" stop="20240615064000 +0800">
+		<title lang="zh">02_天地民心</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -71645,6 +71654,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240615050300 +0800" stop="20240615054800 +0800">
 		<title lang="zh">15_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240615054800 +0800" stop="20240615063300 +0800">
+		<title lang="zh">16_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71727,6 +71739,9 @@
 	<programme channel="newtv动作电影" start="20240615042600 +0800" stop="20240615055300 +0800">
 		<title lang="zh">超级风暴</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240615055300 +0800" stop="20240615072200 +0800">
+		<title lang="zh">斗战苍穹</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -71759,6 +71774,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240615053200 +0800" stop="20240615055900 +0800">
 		<title lang="zh">灵长动物家园（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240615055900 +0800" stop="20240615080700 +0800">
+		<title lang="zh">评剧《闹严府》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71867,6 +71885,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240615053900 +0800" stop="20240615055600 +0800">
 		<title lang="zh">微风细雨-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240615055600 +0800" stop="20240615063600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -71990,6 +72011,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240615050900 +0800" stop="20240615055900 +0800">
 		<title lang="zh">超轻量级世界拳王争霸赛：普埃洛VS阿赫梅多夫</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240615055900 +0800" stop="20240615064200 +0800">
+		<title lang="zh">重量级过渡拳王争霸赛：乔伊斯VS帕克</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
