@@ -57579,6 +57579,9 @@
 	<programme channel="纯享4K" start="20240618015700 +0800" stop="20240618022600 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7咏春拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20240618022600 +0800" stop="20240618025600 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7白眉拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -68208,6 +68211,9 @@
 	<programme channel="黑莓动画" start="20240618021200 +0800" stop="20240618023600 +0800">
 		<title lang="zh">02_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240618023600 +0800" stop="20240618030100 +0800">
+		<title lang="zh">01_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68769,6 +68775,9 @@
 	<programme channel="newtv精品纪录" start="20240618015800 +0800" stop="20240618024300 +0800">
 		<title lang="zh">02_世上最蓝的海</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240618024300 +0800" stop="20240618033100 +0800">
+		<title lang="zh">01_尼罗河尖吻鲈</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -68777,6 +68786,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240618013700 +0800" stop="20240618022200 +0800">
 		<title lang="zh">56_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240618022200 +0800" stop="20240618030700 +0800">
+		<title lang="zh">57_少林寺传奇藏经阁</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -68790,6 +68802,9 @@
 	<programme channel="newtv军旅剧场" start="20240618014400 +0800" stop="20240618022500 +0800">
 		<title lang="zh">50_喋血长江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240618022500 +0800" stop="20240618030700 +0800">
+		<title lang="zh">51_喋血长江</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -68801,6 +68816,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240618014000 +0800" stop="20240618022400 +0800">
 		<title lang="zh">19_淑女涩男</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240618022400 +0800" stop="20240618030800 +0800">
+		<title lang="zh">20_淑女涩男</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -68838,6 +68856,9 @@
 	<programme channel="newtv怡伴健康" start="20240618014400 +0800" stop="20240618022900 +0800">
 		<title lang="zh">30_清平乐</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240618022900 +0800" stop="20240618031400 +0800">
+		<title lang="zh">31_清平乐</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -68846,6 +68867,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240618020000 +0800" stop="20240618024600 +0800">
 		<title lang="zh">31_空巢姥爷</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240618024600 +0800" stop="20240618033100 +0800">
+		<title lang="zh">32_空巢姥爷</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -68865,6 +68889,12 @@
 	<programme channel="newtv军事评论" start="20240618015900 +0800" stop="20240618022000 +0800">
 		<title lang="zh">轰炸战争（四）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240618022000 +0800" stop="20240618024200 +0800">
+		<title lang="zh">角逐地中海（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240618024200 +0800" stop="20240618030400 +0800">
+		<title lang="zh">角逐地中海（中）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -68876,6 +68906,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240618020100 +0800" stop="20240618021900 +0800">
 		<title lang="zh">秋水伊人-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240618022200 +0800" stop="20240618023500 +0800">
+		<title lang="zh">有位姑娘-璞玉</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240618023500 +0800" stop="20240618024700 +0800">
+		<title lang="zh">百花香-饶子龙</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -68895,11 +68931,17 @@
 	<programme channel="newtv惊悚悬疑" start="20240618012900 +0800" stop="20240618023800 +0800">
 		<title lang="zh">不能犯规的游戏之惊魂幻觉</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240618023800 +0800" stop="20240618041000 +0800">
+		<title lang="zh">六扇门之血虫谜案</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240618002200 +0800" stop="20240618023700 +0800">
 		<title lang="zh">新游记</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240618023700 +0800" stop="20240618033700 +0800">
+		<title lang="zh">艺览天下</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
