@@ -19002,6 +19002,81 @@
 	<programme channel="中国教育一套" start="20240619233000 +0800" stop="20240619235900 +0800">
 		<title lang="zh">等着我(57)</title>
 	</programme>
+	<channel id="中天新闻台">
+		<display-name lang="zh">中天新闻台</display-name>
+	</channel>
+	<programme channel="中天新闻台" start="20240619000000 +0800" stop="20240619010000 +0800">
+		<title lang="zh">18晚間新聞(重)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619010000 +0800" stop="20240619020000 +0800">
+		<title lang="zh">19晚間新聞(重)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619020000 +0800" stop="20240619030000 +0800">
+		<title lang="zh">頭條開講(重)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619030000 +0800" stop="20240619040000 +0800">
+		<title lang="zh">頭條開講(重)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619040000 +0800" stop="20240619050000 +0800">
+		<title lang="zh">中天SUPER夜線(重)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619050000 +0800" stop="20240619060000 +0800">
+		<title lang="zh">全球大視野(重)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619060000 +0800" stop="20240619070000 +0800">
+		<title lang="zh">06中天晨報(Live) </title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619070000 +0800" stop="20240619080000 +0800">
+		<title lang="zh">07中天晨報(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619080000 +0800" stop="20240619090000 +0800">
+		<title lang="zh">08中天晨報(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619090000 +0800" stop="20240619100000 +0800">
+		<title lang="zh">09中天新聞(Live) </title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619100000 +0800" stop="20240619110000 +0800">
+		<title lang="zh">10中天新聞(Live) </title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619110000 +0800" stop="20240619120000 +0800">
+		<title lang="zh">11中天新聞(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619120000 +0800" stop="20240619130000 +0800">
+		<title lang="zh">12午間新聞(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619130000 +0800" stop="20240619140000 +0800">
+		<title lang="zh">13午間新聞(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619140000 +0800" stop="20240619150000 +0800">
+		<title lang="zh">14大新聞大爆卦(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619150000 +0800" stop="20240619160000 +0800">
+		<title lang="zh">15大新聞大爆卦(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619160000 +0800" stop="20240619170000 +0800">
+		<title lang="zh">16中天新聞(Live) </title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619170000 +0800" stop="20240619180000 +0800">
+		<title lang="zh">17中天新聞(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619180000 +0800" stop="20240619190000 +0800">
+		<title lang="zh">18晚間新聞(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619190000 +0800" stop="20240619200000 +0800">
+		<title lang="zh">19晚間新聞(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619200000 +0800" stop="20240619210000 +0800">
+		<title lang="zh">20頭條開講(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619210000 +0800" stop="20240619220000 +0800">
+		<title lang="zh">21頭條開講(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619220000 +0800" stop="20240619230000 +0800">
+		<title lang="zh">22中天SUPER夜線(Live)</title>
+	</programme>
+	<programme channel="中天新闻台" start="20240619230000 +0800" stop="20240619235900 +0800">
+		<title lang="zh">23全球大視野(首)</title>
+	</programme>
 	<channel id="中央台–珠江">
 		<display-name lang="zh">中央台–珠江</display-name>
 	</channel>
@@ -66999,6 +67074,9 @@
 	<programme channel="黑莓动画" start="20240619003900 +0800" stop="20240619010200 +0800">
 		<title lang="zh">15_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240619010200 +0800" stop="20240619012700 +0800">
+		<title lang="zh">16_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67488,6 +67566,9 @@
 	<programme channel="newtv超级综艺" start="20240619002800 +0800" stop="20240619011300 +0800">
 		<title lang="zh">33_清平乐</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240619011300 +0800" stop="20240619015800 +0800">
+		<title lang="zh">34_清平乐</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -67599,6 +67680,9 @@
 	<programme channel="newtv爱情喜剧" start="20240619000800 +0800" stop="20240619011500 +0800">
 		<title lang="zh">天明神探之面具谜踪</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240619011500 +0800" stop="20240619023100 +0800">
+		<title lang="zh">最强王者</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -67646,6 +67730,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240619002200 +0800" stop="20240619011200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240619011200 +0800" stop="20240619023500 +0800">
+		<title lang="zh">恐怖游泳馆</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
