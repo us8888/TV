@@ -65940,6 +65940,9 @@
 	<programme channel="黑莓动画" start="20240620035900 +0800" stop="20240620042200 +0800">
 		<title lang="zh">17_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240620042200 +0800" stop="20240620044400 +0800">
+		<title lang="zh">18_马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65948,6 +65951,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240620014800 +0800" stop="20240620042100 +0800">
 		<title lang="zh">阮玲玉</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240620042100 +0800" stop="20240620061500 +0800">
+		<title lang="zh">红袖添香</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -66456,6 +66462,9 @@
 	<programme channel="newtv超级电影" start="20240620025900 +0800" stop="20240620043200 +0800">
 		<title lang="zh">红茶镇</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240620043200 +0800" stop="20240620061100 +0800">
+		<title lang="zh">龙威父子</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -66476,6 +66485,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240620034700 +0800" stop="20240620042900 +0800">
 		<title lang="zh">20_岁岁年年柿柿红</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240620042900 +0800" stop="20240620051000 +0800">
+		<title lang="zh">21_岁岁年年柿柿红</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -66585,6 +66597,9 @@
 	<programme channel="newtv家庭剧场" start="20240620041500 +0800" stop="20240620041800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240620041800 +0800" stop="20240620045800 +0800">
+		<title lang="zh">07_头号前妻</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -66611,6 +66626,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240620034100 +0800" stop="20240620042900 +0800">
 		<title lang="zh">21_蓝磨房</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240620042900 +0800" stop="20240620051900 +0800">
+		<title lang="zh">22_蓝磨房</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -66662,6 +66680,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240620033900 +0800" stop="20240620042500 +0800">
 		<title lang="zh">13_画眉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240620042500 +0800" stop="20240620051000 +0800">
+		<title lang="zh">14_画眉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -66731,6 +66752,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240620041500 +0800" stop="20240620042200 +0800">
 		<title lang="zh">第九期：用AI听懂世界的人</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240620043000 +0800" stop="20240620044300 +0800">
+		<title lang="zh">最真的梦-饶子龙（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
