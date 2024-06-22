@@ -73107,6 +73107,9 @@
 	<programme channel="newtv超级体育" start="20240623051500 +0800" stop="20240623060000 +0800">
 		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-帕拉约法利罗站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240623060000 +0800" stop="20240623063000 +0800">
+		<title lang="zh">赛事集锦-2024年三对三篮球奥运会资格赛-匈牙利站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73236,6 +73239,9 @@
 	<programme channel="newtv古装剧场" start="20240623051400 +0800" stop="20240623055900 +0800">
 		<title lang="zh">41_天地民心</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240623055900 +0800" stop="20240623064400 +0800">
+		<title lang="zh">42_天地民心</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -73259,6 +73265,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240623051000 +0800" stop="20240623055700 +0800">
 		<title lang="zh">16_最后的子弹</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240623055700 +0800" stop="20240623064400 +0800">
+		<title lang="zh">17_最后的子弹</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -73284,6 +73293,9 @@
 	<programme channel="newtv家庭剧场" start="20240623050600 +0800" stop="20240623054600 +0800">
 		<title lang="zh">22_头号前妻</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240623054600 +0800" stop="20240623062600 +0800">
+		<title lang="zh">23_头号前妻</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -73301,6 +73313,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240623050200 +0800" stop="20240623054800 +0800">
 		<title lang="zh">14_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240623054800 +0800" stop="20240623063400 +0800">
+		<title lang="zh">15_梦中的那片海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -73367,6 +73382,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240623052600 +0800" stop="20240623055300 +0800">
 		<title lang="zh">地球的野性家园</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240623055300 +0800" stop="20240623062000 +0800">
+		<title lang="zh">野生世界的回归（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -73475,6 +73493,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240623050100 +0800" stop="20240623054700 +0800">
 		<title lang="zh">17_光荣时代</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240623054700 +0800" stop="20240623063200 +0800">
+		<title lang="zh">18_光荣时代</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
