@@ -45642,6 +45642,9 @@
 	<programme channel="纯享4K" start="20240625022500 +0800" stop="20240625030400 +0800">
 		<title lang="zh">探索b7发现4K 守望长城 第3集 长城峥嵘铸脊梁</title>
 	</programme>
+	<programme channel="纯享4K" start="20240625030400 +0800" stop="20240625033100 +0800">
+		<title lang="zh">一带一路上的中国名片4K 第7集 文化b7民心相通</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -53991,6 +53994,9 @@
 	<programme channel="黑莓动画" start="20240625022800 +0800" stop="20240625025300 +0800">
 		<title lang="zh">03_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240625025300 +0800" stop="20240625032000 +0800">
+		<title lang="zh">04_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -54441,6 +54447,9 @@
 	<programme channel="newtv超级综艺" start="20240625015100 +0800" stop="20240625030800 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240625030800 +0800" stop="20240625042000 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -54456,6 +54465,9 @@
 	<programme channel="newtv超级电影" start="20240625011400 +0800" stop="20240625030100 +0800">
 		<title lang="zh">老师b7好</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240625030100 +0800" stop="20240625045600 +0800">
+		<title lang="zh">韩家军镖客</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -54467,6 +54479,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240625020500 +0800" stop="20240625025100 +0800">
 		<title lang="zh">08_大村官</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240625025100 +0800" stop="20240625033700 +0800">
+		<title lang="zh">09_大村官</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -54513,6 +54528,9 @@
 	<programme channel="newtv古装剧场" start="20240625021700 +0800" stop="20240625025400 +0800">
 		<title lang="zh">30_祈今朝</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240625025400 +0800" stop="20240625033400 +0800">
+		<title lang="zh">31_祈今朝</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -54524,6 +54542,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240625020300 +0800" stop="20240625025000 +0800">
 		<title lang="zh">32_爱在战火纷飞时</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240625025000 +0800" stop="20240625033600 +0800">
+		<title lang="zh">33_爱在战火纷飞时</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -54539,6 +54560,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240625021400 +0800" stop="20240625025900 +0800">
 		<title lang="zh">20_沃野飘香</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240625025900 +0800" stop="20240625034400 +0800">
+		<title lang="zh">21_沃野飘香</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -54558,6 +54582,9 @@
 	<programme channel="newtv爱情喜剧" start="20240625020000 +0800" stop="20240625031400 +0800">
 		<title lang="zh">太阳后裔的保镖</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240625031400 +0800" stop="20240625035400 +0800">
+		<title lang="zh">21_头号前妻</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -54566,6 +54593,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240625014200 +0800" stop="20240625030500 +0800">
 		<title lang="zh">绝对忠诚之国家利益</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240625030500 +0800" stop="20240625044500 +0800">
+		<title lang="zh">第一枪首杀</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -54591,6 +54621,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240625020600 +0800" stop="20240625024800 +0800">
 		<title lang="zh">03_我的博士老公</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240625024800 +0800" stop="20240625032900 +0800">
+		<title lang="zh">04_我的博士老公</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -54608,6 +54641,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240625022100 +0800" stop="20240625024700 +0800">
 		<title lang="zh">机密代号304</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240625024700 +0800" stop="20240625031400 +0800">
+		<title lang="zh">汽修老兵的装备乐园</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240625031400 +0800" stop="20240625034100 +0800">
+		<title lang="zh">直击“大洋黑洞” 上集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -54635,6 +54674,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240625013000 +0800" stop="20240625025300 +0800">
 		<title lang="zh">床下有人2</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240625025300 +0800" stop="20240625041900 +0800">
+		<title lang="zh">侠僧探案传奇之开封府</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
