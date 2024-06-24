@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20240625011200 +0800" stop="20240625024300 +0800">
 		<title lang="zh">我最爱的女人们20190628</title>
 	</programme>
+	<programme channel="4K综艺" start="20240625024300 +0800" stop="20240625032600 +0800">
+		<title lang="zh">我最爱的女人们20190629</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -23688,6 +23691,9 @@
 	<programme channel="咪咕综合体育" start="20240625020000 +0800" stop="20240625023000 +0800">
 		<title lang="zh">2024超三联赛武汉赛区半决赛及决赛Day2晚间场全场回放（字诚）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240625023000 +0800" stop="20240625053000 +0800">
+		<title lang="zh">欧洲杯 阿尔巴尼亚vs西班牙</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -45633,6 +45639,9 @@
 	<programme channel="纯享4K" start="20240625015500 +0800" stop="20240625022500 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7杭州（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240625022500 +0800" stop="20240625030400 +0800">
+		<title lang="zh">探索b7发现4K 守望长城 第3集 长城峥嵘铸脊梁</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -53979,6 +53988,9 @@
 	<programme channel="黑莓动画" start="20240625020500 +0800" stop="20240625022800 +0800">
 		<title lang="zh">04_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240625022800 +0800" stop="20240625025300 +0800">
+		<title lang="zh">03_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -54468,6 +54480,9 @@
 	<programme channel="newtv精品大剧" start="20240625015700 +0800" stop="20240625024100 +0800">
 		<title lang="zh">28_北国英雄</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240625024100 +0800" stop="20240625032400 +0800">
+		<title lang="zh">29_北国英雄</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -54480,6 +54495,9 @@
 	<programme channel="newtv精品纪录" start="20240625015300 +0800" stop="20240625024200 +0800">
 		<title lang="zh">大卫b7爱登堡 寻找自然之光</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240625024200 +0800" stop="20240625032900 +0800">
+		<title lang="zh">第5集：沙漠</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -54491,6 +54509,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240625013600 +0800" stop="20240625021700 +0800">
 		<title lang="zh">29_祈今朝</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240625021700 +0800" stop="20240625025400 +0800">
+		<title lang="zh">30_祈今朝</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -54558,6 +54579,9 @@
 	<programme channel="newtv怡伴健康" start="20240625015300 +0800" stop="20240625023800 +0800">
 		<title lang="zh">51_清平乐</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240625023800 +0800" stop="20240625032300 +0800">
+		<title lang="zh">52_清平乐</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -54582,11 +54606,17 @@
 	<programme channel="newtv军事评论" start="20240625015400 +0800" stop="20240625022100 +0800">
 		<title lang="zh">探访飞虎队洞中指挥所</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240625022100 +0800" stop="20240625024700 +0800">
+		<title lang="zh">机密代号304</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20240625004200 +0800" stop="20240625023100 +0800">
 		<title lang="zh">国家宝藏 第四季（20240622）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240625023100 +0800" stop="20240625033200 +0800">
+		<title lang="zh">萌娃脑洞大开提出“超纲”问题 资深大人“离谱解答”（20240621）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -54617,6 +54647,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20240625004300 +0800" stop="20240625022300 +0800">
 		<title lang="zh">2023-24赛季欧冠半决赛首回合：多特蒙德VS巴黎圣日耳曼</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240625022300 +0800" stop="20240625035900 +0800">
+		<title lang="zh">2023-24赛季欧冠半决赛次回合：巴黎圣日耳曼VS多特蒙德</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
