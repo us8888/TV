@@ -45957,6 +45957,9 @@
 	<programme channel="明星大片" start="20240626111700 +0800" stop="20240626120500 +0800">
 		<title lang="zh">50_有翡</title>
 	</programme>
+	<programme channel="明星大片" start="20240626120500 +0800" stop="20240626124400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -76164,6 +76167,9 @@
 	<programme channel="黑莓动画" start="20240626120000 +0800" stop="20240626121200 +0800">
 		<title lang="zh">百变布鲁可第4季第10集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240626121200 +0800" stop="20240626122500 +0800">
+		<title lang="zh">09_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76193,6 +76199,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240626103800 +0800" stop="20240626121200 +0800">
 		<title lang="zh">远去的牧歌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240626121200 +0800" stop="20240626132600 +0800">
+		<title lang="zh">购物女王</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -77139,6 +77148,9 @@
 	<programme channel="newtv超级电视剧" start="20240626113200 +0800" stop="20240626121200 +0800">
 		<title lang="zh">19_娘亲舅大</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240626121200 +0800" stop="20240626125300 +0800">
+		<title lang="zh">20_娘亲舅大</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -77637,6 +77649,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240626115600 +0800" stop="20240626121300 +0800">
 		<title lang="zh">柳州螺蛳粉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240626121300 +0800" stop="20240626122800 +0800">
+		<title lang="zh">宾阳酸粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -77828,6 +77843,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240626111700 +0800" stop="20240626120500 +0800">
 		<title lang="zh">50_有翡</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240626120500 +0800" stop="20240626124400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
