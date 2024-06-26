@@ -31524,6 +31524,9 @@
 	<programme channel="咪咕综合体育" start="20240626142000 +0800" stop="20240626160800 +0800">
 		<title lang="zh">2024NBL全国男子篮球联赛常规赛第1轮全场回放：武汉锟鹏vs长沙湾田勇胜（现场解说）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240626160800 +0800" stop="20240626182800 +0800">
+		<title lang="zh">2024NBL全国男子篮球联赛常规赛第1轮全场回放：江西赣驰vs香港金牛（现场解说）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -33069,11 +33072,26 @@
 	<programme channel="国会频道1" start="20240626084700 +0800" stop="20240626090000 +0800">
 		<title lang="zh">週三會議預報</title>
 	</programme>
-	<programme channel="国会频道1" start="20240626090000 +0800" stop="20240626180000 +0800">
+	<programme channel="国会频道1" start="20240626090000 +0800" stop="20240626141100 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道1" start="20240626180000 +0800" stop="20240626235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道1" start="20240626141100 +0800" stop="20240626141600 +0800">
+		<title lang="zh">週三會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240626141600 +0800" stop="20240626172300 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240626172300 +0800" stop="20240626172800 +0800">
+		<title lang="zh">週三會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240626172800 +0800" stop="20240626204700 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240626204700 +0800" stop="20240626235300 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240626235300 +0800" stop="20240626235900 +0800">
+		<title lang="zh">黨團協商</title>
 	</programme>
 	<channel id="国会频道2">
 		<display-name lang="zh">国会频道2</display-name>
@@ -33096,11 +33114,23 @@
 	<programme channel="国会频道2" start="20240626084700 +0800" stop="20240626090000 +0800">
 		<title lang="zh">週三會議預報</title>
 	</programme>
-	<programme channel="国会频道2" start="20240626090000 +0800" stop="20240626180000 +0800">
+	<programme channel="国会频道2" start="20240626090000 +0800" stop="20240626130400 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20240626180000 +0800" stop="20240626235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道2" start="20240626130400 +0800" stop="20240626130900 +0800">
+		<title lang="zh">週三會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240626130900 +0800" stop="20240626164900 +0800">
+		<title lang="zh">教育及文化委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240626164900 +0800" stop="20240626165400 +0800">
+		<title lang="zh">週三會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240626165400 +0800" stop="20240626203200 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240626203200 +0800" stop="20240626235900 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -58788,6 +58818,9 @@
 	<programme channel="爱情喜剧" start="20240626152400 +0800" stop="20240626161300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240626161300 +0800" stop="20240626173800 +0800">
+		<title lang="zh">约会大师之爱在响螺湾</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63800,6 +63833,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240626151800 +0800" stop="20240626160700 +0800">
 		<title lang="zh">乐享汇4K “声动青春”演唱会</title>
+	</programme>
+	<programme channel="纯享4K" start="20240626160700 +0800" stop="20240626163700 +0800">
+		<title lang="zh">记住乡愁4K第七季 第八集 荆州——铁肩担家国的荆楚传奇（上）</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -76296,6 +76332,9 @@
 	<programme channel="黑莓动画" start="20240626154400 +0800" stop="20240626160700 +0800">
 		<title lang="zh">29_蟋蟀大格斗</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240626160700 +0800" stop="20240626163100 +0800">
+		<title lang="zh">30_这个冬天太冷了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77181,6 +77220,9 @@
 	<programme channel="newtv超级综艺" start="20240626143300 +0800" stop="20240626161000 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240626161000 +0800" stop="20240626172700 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -77478,6 +77520,9 @@
 	<programme channel="newtv精品纪录" start="20240626153100 +0800" stop="20240626161200 +0800">
 		<title lang="zh">第6集：达基亚战争</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240626161200 +0800" stop="20240626170200 +0800">
+		<title lang="zh">粤流行 上</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -77612,6 +77657,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240626152100 +0800" stop="20240626160600 +0800">
 		<title lang="zh">02_对与决</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240626160600 +0800" stop="20240626165000 +0800">
+		<title lang="zh">03_对与决</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -77792,6 +77840,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240626152400 +0800" stop="20240626161300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240626161300 +0800" stop="20240626173800 +0800">
+		<title lang="zh">约会大师之爱在响螺湾</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -78176,6 +78227,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240626155100 +0800" stop="20240626160600 +0800">
 		<title lang="zh">踏着歌声来见你-応子（完整教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240626160600 +0800" stop="20240626161700 +0800">
+		<title lang="zh">阳光彩虹小白马-金洋（完整教学）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
