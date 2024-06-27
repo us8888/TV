@@ -60954,6 +60954,9 @@
 	<programme channel="newtv超级电影" start="20240628013800 +0800" stop="20240628031400 +0800">
 		<title lang="zh">我的“狐朋狗友”</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240628031400 +0800" stop="20240628034800 +0800">
+		<title lang="zh">守卫者（上）</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -61001,6 +61004,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240628023100 +0800" stop="20240628025600 +0800">
 		<title lang="zh">06_问道</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240628025600 +0800" stop="20240628035400 +0800">
+		<title lang="zh">第3集：狮子守卫家园</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -61062,6 +61068,9 @@
 	<programme channel="newtv爱情喜剧" start="20240628005800 +0800" stop="20240628025900 +0800">
 		<title lang="zh">极速冰锋</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240628025900 +0800" stop="20240628043800 +0800">
+		<title lang="zh">爱未央</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61070,6 +61079,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240628012800 +0800" stop="20240628025600 +0800">
 		<title lang="zh">鲨卷风3</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240628025600 +0800" stop="20240628041400 +0800">
+		<title lang="zh">兵临城下-虎贲</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61094,6 +61106,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240628021200 +0800" stop="20240628025300 +0800">
 		<title lang="zh">21_我的博士老公</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240628025300 +0800" stop="20240628033500 +0800">
+		<title lang="zh">22_我的博士老公</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61125,6 +61140,9 @@
 	<programme channel="newtv炫舞未来" start="20240628015500 +0800" stop="20240628025500 +0800">
 		<title lang="zh">选对健康（20240625）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240628025800 +0800" stop="20240628030200 +0800">
+		<title lang="zh">野狼DISCO-毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -61148,6 +61166,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240628001500 +0800" stop="20240628032000 +0800">
 		<title lang="zh">少年行</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240628032000 +0800" stop="20240628060300 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
