@@ -45504,6 +45504,9 @@
 	<programme channel="明星大片" start="20240627093500 +0800" stop="20240627101300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="明星大片" start="20240627101300 +0800" stop="20240627105500 +0800">
+		<title lang="zh">03_花琉璃轶闻</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -78300,6 +78303,9 @@
 	<programme channel="黑莓动画" start="20240627095100 +0800" stop="20240627100400 +0800">
 		<title lang="zh">05_百变校巴8</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240627100400 +0800" stop="20240627101800 +0800">
+		<title lang="zh">06_百变校巴8</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79344,6 +79350,9 @@
 	<programme channel="newtv精品大剧" start="20240627092400 +0800" stop="20240627100800 +0800">
 		<title lang="zh">40_警犬来啦</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240627100800 +0800" stop="20240627105200 +0800">
+		<title lang="zh">41_警犬来啦</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79563,6 +79572,9 @@
 	<programme channel="newtv热播精选" start="20240627093200 +0800" stop="20240627101300 +0800">
 		<title lang="zh">10_新白蛇传</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240627101300 +0800" stop="20240627105500 +0800">
+		<title lang="zh">11_新白蛇传</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79764,6 +79776,9 @@
 	<programme channel="newtv军事评论" start="20240627095000 +0800" stop="20240627101200 +0800">
 		<title lang="zh">“惩戒行动”始末b7万事俱备</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240627101200 +0800" stop="20240627103400 +0800">
+		<title lang="zh">“惩戒行动”始末b7大功告成</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79868,6 +79883,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240627093500 +0800" stop="20240627101300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240627101300 +0800" stop="20240627105500 +0800">
+		<title lang="zh">03_花琉璃轶闻</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -79997,6 +80015,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240627091300 +0800" stop="20240627100300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240627100300 +0800" stop="20240627104800 +0800">
+		<title lang="zh">31_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
