@@ -78342,6 +78342,12 @@
 	<programme channel="黑莓动画" start="20240627110400 +0800" stop="20240627111800 +0800">
 		<title lang="zh">05_钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240627111800 +0800" stop="20240627113100 +0800">
+		<title lang="zh">06_钶龙战记</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240627113100 +0800" stop="20240627114200 +0800">
+		<title lang="zh">百变布鲁可第4季第11集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79512,6 +79518,9 @@
 	<programme channel="newtv古装剧场" start="20240627103800 +0800" stop="20240627112300 +0800">
 		<title lang="zh">13_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240627112300 +0800" stop="20240627120800 +0800">
+		<title lang="zh">14_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79877,6 +79886,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240627105500 +0800" stop="20240627111700 +0800">
 		<title lang="zh">“惩戒行动”始末b7秘密中队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240627111700 +0800" stop="20240627113900 +0800">
+		<title lang="zh">“惩戒行动”始末b7绝密任务</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
