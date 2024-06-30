@@ -68748,6 +68748,9 @@
 	<programme channel="黑莓动画" start="20240701053100 +0800" stop="20240701055700 +0800">
 		<title lang="zh">39_雷欧奥特曼 重制版 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240701055700 +0800" stop="20240701062300 +0800">
+		<title lang="zh">40_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68759,6 +68762,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240701041100 +0800" stop="20240701060000 +0800">
 		<title lang="zh">夏威夷男孩</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240701060000 +0800" stop="20240701080400 +0800">
+		<title lang="zh">反抗军</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -69363,6 +69369,9 @@
 	<programme channel="newtv超级体育" start="20240701021500 +0800" stop="20240701060000 +0800">
 		<title lang="zh">2024欧洲杯足球赛-1/8决赛 西班牙 vs 格鲁吉亚</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240701060000 +0800" stop="20240701063000 +0800">
+		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-帕拉约法利罗站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -69404,6 +69413,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240701052300 +0800" stop="20240701060900 +0800">
 		<title lang="zh">35_光荣时代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240701060900 +0800" stop="20240701065400 +0800">
+		<title lang="zh">36_光荣时代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -69456,6 +69468,9 @@
 	<programme channel="newtv精品纪录" start="20240701052300 +0800" stop="20240701055400 +0800">
 		<title lang="zh">04_追寻</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240701055400 +0800" stop="20240701062600 +0800">
+		<title lang="zh">11_我的抗战：雾都茫茫</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -69506,6 +69521,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240701050700 +0800" stop="20240701055300 +0800">
 		<title lang="zh">30_英雄戟</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240701055300 +0800" stop="20240701063800 +0800">
+		<title lang="zh">31_英雄戟</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -69621,6 +69639,9 @@
 	<programme channel="newtv怡伴健康" start="20240701052700 +0800" stop="20240701055400 +0800">
 		<title lang="zh">花园里的动物邻居（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240701055400 +0800" stop="20240701081500 +0800">
+		<title lang="zh">秦腔《三娘教子》合集</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -69689,6 +69710,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240701053800 +0800" stop="20240701060000 +0800">
 		<title lang="zh">俄乌冲突中的高空侦察机</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240701060000 +0800" stop="20240701062200 +0800">
+		<title lang="zh">俄乌冲突二周年观察 “陆战之王”路在何方</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
