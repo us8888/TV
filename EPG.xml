@@ -55323,6 +55323,9 @@
 	<programme channel="纯享4K" start="20240701015700 +0800" stop="20240701023700 +0800">
 		<title lang="zh">探索b7发现4K 寻找霸陵（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240701023700 +0800" stop="20240701032200 +0800">
+		<title lang="zh">传承b7智慧篇4K 第5集 美学之码</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65556,6 +65559,9 @@
 	<programme channel="黑莓动画" start="20240701021300 +0800" stop="20240701023600 +0800">
 		<title lang="zh">04_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240701023600 +0800" stop="20240701030300 +0800">
+		<title lang="zh">03_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66183,6 +66189,9 @@
 	<programme channel="newtv超级电视剧" start="20240701015700 +0800" stop="20240701023800 +0800">
 		<title lang="zh">01_刘老根3</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240701023800 +0800" stop="20240701031500 +0800">
+		<title lang="zh">02_刘老根3</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -66191,6 +66200,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240701013000 +0800" stop="20240701021600 +0800">
 		<title lang="zh">12_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240701021600 +0800" stop="20240701030200 +0800">
+		<title lang="zh">13_幸福来敲门</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -66204,6 +66216,9 @@
 	<programme channel="newtv精品纪录" start="20240701013500 +0800" stop="20240701022500 +0800">
 		<title lang="zh">02_斜阳寒草带重门</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240701022500 +0800" stop="20240701031400 +0800">
+		<title lang="zh">03_天气</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66215,6 +66230,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240701014200 +0800" stop="20240701022800 +0800">
 		<title lang="zh">23_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240701022800 +0800" stop="20240701031400 +0800">
+		<title lang="zh">24_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -66240,6 +66258,9 @@
 	<programme channel="newtv家庭剧场" start="20240701013700 +0800" stop="20240701022100 +0800">
 		<title lang="zh">23_遍地书香</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240701022100 +0800" stop="20240701030400 +0800">
+		<title lang="zh">24_遍地书香</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -66254,6 +66275,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20240701003000 +0800" stop="20240701023300 +0800">
 		<title lang="zh">威尼斯早晨</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240701023300 +0800" stop="20240701041200 +0800">
+		<title lang="zh">相亲大作战</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -66275,6 +66299,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240701014100 +0800" stop="20240701022700 +0800">
 		<title lang="zh">69_清平乐</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240701022700 +0800" stop="20240701031200 +0800">
+		<title lang="zh">01_大村官</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -66302,6 +66329,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240701020000 +0800" stop="20240701022500 +0800">
 		<title lang="zh">挺进“孤岛”——直击广东防汛抗洪一线</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240701022500 +0800" stop="20240701025100 +0800">
+		<title lang="zh">探秘海外维和一线</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -66335,6 +66365,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240701004700 +0800" stop="20240701022500 +0800">
 		<title lang="zh">少年行</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240701022500 +0800" stop="20240701044300 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
